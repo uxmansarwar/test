@@ -1,0 +1,6 @@
+we are gonna run this test in separate browser.
+this test will conduct be 1.1.1.1 wrap on.
+
+we use a different instagram id for this test.
+
+keep har file in .cache directory
