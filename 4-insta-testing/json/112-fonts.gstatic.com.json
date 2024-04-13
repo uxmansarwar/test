@@ -1,0 +1,149 @@
+{
+    "_fromCache": "memory",
+    "_initiator": {
+        "type": "parser",
+        "url": "https:\/\/www.google.com\/recaptcha\/api2\/bframe?hl=en&v=rz4DvU-cY2JYCwHSTck0_qm-&k=6Lc9qjcUAAAAADTnJq5kJMjN9aD1lxpRLMnCS2TR",
+        "lineNumber": 185
+    },
+    "_priority": "VeryHigh",
+    "_resourceType": "font",
+    "cache": [],
+    "connection": "190057",
+    "request": {
+        "method": "GET",
+        "url": "https:\/\/fonts.gstatic.com\/s\/roboto\/v18\/KFOmCnqEu92Fr1Mu4mxK.woff2",
+        "httpVersion": "http\/2.0",
+        "headers": [
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Google Chrome\";v=\"123\", \"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"123\""
+            },
+            {
+                "name": "Referer",
+                "value": "https:\/\/www.google.com\/"
+            },
+            {
+                "name": "Origin",
+                "value": "https:\/\/www.google.com"
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "User-Agent",
+                "value": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/123.0.0.0 Safari\/537.36"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+            }
+        ],
+        "queryString": [],
+        "cookies": [],
+        "headersSize": -1,
+        "bodySize": 0
+    },
+    "response": {
+        "status": 200,
+        "statusText": "",
+        "httpVersion": "http\/2.0",
+        "headers": [
+            {
+                "name": "date",
+                "value": "Wed, 10 Apr 2024 16:44:16 GMT"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "age",
+                "value": "168072"
+            },
+            {
+                "name": "content-security-policy-report-only",
+                "value": "require-trusted-types-for 'script'; report-uri https:\/\/csp.withgoogle.com\/csp\/apps-themes"
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+            },
+            {
+                "name": "content-length",
+                "value": "15344"
+            },
+            {
+                "name": "x-xss-protection",
+                "value": "0"
+            },
+            {
+                "name": "last-modified",
+                "value": "Mon, 16 Oct 2017 17:32:55 GMT"
+            },
+            {
+                "name": "server",
+                "value": "sffe"
+            },
+            {
+                "name": "cross-origin-opener-policy",
+                "value": "same-origin; report-to=\"apps-themes\""
+            },
+            {
+                "name": "report-to",
+                "value": "{\"group\":\"apps-themes\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https:\/\/csp.withgoogle.com\/csp\/report-to\/apps-themes\"}]}"
+            },
+            {
+                "name": "content-type",
+                "value": "font\/woff2"
+            },
+            {
+                "name": "access-control-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "cache-control",
+                "value": "public, max-age=31536000"
+            },
+            {
+                "name": "accept-ranges",
+                "value": "bytes"
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "expires",
+                "value": "Thu, 10 Apr 2025 16:44:16 GMT"
+            }
+        ],
+        "cookies": [],
+        "content": {
+            "size": 15344,
+            "mimeType": "font\/woff2"
+        },
+        "redirectURL": "",
+        "headersSize": -1,
+        "bodySize": 0,
+        "_transferSize": 0,
+        "_error": null
+    },
+    "serverIPAddress": "[2a00:1450:4006:812::2003]",
+    "startedDateTime": "2024-04-12T15:25:27.837Z",
+    "time": 0.29600000561913475,
+    "timings": {
+        "blocked": -1,
+        "dns": -1,
+        "ssl": -1,
+        "connect": -1,
+        "send": 0,
+        "wait": 0.2520000052754767,
+        "receive": 0.04400000034365803,
+        "_blocked_queueing": -1
+    }
+}

@@ -1,0 +1,192 @@
+{
+    "_initiator": {
+        "type": "parser",
+        "url": "https:\/\/www.google.com\/recaptcha\/api2\/anchor?ar=1&k=6Lc9qjcUAAAAADTnJq5kJMjN9aD1lxpRLMnCS2TR&co=aHR0cHM6Ly93d3cuZmJzYnguY29tOjQ0Mw..&hl=en&v=rz4DvU-cY2JYCwHSTck0_qm-&theme=light&size=normal&cb=gun01ytbr47w",
+        "lineNumber": 183
+    },
+    "_priority": "VeryLow",
+    "_resourceType": "font",
+    "cache": [],
+    "connection": "190057",
+    "request": {
+        "method": "GET",
+        "url": "https:\/\/fonts.gstatic.com\/s\/roboto\/v18\/KFOmCnqEu92Fr1Mu4mxK.woff2",
+        "httpVersion": "http\/2.0",
+        "headers": [
+            {
+                "name": ":authority",
+                "value": "fonts.gstatic.com"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "\/s\/roboto\/v18\/KFOmCnqEu92Fr1Mu4mxK.woff2"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "*\/*"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br, zstd"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "origin",
+                "value": "https:\/\/www.google.com"
+            },
+            {
+                "name": "referer",
+                "value": "https:\/\/www.google.com\/"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Google Chrome\";v=\"123\", \"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"123\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "font"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "cross-site"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/123.0.0.0 Safari\/537.36"
+            },
+            {
+                "name": "x-client-data",
+                "value": "CJO2yQEIorbJAQipncoBCIqMywEIlaHLAQjxmM0BCIWgzQEY2IbOAQ=="
+            }
+        ],
+        "queryString": [],
+        "cookies": [],
+        "headersSize": -1,
+        "bodySize": 0
+    },
+    "response": {
+        "status": 200,
+        "statusText": "",
+        "httpVersion": "http\/2.0",
+        "headers": [
+            {
+                "name": "accept-ranges",
+                "value": "bytes"
+            },
+            {
+                "name": "access-control-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "age",
+                "value": "168072"
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+            },
+            {
+                "name": "cache-control",
+                "value": "public, max-age=31536000"
+            },
+            {
+                "name": "content-length",
+                "value": "15344"
+            },
+            {
+                "name": "content-security-policy-report-only",
+                "value": "require-trusted-types-for 'script'; report-uri https:\/\/csp.withgoogle.com\/csp\/apps-themes"
+            },
+            {
+                "name": "content-type",
+                "value": "font\/woff2"
+            },
+            {
+                "name": "cross-origin-opener-policy",
+                "value": "same-origin; report-to=\"apps-themes\""
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "date",
+                "value": "Wed, 10 Apr 2024 16:44:16 GMT"
+            },
+            {
+                "name": "expires",
+                "value": "Thu, 10 Apr 2025 16:44:16 GMT"
+            },
+            {
+                "name": "last-modified",
+                "value": "Mon, 16 Oct 2017 17:32:55 GMT"
+            },
+            {
+                "name": "report-to",
+                "value": "{\"group\":\"apps-themes\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https:\/\/csp.withgoogle.com\/csp\/report-to\/apps-themes\"}]}"
+            },
+            {
+                "name": "server",
+                "value": "sffe"
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "x-xss-protection",
+                "value": "0"
+            }
+        ],
+        "cookies": [],
+        "content": {
+            "size": 15344,
+            "mimeType": "font\/woff2"
+        },
+        "redirectURL": "",
+        "headersSize": -1,
+        "bodySize": -1,
+        "_transferSize": 15877,
+        "_error": null
+    },
+    "serverIPAddress": "[2a00:1450:4006:812::2003]",
+    "startedDateTime": "2024-04-12T15:25:26.602Z",
+    "time": 884.6690000021631,
+    "timings": {
+        "blocked": 279.94000000051267,
+        "dns": 0.033999999999991815,
+        "ssl": 169.76099999999997,
+        "connect": 315.023,
+        "send": 0.4630000000000223,
+        "wait": 148.83499999931126,
+        "receive": 140.37400000233902,
+        "_blocked_queueing": 95.2130000005127
+    }
+}

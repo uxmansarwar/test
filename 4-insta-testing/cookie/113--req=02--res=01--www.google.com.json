@@ -1,0 +1,36 @@
+{
+    "request": [
+        {
+            "name": "1P_JAR",
+            "value": "2024-04-12-12",
+            "path": "\/",
+            "domain": ".google.com",
+            "expires": "2024-05-12T12:49:06.016Z",
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "NID",
+            "value": "513=CvK328nt99o71E4YTe4RZd7b0_zqju8JM8YmSVd3uqX44iB5Nx1i-FYzgry7gBFickjzf2AxSBoTDmvDN7Lan6RjFM22pUHuIxpsefGopS_A4cK8qgqlfyxEuWH1_UY8B3ruUXL-hV_wDHvVl4ONyxlY6jHISOiXfv-ihcpgWqyWPtYHkU6rdz5mj5v1bGzAKTAH5K4XhZs",
+            "path": "\/",
+            "domain": ".google.com",
+            "expires": "2024-10-12T12:46:59.462Z",
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        }
+    ],
+    "response": [
+        {
+            "name": "_GRECAPTCHA",
+            "value": "09AGh-wNQVH0b7eioRP0moycphWsqNkm9dU-5GV4JltfxqqJTrkLmEE8sIiJrs3g50lFkT5Sk4iQMOBQl6vyleoW8",
+            "path": "\/recaptcha",
+            "domain": "www.google.com",
+            "expires": "2024-10-09T15:25:30.000Z",
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "none"
+        }
+    ]
+}

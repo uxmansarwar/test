@@ -1,0 +1,71 @@
+{
+    "request": [
+        {
+            "name": "csrftoken",
+            "value": "NBLM2P3stCsL7v518z0H6d",
+            "path": "\/",
+            "domain": ".instagram.com",
+            "expires": "2025-04-11T15:25:20.768Z",
+            "httpOnly": false,
+            "secure": true
+        },
+        {
+            "name": "mid",
+            "value": "ZhlSHgALAAHXOkMjd_FCXayGWoRG",
+            "path": "\/",
+            "domain": ".instagram.com",
+            "expires": "2025-05-17T15:24:16.000Z",
+            "httpOnly": false,
+            "secure": true
+        },
+        {
+            "name": "ig_did",
+            "value": "32D4350A-5584-42AC-B558-67443413C3A4",
+            "path": "\/",
+            "domain": ".instagram.com",
+            "expires": "2025-04-12T15:25:16.426Z",
+            "httpOnly": true,
+            "secure": true
+        },
+        {
+            "name": "datr",
+            "value": "HlIZZr1hsxu8d3Emw3GZbhy5",
+            "path": "\/",
+            "domain": ".instagram.com",
+            "expires": "2025-05-17T15:24:17.461Z",
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "ig_nrcb",
+            "value": "1",
+            "path": "\/",
+            "domain": ".instagram.com",
+            "expires": "2025-04-12T15:25:16.426Z",
+            "httpOnly": false,
+            "secure": true
+        },
+        {
+            "name": "ps_l",
+            "value": "0",
+            "path": "\/",
+            "domain": ".instagram.com",
+            "expires": "2025-05-17T15:25:16.766Z",
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "ps_n",
+            "value": "0",
+            "path": "\/",
+            "domain": ".instagram.com",
+            "expires": "2025-05-17T15:25:16.766Z",
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        }
+    ],
+    "response": []
+}

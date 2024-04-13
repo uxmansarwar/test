@@ -1,0 +1,149 @@
+{
+    "_fromCache": "disk",
+    "_initiator": {
+        "type": "script",
+        "stack": {
+            "callFrames": [
+                {
+                    "functionName": "",
+                    "scriptId": "3",
+                    "url": "https:\/\/www.google.com\/recaptcha\/api2\/webworker.js?hl=en&v=rz4DvU-cY2JYCwHSTck0_qm-",
+                    "lineNumber": 0,
+                    "columnNumber": 0
+                }
+            ],
+            "parentId": {
+                "id": "6",
+                "debuggerId": "283146226759094734.8872996386766431516"
+            }
+        }
+    },
+    "_priority": "VeryHigh",
+    "_resourceType": "other",
+    "cache": [],
+    "request": {
+        "method": "GET",
+        "url": "https:\/\/www.gstatic.com\/recaptcha\/releases\/rz4DvU-cY2JYCwHSTck0_qm-\/recaptcha__en.js",
+        "httpVersion": "h3",
+        "headers": [
+            {
+                "name": "Referer",
+                "value": "https:\/\/www.google.com\/"
+            },
+            {
+                "name": "User-Agent",
+                "value": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/123.0.0.0 Safari\/537.36"
+            }
+        ],
+        "queryString": [],
+        "cookies": [],
+        "headersSize": -1,
+        "bodySize": 0
+    },
+    "response": {
+        "status": 200,
+        "statusText": "",
+        "httpVersion": "h3",
+        "headers": [
+            {
+                "name": "date",
+                "value": "Wed, 10 Apr 2024 23:16:43 GMT"
+            },
+            {
+                "name": "content-encoding",
+                "value": "gzip"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "age",
+                "value": "144524"
+            },
+            {
+                "name": "content-security-policy-report-only",
+                "value": "require-trusted-types-for 'script'; report-uri https:\/\/csp.withgoogle.com\/csp\/recaptcha"
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+            },
+            {
+                "name": "content-length",
+                "value": "203369"
+            },
+            {
+                "name": "x-xss-protection",
+                "value": "0"
+            },
+            {
+                "name": "last-modified",
+                "value": "Fri, 29 Mar 2024 04:30:36 GMT"
+            },
+            {
+                "name": "server",
+                "value": "sffe"
+            },
+            {
+                "name": "cross-origin-opener-policy",
+                "value": "same-origin-allow-popups; report-to=\"recaptcha\""
+            },
+            {
+                "name": "vary",
+                "value": "Accept-Encoding"
+            },
+            {
+                "name": "report-to",
+                "value": "{\"group\":\"recaptcha\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https:\/\/csp.withgoogle.com\/csp\/report-to\/recaptcha\"}]}"
+            },
+            {
+                "name": "content-type",
+                "value": "text\/javascript"
+            },
+            {
+                "name": "access-control-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "cache-control",
+                "value": "public, max-age=31536000"
+            },
+            {
+                "name": "accept-ranges",
+                "value": "bytes"
+            },
+            {
+                "name": "expires",
+                "value": "Thu, 10 Apr 2025 23:16:43 GMT"
+            }
+        ],
+        "cookies": [],
+        "content": {
+            "size": 510578,
+            "mimeType": "text\/javascript"
+        },
+        "redirectURL": "",
+        "headersSize": -1,
+        "bodySize": 0,
+        "_transferSize": 0,
+        "_error": null
+    },
+    "serverIPAddress": "[2a00:1450:4006:80c::2003]",
+    "startedDateTime": "2024-04-12T15:25:26.921Z",
+    "time": 19.63899999827845,
+    "timings": {
+        "blocked": 9.001999999529216,
+        "dns": -1,
+        "ssl": -1,
+        "connect": -1,
+        "send": 0,
+        "wait": 0.7550000002793967,
+        "receive": 9.881999998469837,
+        "_blocked_queueing": 8.831999999529216
+    }
+}

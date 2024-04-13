@@ -1,0 +1,181 @@
+{
+    "request": [
+        {
+            "name": "csrftoken",
+            "value": "NBLM2P3stCsL7v518z0H6d",
+            "path": "\/",
+            "domain": ".instagram.com",
+            "expires": "2025-04-11T15:25:20.768Z",
+            "httpOnly": false,
+            "secure": true
+        },
+        {
+            "name": "mid",
+            "value": "ZhlSHgALAAHXOkMjd_FCXayGWoRG",
+            "path": "\/",
+            "domain": ".instagram.com",
+            "expires": "2025-05-17T15:24:16.000Z",
+            "httpOnly": false,
+            "secure": true
+        },
+        {
+            "name": "ig_did",
+            "value": "32D4350A-5584-42AC-B558-67443413C3A4",
+            "path": "\/",
+            "domain": ".instagram.com",
+            "expires": "2025-04-12T15:25:16.426Z",
+            "httpOnly": true,
+            "secure": true
+        },
+        {
+            "name": "datr",
+            "value": "HlIZZr1hsxu8d3Emw3GZbhy5",
+            "path": "\/",
+            "domain": ".instagram.com",
+            "expires": "2025-05-17T15:24:17.461Z",
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "ig_nrcb",
+            "value": "1",
+            "path": "\/",
+            "domain": ".instagram.com",
+            "expires": "2025-04-12T15:25:16.426Z",
+            "httpOnly": false,
+            "secure": true
+        },
+        {
+            "name": "ps_l",
+            "value": "0",
+            "path": "\/",
+            "domain": ".instagram.com",
+            "expires": "2025-05-17T15:25:16.766Z",
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "ps_n",
+            "value": "0",
+            "path": "\/",
+            "domain": ".instagram.com",
+            "expires": "2025-05-17T15:25:16.766Z",
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        }
+    ],
+    "response": [
+        {
+            "name": "csrftoken",
+            "value": "L9OodSNbiQrwhvT0l551K2c96gXfki6I",
+            "path": "\/",
+            "domain": ".instagram.com",
+            "expires": "2025-04-11T15:25:53.958Z",
+            "httpOnly": false,
+            "secure": true
+        },
+        {
+            "name": "rur",
+            "value": "\"RVA\\05465256629425\\0541744471560:01f7a8a82855874af1b9476b3626d340735924e29f876263f8c8b10de8742f9b18bf3140\"",
+            "path": "\/",
+            "domain": ".instagram.com",
+            "expires": null,
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "Lax"
+        },
+        {
+            "name": "ds_user_id",
+            "value": "65256629425",
+            "path": "\/",
+            "domain": ".instagram.com",
+            "expires": "2024-07-11T15:25:53.958Z",
+            "httpOnly": false,
+            "secure": true
+        },
+        {
+            "name": "th_eu_pref",
+            "value": "\"\"",
+            "path": "\/",
+            "domain": "instagram.com",
+            "expires": "2024-04-12T15:25:53.958Z",
+            "httpOnly": false,
+            "secure": false
+        },
+        {
+            "name": "th_eu_pref",
+            "value": "\"\"",
+            "path": "\/",
+            "domain": ".instagram.com",
+            "expires": "2024-04-12T15:25:53.958Z",
+            "httpOnly": false,
+            "secure": false
+        },
+        {
+            "name": "th_eu_pref",
+            "value": "\"\"",
+            "path": "\/",
+            "domain": "i.instagram.com",
+            "expires": "2024-04-12T15:25:53.958Z",
+            "httpOnly": false,
+            "secure": false
+        },
+        {
+            "name": "th_eu_pref",
+            "value": "\"\"",
+            "path": "\/",
+            "domain": ".i.instagram.com",
+            "expires": "2024-04-12T15:25:53.958Z",
+            "httpOnly": false,
+            "secure": false
+        },
+        {
+            "name": "th_eu_pref",
+            "value": "\"\"",
+            "path": "\/",
+            "domain": "www.instagram.com",
+            "expires": "2024-04-12T15:25:53.958Z",
+            "httpOnly": false,
+            "secure": false
+        },
+        {
+            "name": "th_eu_pref",
+            "value": "\"\"",
+            "path": "\/",
+            "domain": ".www.instagram.com",
+            "expires": "2024-04-12T15:25:53.958Z",
+            "httpOnly": false,
+            "secure": false
+        },
+        {
+            "name": "th_eu_pref",
+            "value": "\"\"",
+            "path": "\/",
+            "domain": ".threads.net",
+            "expires": "2024-04-12T15:25:53.958Z",
+            "httpOnly": false,
+            "secure": false
+        },
+        {
+            "name": "th_eu_pref",
+            "value": "\"\"",
+            "path": "\/",
+            "domain": "www.instagram.com",
+            "expires": "2024-04-12T15:25:53.958Z",
+            "httpOnly": false,
+            "secure": false
+        },
+        {
+            "name": "sessionid",
+            "value": "65256629425%3ATL0vqTIBgSbKuR%3A20%3AAYcNCTWglI1_WOYTaN8_wuphiAqMd7YNztFJcAv9TQ",
+            "path": "\/",
+            "domain": ".instagram.com",
+            "expires": "2025-04-12T15:25:53.958Z",
+            "httpOnly": true,
+            "secure": true
+        }
+    ]
+}
