@@ -1,0 +1,321 @@
+{
+    "_initiator": {
+        "type": "script",
+        "stack": {
+            "callFrames": [
+                {
+                    "functionName": "a",
+                    "scriptId": "37",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 59,
+                    "columnNumber": 337
+                },
+                {
+                    "functionName": "loadModules",
+                    "scriptId": "37",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 170,
+                    "columnNumber": 16000
+                },
+                {
+                    "functionName": "",
+                    "scriptId": "37",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 143,
+                    "columnNumber": 932
+                },
+                {
+                    "functionName": "m",
+                    "scriptId": "37",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 143,
+                    "columnNumber": 193
+                },
+                {
+                    "functionName": "e.preload",
+                    "scriptId": "37",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 143,
+                    "columnNumber": 909
+                },
+                {
+                    "functionName": "",
+                    "scriptId": "39",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3iiQ54\/yZ\/l\/makehaste_jhash\/_6QLXU4VLZWIMB23JaF78-.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 767,
+                    "columnNumber": 972
+                },
+                {
+                    "functionName": "",
+                    "scriptId": "39",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3iiQ54\/yZ\/l\/makehaste_jhash\/_6QLXU4VLZWIMB23JaF78-.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 767,
+                    "columnNumber": 950
+                },
+                {
+                    "functionName": "a",
+                    "scriptId": "37",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 233,
+                    "columnNumber": 190
+                },
+                {
+                    "functionName": "p",
+                    "scriptId": "37",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 235,
+                    "columnNumber": 881
+                },
+                {
+                    "functionName": "",
+                    "scriptId": "37",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 235,
+                    "columnNumber": 1598
+                },
+                {
+                    "functionName": "",
+                    "scriptId": "37",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 239,
+                    "columnNumber": 979
+                },
+                {
+                    "functionName": "applyWithGuard",
+                    "scriptId": "37",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 69,
+                    "columnNumber": 10431
+                },
+                {
+                    "functionName": "c",
+                    "scriptId": "37",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 69,
+                    "columnNumber": 11165
+                },
+                {
+                    "functionName": "O",
+                    "scriptId": "37",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 228,
+                    "columnNumber": 2291
+                },
+                {
+                    "functionName": "U",
+                    "scriptId": "37",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 228,
+                    "columnNumber": 2892
+                }
+            ],
+            "parentId": {
+                "id": "3492",
+                "debuggerId": "8574087838191512604.-5840262278814751724"
+            }
+        }
+    },
+    "_priority": "High",
+    "_resourceType": "script",
+    "cache": [],
+    "pageref": "page_14",
+    "request": {
+        "method": "GET",
+        "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3irrg4\/yK\/l\/makehaste_jhash\/EBYG922hhOe.js?_nc_x=Ij3Wp8lg5Kz",
+        "httpVersion": "h3",
+        "headers": [
+            {
+                "name": ":authority",
+                "value": "static.cdninstagram.com"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "\/rsrc.php\/v3irrg4\/yK\/l\/makehaste_jhash\/EBYG922hhOe.js?_nc_x=Ij3Wp8lg5Kz"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "*\/*"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br, zstd"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "origin",
+                "value": "https:\/\/www.instagram.com"
+            },
+            {
+                "name": "referer",
+                "value": "https:\/\/www.instagram.com\/"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Google Chrome\";v=\"123\", \"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"123\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "script"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "cross-site"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/123.0.0.0 Safari\/537.36"
+            }
+        ],
+        "queryString": [
+            {
+                "name": "_nc_x",
+                "value": "Ij3Wp8lg5Kz"
+            }
+        ],
+        "cookies": [],
+        "headersSize": -1,
+        "bodySize": 0
+    },
+    "response": {
+        "status": 200,
+        "statusText": "",
+        "httpVersion": "h3",
+        "headers": [
+            {
+                "name": "access-control-allow-origin",
+                "value": "https:\/\/www.instagram.com"
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=86400"
+            },
+            {
+                "name": "cache-control",
+                "value": "public,max-age=31536000,immutable"
+            },
+            {
+                "name": "content-encoding",
+                "value": "zstd"
+            },
+            {
+                "name": "content-length",
+                "value": "2544"
+            },
+            {
+                "name": "content-md5",
+                "value": "RvMvytvm3Rkxjr+F5G4yiA=="
+            },
+            {
+                "name": "content-type",
+                "value": "application\/x-javascript; charset=utf-8"
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "date",
+                "value": "Sat, 13 Apr 2024 07:19:57 GMT"
+            },
+            {
+                "name": "document-policy",
+                "value": "force-load-at-top"
+            },
+            {
+                "name": "expires",
+                "value": "Sat, 05 Apr 2025 01:11:49 GMT"
+            },
+            {
+                "name": "last-modified",
+                "value": "Mon, 01 Jan 2001 08:00:00 GMT"
+            },
+            {
+                "name": "origin-agent-cluster",
+                "value": "?0"
+            },
+            {
+                "name": "permissions-policy",
+                "value": "accelerometer=(), attribution-reporting=(), autoplay=(), bluetooth=(), camera=(), ch-device-memory=(), ch-save-data=(), ch-ua-arch=(), ch-ua-bitness=(), clipboard-read=(), clipboard-write=(), display-capture=(), encrypted-media=(), fullscreen=(self), gamepad=(), geolocation=(), gyroscope=(), hid=(), idle-detection=(), keyboard-map=(), local-fonts=(), magnetometer=(), microphone=(), midi=(), otp-credentials=(), payment=(), picture-in-picture=(), publickey-credentials-get=(), screen-wake-lock=(), serial=(), usb=(), window-management=(), xr-spatial-tracking=();report-to=\"permissions_policy\""
+            },
+            {
+                "name": "priority",
+                "value": "u=3,i"
+            },
+            {
+                "name": "report-to",
+                "value": "{\"max_age\":21600,\"endpoints\":[{\"url\":\"https:\\\/\\\/www.facebook.com\\\/ajax\\\/browser_error_reports\\\/\"}],\"group\":\"permissions_policy\"}"
+            },
+            {
+                "name": "reporting-endpoints",
+                "value": "permissions_policy=\"https:\/\/www.facebook.com\/ajax\/browser_error_reports\/\""
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "vary",
+                "value": "Origin"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "x-fb-connection-quality",
+                "value": "GOOD; q=0.7, rtt=58, rtx=1680, c=188, mss=1232, tbw=6076969, tp=5155, tpl=1680, uplat=1, ullat=-1"
+            },
+            {
+                "name": "x-fb-debug",
+                "value": "KmjVGz5dT\/NOfcr5ajLvJk2b9BW9L9Hsze1EJ9M6WmDukWfkReR5gpZnlwaTPBzlJcjscQoqWdrgeUcwVfU6aQ=="
+            }
+        ],
+        "cookies": [],
+        "content": {
+            "size": 7916,
+            "mimeType": "application\/x-javascript",
+            "text": ";\/*FB_PKG_DELIM*\/\n\n__d(\"IGDMobileNavigationButton.react\",[\"fbt\",\"IGDSArrowLeftPanoOutlineIcon.react\",\"IGDSIconButton.react\",\"Locale\",\"react\",\"stylex\"],(function(a,b,c,d,e,f,g,h){\"use strict\";var i,j,k=(j||(j=d(\"react\"))).unstable_useMemoCache,l=j,m=h._(\"__JHASH__rrOQmK5jiwk__JHASH__\"),n={root:{marginEnd:\"xq8finb\",marginLeft:null,marginRight:null,$$css:!0},rtl:{transform:\"x19jd1h0\",$$css:!0}};function a(a){var b=k(4);a=a.onClick;a=a;var d;b[0]===Symbol[\"for\"](\"react.memo_cache_sentinel\")?(d=(i||(i=c(\"stylex\")))(c(\"Locale\").isRTL()?n.rtl:null),b[0]=d):d=b[0];b[1]===Symbol[\"for\"](\"react.memo_cache_sentinel\")?(d=l.jsx(\"span\",{className:d,children:l.jsx(c(\"IGDSArrowLeftPanoOutlineIcon.react\"),{alt:m,color:\"ig-primary-text\",size:24})}),b[1]=d):d=b[1];b[2]!==a?(d=l.jsx(c(\"IGDSIconButton.react\"),{onClick:a,padding:0,xstyle:n.root,children:d}),b[2]=a,b[3]=d):d=b[3];return d}g[\"default\"]=a}),226);\n__d(\"IGDSectionHeader.react\",[\"IGDSectionHeaderLayout.react\",\"react\"],(function(a,b,c,d,e,f,g){\"use strict\";var h,i=(h||(h=d(\"react\"))).unstable_useMemoCache,j=h;function a(a){var b=i(11),c=a.children,e=a.endAdornment,f=a.isMobile,g=a.noBottomBorder,h=a.startAdornment;a=a.xstyle;g=g===void 0?!1:g;var k;b[0]!==h?(k=h!=null?j.jsx(d(\"IGDSectionHeaderLayout.react\").StartAdornment,{children:h}):null,b[0]=h,b[1]=k):k=b[1];h=k;b[2]!==e?(k=e!=null?j.jsx(d(\"IGDSectionHeaderLayout.react\").EndAdornment,{children:e}):null,b[2]=e,b[3]=k):k=b[3];e=k;b[4]!==f||b[5]!==g||b[6]!==a||b[7]!==h||b[8]!==c||b[9]!==e?(k=j.jsxs(d(\"IGDSectionHeaderLayout.react\").Container,{isMobile:f,noBottomBorder:g,xstyle:a,children:[h,c,e]}),b[4]=f,b[5]=g,b[6]=a,b[7]=h,b[8]=c,b[9]=e,b[10]=k):k=b[10];return k}g[\"default\"]=a}),98);\n__d(\"IGDThreadListNewMessageDialogEntrypointProvider.react\",[\"react\"],(function(a,b,c,d,e,f,g){\"use strict\";var h,i=h||(h=d(\"react\"));c=h;e=c.createContext;var j=c.useContext;c.useMemo;var k=c.unstable_useMemoCache,l=e({});function a(a){var b=k(5),c=a.children;a=a.entrypoint;var d;b[0]!==a?(d={entrypoint:a},b[0]=a,b[1]=d):d=b[1];a=d;d=a;b[2]!==d||b[3]!==c?(a=i.jsx(l.Provider,{value:d,children:c}),b[2]=d,b[3]=c,b[4]=a):a=b[4];return a}function b(){var a=j(l);return a.entrypoint}g.IGDThreadListNewMessageDialogEntrypointProvider=a;g.useIGDThreadListNewMessageDialogEntrypoint=b}),98);\n__d(\"PolarisInboxTrayItemContainerElementProvider\",[\"react\"],(function(a,b,c,d,e,f,g){\"use strict\";var h,i=h||(h=d(\"react\"));c=h;var j=c.useContext,k=c.useMemo,l=c.useRef,m=i.createContext({containerRef:void 0});function a(a){a=a.children;var b=l(),c=k(function(){return{containerRef:b}},[b]);return i.jsx(m.Provider,{value:c,children:a})}a.displayName=a.name+\" [from \"+f.id+\"]\";function b(){return j(m)}g.PolarisInboxTrayItemContainerElementProvider=a;g.usePolarisInboxTrayItemContainerElementProvider=b}),98);\n__d(\"Href\",[],(function(a,b,c,d,e,f){\"use strict\";function a(a){if(typeof a===\"object\"&&a!=null&&a.url!=null)return{type:\"legacy\",value:a};else return{type:\"modern\",value:a}}f.getTypedHref=a}),66);\n__d(\"Box.react\",[\"react\",\"stylex\"],(function(a,b,c,d,e,f,g){\"use strict\";var h,i,j=i||d(\"react\"),k={box:{alignItems:\"x1qjc9v5\",boxSizing:\"x9f619\",display:\"x78zum5\",flexBasis:\"xdl72j9\",flexDirection:\"xdt5ytf\",flexShrink:\"x2lah0s\",minHeight:\"x2lwn1j\",minWidth:\"xeuugli\",position:\"x1n2onr6\",zIndex:\"x1ja2u2z\",$$css:!0}};function a(a,b){var d=a.as;d=d===void 0?\"div\":d;var e=a.xstyle;a=babelHelpers.objectWithoutPropertiesLoose(a,[\"as\",\"xstyle\"]);return j.jsx(d,babelHelpers[\"extends\"]({},a,{className:(h||(h=c(\"stylex\")))(k.box,e),ref:b}))}a.displayName=a.name+\" [from \"+f.id+\"]\";b=j.forwardRef(a);g[\"default\"]=b}),98);\n__d(\"CometRelativeTimestamp.react\",[\"fbt\",\"react\",\"react-strict-dom\",\"useServerTime\"],(function(a,b,c,d,e,f,g,h){\"use strict\";var i,j=i||d(\"react\");function k(a,b){if(b===\"minimized\")return h._(\"__JHASH__fwsgSNrW38G__JHASH__\");else if(b===\"shortened\")return h._(\"__JHASH__R3_UwncmzVK__JHASH__\");return h._(\"__JHASH__n-vdMzQYLNI__JHASH__\")}function l(a,b){return b===\"minimized\"?h._(\"__JHASH__-b-qMPARzNx__JHASH__\"):h._(\"__JHASH__7tk0E3psPN9__JHASH__\")}function m(a,b){if(b===\"minimized\")return h._(\"__JHASH__-dvS8T7Zewj__JHASH__\",[h._param(\"minutes\",a,[0])]);else if(b===\"shortened\")return h._(\"__JHASH__pJYDYNmcCNm__JHASH__\",[h._plural(a,\"number\")]);return h._(\"__JHASH__Cf0HUgiMq4T__JHASH__\",[h._plural(a,\"number\")])}function n(a,b){if(b===\"minimized\")return h._(\"__JHASH__aQr_BY-obs4__JHASH__\",[h._param(\"minutes\",a,[0])]);else if(b===\"shortened\")return h._(\"__JHASH__c6NQLZH4ANd__JHASH__\",[h._plural(a,\"number\")]);return h._(\"__JHASH__hSOa9acW7bb__JHASH__\",[h._plural(a,\"number\")])}function o(a,b){if(b===\"minimized\")return h._(\"__JHASH__dJku-irc6Vq__JHASH__\",[h._param(\"hours\",a)]);else if(b===\"shortened\")return h._(\"__JHASH__fgynbiSDJGc__JHASH__\",[h._plural(a,\"number\")]);return h._(\"__JHASH__6moQMMAESbv__JHASH__\",[h._plural(a,\"number\")])}function p(a,b){if(b===\"minimized\")return h._(\"__JHASH__my9Q52IIrzO__JHASH__\",[h._param(\"hours\",a)]);else if(b===\"shortened\")return h._(\"__JHASH__aKe8M_AKzI3__JHASH__\",[h._plural(a,\"number\")]);return h._(\"__JHASH__KshjW5ZSXeJ__JHASH__\",[h._plural(a,\"number\")])}function q(a,b){if(b===\"minimized\")return h._(\"__JHASH__7vrBSek8hqf__JHASH__\",[h._param(\"days\",a)]);else if(b===\"shortened\")return h._(\"__JHASH__U_-41liQBf___JHASH__\",[h._plural(a,\"number\")]);return h._(\"__JHASH__eOrU59mir58__JHASH__\",[h._plural(a,\"number\")])}function r(a,b){if(b===\"minimized\")return h._(\"__JHASH__nR1BpT4JZ-1__JHASH__\",[h._param(\"days\",a)]);else if(b===\"shortened\")return h._(\"__JHASH__XM9woDyI0RI__JHASH__\",[h._plural(a,\"number\")]);return h._(\"__JHASH__e25sv98iazf__JHASH__\",[h._plural(a,\"number\")])}function s(a,b){if(b===\"minimized\")return h._(\"__JHASH__89wyXCUcNcD__JHASH__\",[h._param(\"weeks\",a)]);else if(b===\"shortened\")return h._(\"__JHASH__LzV87OP-cnH__JHASH__\",[h._plural(a,\"number\")]);return h._(\"__JHASH__8Tz4WwYqyWe__JHASH__\",[h._plural(a,\"number\")])}function t(a,b){if(b===\"minimized\")return h._(\"__JHASH__6jpt3ZiMeNm__JHASH__\",[h._param(\"weeks\",a)]);else if(b===\"shortened\")return h._(\"__JHASH__FZjvF7iUhS2__JHASH__\",[h._plural(a,\"number\")]);return h._(\"__JHASH__KYxoF9she7V__JHASH__\",[h._plural(a,\"number\")])}function u(a,b){if(b===\"minimized\")return h._(\"__JHASH__pydgq6srngO__JHASH__\",[h._param(\"years\",a)]);else if(b===\"shortened\")return h._(\"__JHASH__qHsnROIs1Rn__JHASH__\",[h._plural(a,\"number\")]);return h._(\"__JHASH__4VLiJAQbl5i__JHASH__\",[h._plural(a,\"number\")])}function v(a,b){if(b===\"minimized\")return h._(\"__JHASH__PO71EECf0Ar__JHASH__\",[h._param(\"years\",a)]);else if(b===\"shortened\")return h._(\"__JHASH__HQno8zOlCSY__JHASH__\",[h._plural(a,\"number\")]);return h._(\"__JHASH__lP1YxrqVkce__JHASH__\",[h._plural(a,\"number\")])}var w=60,x=60,y=24,z=7,A=365;function B(a,b,c){c===void 0&&(c=\"normal\");a=(a.valueOf()-b.valueOf())\/1e3;if(a<w)return k(a,c);b=a\/w;a=Math.floor(b);if(a<x)return m(a,c);a=b\/x;b=Math.floor(a);if(b<y)return o(b,c);b=a\/y;a=Math.floor(b);if(a<z)return q(a,c);else if(b<A){a=Math.floor(b\/z);return s(a,c)}a=Math.floor(b\/A);return u(a,c)}function a(a,b,c){c===void 0&&(c=\"normal\");b=(b.valueOf()-a.valueOf())\/1e3;if(b<w)return l(b,c);a=b\/w;b=Math.floor(a);if(b<x)return n(b,c);b=a\/x;a=Math.floor(a\/x);if(a<y)return p(a,c);a=b\/y;b=Math.floor(a);if(b<z)return r(b,c);else if(a<A){b=Math.floor(a\/z);return t(b,c)}b=Math.floor(a\/A);return v(b,c)}function b(a){var b=a.date;a=a.format;var e=c(\"useServerTime\")();e=B(e,b,a);return j.jsx(d(\"react-strict-dom\").html.span,{suppressHydrationWarning:!0,children:e})}b.displayName=b.name+\" [from \"+f.id+\"]\";b.getRelativeTimestamp=B;b.getRelativeTimestampInFuture=a;g[\"default\"]=b}),226);\n__d(\"LSVerifyThreadExists\",[\"LSVerifyThreadExistsV2\"],(function(a,b,c,d,e,f){function a(){var a=arguments,c=a[a.length-1],d=[];return c.sequence([function(d){return c.storedProcedure(b(\"LSVerifyThreadExistsV2\"),a[0],a[1],a[2],a[3],a[4],!1,a[5],!1,!1)},function(a){return c.resolve(d)}])}e.exports=a}),null);"
+        },
+        "redirectURL": "",
+        "headersSize": -1,
+        "bodySize": -1,
+        "_transferSize": 2709,
+        "_error": null
+    },
+    "serverIPAddress": "157.240.227.63",
+    "startedDateTime": "2024-04-13T07:19:56.956Z",
+    "time": 888.0879999996978,
+    "timings": {
+        "blocked": 57.63900000013842,
+        "dns": -1,
+        "ssl": -1,
+        "connect": -1,
+        "send": 0.4239999999999995,
+        "wait": 795.1400000004377,
+        "receive": 34.884999999121646,
+        "_blocked_queueing": 4.358000000138418
+    }
+}
