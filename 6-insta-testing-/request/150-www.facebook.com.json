@@ -1,0 +1,359 @@
+{
+    "_initiator": {
+        "type": "script",
+        "stack": {
+            "callFrames": [
+                {
+                    "functionName": "f.send",
+                    "scriptId": "16",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3ij9m4\/yj\/l\/en_GB\/6yvLsFztLpa.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 160,
+                    "columnNumber": 25349
+                },
+                {
+                    "functionName": "b.send",
+                    "scriptId": "17",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/y8\/r\/I3UunANzMRQ.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 2,
+                    "columnNumber": 885
+                },
+                {
+                    "functionName": "j",
+                    "scriptId": "10",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yr\/r\/rDfxXVey7Pn.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 2,
+                    "columnNumber": 856
+                },
+                {
+                    "functionName": "",
+                    "scriptId": "10",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yr\/r\/rDfxXVey7Pn.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 2,
+                    "columnNumber": 1677
+                },
+                {
+                    "functionName": "applyWithGuard",
+                    "scriptId": "18",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 69,
+                    "columnNumber": 10431
+                },
+                {
+                    "functionName": "c",
+                    "scriptId": "18",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 69,
+                    "columnNumber": 11165
+                },
+                {
+                    "functionName": "applyWithGuard",
+                    "scriptId": "18",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 69,
+                    "columnNumber": 10431
+                },
+                {
+                    "functionName": "c.fire",
+                    "scriptId": "16",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3ij9m4\/yj\/l\/en_GB\/6yvLsFztLpa.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 110,
+                    "columnNumber": 7400
+                },
+                {
+                    "functionName": "",
+                    "scriptId": "16",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3ij9m4\/yj\/l\/en_GB\/6yvLsFztLpa.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 110,
+                    "columnNumber": 6558
+                },
+                {
+                    "functionName": "applyWithGuard",
+                    "scriptId": "18",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 69,
+                    "columnNumber": 10431
+                },
+                {
+                    "functionName": "c",
+                    "scriptId": "18",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 69,
+                    "columnNumber": 11165
+                },
+                {
+                    "functionName": "",
+                    "scriptId": "16",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3ij9m4\/yj\/l\/en_GB\/6yvLsFztLpa.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 102,
+                    "columnNumber": 196
+                }
+            ]
+        }
+    },
+    "_priority": "High",
+    "_resourceType": "xhr",
+    "cache": [],
+    "request": {
+        "method": "GET",
+        "url": "https:\/\/www.facebook.com\/instagram\/sync\/?fb_dtsg_ag&__user=0&__a=1&__req=1&__hs=19826.HYP%3Acomet_loggedout_pkg.2.1..0.0&dpr=1&__ccg=EXCELLENT&__rev=1012761873&__s=de9pj6%3Ayk6bkw%3A90la8u&__hsi=7357247883110378910&__dyn=7wKwlE7ibwKBAg35xu13w8CewSwMwfG0lW4o0B-q1ew65wce0yE1VohwnU1oU1O81u83mwaS0zE5W0PU1AE17U2ZwrU1Xo1UU&__csr=u9iLnVqyolxe8CxDxi0Fo-UqUgy8G2G6U721TAzKm3ryUaE7q2i2G3adzUsw-wIAwKw07j4y80sYw0die9Q&__comet_req=15&__spin_r=1012761873&__spin_b=trunk&__spin_t=1712992760",
+        "httpVersion": "h3",
+        "headers": [
+            {
+                "name": ":authority",
+                "value": "www.facebook.com"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "\/instagram\/sync\/?fb_dtsg_ag&__user=0&__a=1&__req=1&__hs=19826.HYP%3Acomet_loggedout_pkg.2.1..0.0&dpr=1&__ccg=EXCELLENT&__rev=1012761873&__s=de9pj6%3Ayk6bkw%3A90la8u&__hsi=7357247883110378910&__dyn=7wKwlE7ibwKBAg35xu13w8CewSwMwfG0lW4o0B-q1ew65wce0yE1VohwnU1oU1O81u83mwaS0zE5W0PU1AE17U2ZwrU1Xo1UU&__csr=u9iLnVqyolxe8CxDxi0Fo-UqUgy8G2G6U721TAzKm3ryUaE7q2i2G3adzUsw-wIAwKw07j4y80sYw0die9Q&__comet_req=15&__spin_r=1012761873&__spin_b=trunk&__spin_t=1712992760"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "*\/*"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br, zstd"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "referer",
+                "value": "https:\/\/www.facebook.com\/instagram\/login_sync\/"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Google Chrome\";v=\"123\", \"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"123\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "empty"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "same-origin"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/123.0.0.0 Safari\/537.36"
+            },
+            {
+                "name": "x-asbd-id",
+                "value": "129477"
+            },
+            {
+                "name": "x-fb-lsd",
+                "value": "AVpS8CEi2AM"
+            }
+        ],
+        "queryString": [
+            {
+                "name": "fb_dtsg_ag",
+                "value": ""
+            },
+            {
+                "name": "__user",
+                "value": "0"
+            },
+            {
+                "name": "__a",
+                "value": "1"
+            },
+            {
+                "name": "__req",
+                "value": "1"
+            },
+            {
+                "name": "__hs",
+                "value": "19826.HYP%3Acomet_loggedout_pkg.2.1..0.0"
+            },
+            {
+                "name": "dpr",
+                "value": "1"
+            },
+            {
+                "name": "__ccg",
+                "value": "EXCELLENT"
+            },
+            {
+                "name": "__rev",
+                "value": "1012761873"
+            },
+            {
+                "name": "__s",
+                "value": "de9pj6%3Ayk6bkw%3A90la8u"
+            },
+            {
+                "name": "__hsi",
+                "value": "7357247883110378910"
+            },
+            {
+                "name": "__dyn",
+                "value": "7wKwlE7ibwKBAg35xu13w8CewSwMwfG0lW4o0B-q1ew65wce0yE1VohwnU1oU1O81u83mwaS0zE5W0PU1AE17U2ZwrU1Xo1UU"
+            },
+            {
+                "name": "__csr",
+                "value": "u9iLnVqyolxe8CxDxi0Fo-UqUgy8G2G6U721TAzKm3ryUaE7q2i2G3adzUsw-wIAwKw07j4y80sYw0die9Q"
+            },
+            {
+                "name": "__comet_req",
+                "value": "15"
+            },
+            {
+                "name": "__spin_r",
+                "value": "1012761873"
+            },
+            {
+                "name": "__spin_b",
+                "value": "trunk"
+            },
+            {
+                "name": "__spin_t",
+                "value": "1712992760"
+            }
+        ],
+        "cookies": [],
+        "headersSize": -1,
+        "bodySize": 0
+    },
+    "response": {
+        "status": 200,
+        "statusText": "",
+        "httpVersion": "h3",
+        "headers": [
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=86400"
+            },
+            {
+                "name": "cache-control",
+                "value": "private, no-cache, no-store, must-revalidate"
+            },
+            {
+                "name": "content-encoding",
+                "value": "zstd"
+            },
+            {
+                "name": "content-type",
+                "value": "application\/x-javascript; charset=utf-8"
+            },
+            {
+                "name": "cross-origin-embedder-policy-report-only",
+                "value": "require-corp;report-to=\"coep_report\""
+            },
+            {
+                "name": "cross-origin-opener-policy",
+                "value": "same-origin-allow-popups;report-to=\"coop_report\""
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "date",
+                "value": "Sat, 13 Apr 2024 07:19:21 GMT"
+            },
+            {
+                "name": "document-policy",
+                "value": "force-load-at-top"
+            },
+            {
+                "name": "expires",
+                "value": "Sat, 01 Jan 2000 00:00:00 GMT"
+            },
+            {
+                "name": "origin-agent-cluster",
+                "value": "?0"
+            },
+            {
+                "name": "permissions-policy",
+                "value": "accelerometer=(), attribution-reporting=(self), autoplay=(), bluetooth=(), camera=(self), ch-device-memory=(), ch-downlink=(), ch-ect=(), ch-rtt=(), ch-save-data=(), ch-ua-arch=(), ch-ua-bitness=(), clipboard-read=(self), clipboard-write=(self), display-capture=(self), encrypted-media=(self), fullscreen=(self), gamepad=*, geolocation=(self), gyroscope=(), hid=(), idle-detection=(), keyboard-map=(), local-fonts=(), magnetometer=(), microphone=(self), midi=(), otp-credentials=(), payment=(), picture-in-picture=(self), publickey-credentials-get=(self), screen-wake-lock=(), serial=(), usb=(), window-management=(), xr-spatial-tracking=(self);report-to=\"permissions_policy\""
+            },
+            {
+                "name": "pragma",
+                "value": "no-cache"
+            },
+            {
+                "name": "priority",
+                "value": "u=1,i"
+            },
+            {
+                "name": "report-to",
+                "value": "{\"max_age\":2592000,\"endpoints\":[{\"url\":\"https:\\\/\\\/www.facebook.com\\\/browser_reporting\\\/coop\\\/?minimize=0\"}],\"group\":\"coop_report\",\"include_subdomains\":true}, {\"max_age\":86400,\"endpoints\":[{\"url\":\"https:\\\/\\\/www.facebook.com\\\/browser_reporting\\\/coep\\\/?minimize=0\"}],\"group\":\"coep_report\"}, {\"max_age\":259200,\"endpoints\":[{\"url\":\"https:\\\/\\\/www.facebook.com\\\/ajax\\\/comet_error_reports\\\/?device_level=unknown\"}]}, {\"max_age\":21600,\"endpoints\":[{\"url\":\"https:\\\/\\\/www.facebook.com\\\/ajax\\\/browser_error_reports\\\/\"}],\"group\":\"permissions_policy\"}"
+            },
+            {
+                "name": "reporting-endpoints",
+                "value": "coop_report=\"https:\/\/www.facebook.com\/browser_reporting\/coop\/?minimize=0\", coep_report=\"https:\/\/www.facebook.com\/browser_reporting\/coep\/?minimize=0\", default=\"https:\/\/www.facebook.com\/ajax\/comet_error_reports\/?device_level=unknown\", permissions_policy=\"https:\/\/www.facebook.com\/ajax\/browser_error_reports\/\""
+            },
+            {
+                "name": "strict-transport-security",
+                "value": "max-age=15552000; preload"
+            },
+            {
+                "name": "vary",
+                "value": "Accept-Encoding"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "x-fb-connection-quality",
+                "value": "EXCELLENT; q=0.9, rtt=47, rtx=0, c=23, mss=1232, tbw=4311, tp=9, tpl=0, uplat=196, ullat=0"
+            },
+            {
+                "name": "x-fb-debug",
+                "value": "n3783JIzbeoJDRdrllhlapfQpqRQc569o+KC4nhcPl4EQPhuMqgIxDveR4+F\/mPGzPz6xqcPA2CxLMoORLgVUw=="
+            },
+            {
+                "name": "x-frame-options",
+                "value": "DENY"
+            }
+        ],
+        "cookies": [],
+        "content": {
+            "size": 137,
+            "mimeType": "application\/x-javascript",
+            "text": "for (;;);{\"__ar\":1,\"payload\":{\"data\":\"ASBRRW6izQqSlcdswj3XqDRR41KV3_gNkDNYPISFztkrK0xg2u_gsumqeR5Cs3_b7CSv\"},\"lid\":\"7357247887590948293\"}"
+        },
+        "redirectURL": "",
+        "headersSize": -1,
+        "bodySize": -1,
+        "_transferSize": 270,
+        "_error": null
+    },
+    "serverIPAddress": "157.240.227.35",
+    "startedDateTime": "2024-04-13T07:19:21.277Z",
+    "time": 240.9559999996418,
+    "timings": {
+        "blocked": 1.2010000009468058,
+        "dns": 0,
+        "ssl": -1,
+        "connect": 0,
+        "send": 1.331,
+        "wait": 237.8230000007808,
+        "receive": 0.6009999979141867,
+        "_blocked_queueing": 1.2010000009468058
+    }
+}

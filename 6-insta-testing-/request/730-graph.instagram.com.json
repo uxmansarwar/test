@@ -1,0 +1,333 @@
+{
+    "_initiator": {
+        "type": "script",
+        "stack": {
+            "callFrames": [
+                {
+                    "functionName": "B",
+                    "scriptId": "199",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3iz8r4\/yF\/l\/makehaste_jhash\/_6QLXU4VLZWIMB23JaF78-0wSX6cSW3K49oOxHG-k_ZzcZtDF6kpo1BBYBHirbomYfNjyUKFlncpmcBNnczn8-8FaKa9IOdu-hOnsVB6010oIk7eckjj2pErN.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 1151,
+                    "columnNumber": 3271
+                },
+                {
+                    "functionName": "sendWithBeacon",
+                    "scriptId": "199",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3iz8r4\/yF\/l\/makehaste_jhash\/_6QLXU4VLZWIMB23JaF78-0wSX6cSW3K49oOxHG-k_ZzcZtDF6kpo1BBYBHirbomYfNjyUKFlncpmcBNnczn8-8FaKa9IOdu-hOnsVB6010oIk7eckjj2pErN.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 1154,
+                    "columnNumber": 1946
+                },
+                {
+                    "functionName": "C",
+                    "scriptId": "199",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3iz8r4\/yF\/l\/makehaste_jhash\/_6QLXU4VLZWIMB23JaF78-0wSX6cSW3K49oOxHG-k_ZzcZtDF6kpo1BBYBHirbomYfNjyUKFlncpmcBNnczn8-8FaKa9IOdu-hOnsVB6010oIk7eckjj2pErN.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 1157,
+                    "columnNumber": 1727
+                },
+                {
+                    "functionName": "",
+                    "scriptId": "199",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3iz8r4\/yF\/l\/makehaste_jhash\/_6QLXU4VLZWIMB23JaF78-0wSX6cSW3K49oOxHG-k_ZzcZtDF6kpo1BBYBHirbomYfNjyUKFlncpmcBNnczn8-8FaKa9IOdu-hOnsVB6010oIk7eckjj2pErN.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 1157,
+                    "columnNumber": 4911
+                },
+                {
+                    "functionName": "d",
+                    "scriptId": "199",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3iz8r4\/yF\/l\/makehaste_jhash\/_6QLXU4VLZWIMB23JaF78-0wSX6cSW3K49oOxHG-k_ZzcZtDF6kpo1BBYBHirbomYfNjyUKFlncpmcBNnczn8-8FaKa9IOdu-hOnsVB6010oIk7eckjj2pErN.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 1146,
+                    "columnNumber": 157
+                }
+            ]
+        }
+    },
+    "_priority": "VeryLow",
+    "_resourceType": "ping",
+    "cache": [],
+    "connection": "39345",
+    "pageref": "page_16",
+    "request": {
+        "method": "POST",
+        "url": "https:\/\/graph.instagram.com\/logging_client_events",
+        "httpVersion": "http\/2.0",
+        "headers": [
+            {
+                "name": ":authority",
+                "value": "graph.instagram.com"
+            },
+            {
+                "name": ":method",
+                "value": "POST"
+            },
+            {
+                "name": ":path",
+                "value": "\/logging_client_events"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "*\/*"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br, zstd"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "content-length",
+                "value": "3500"
+            },
+            {
+                "name": "content-type",
+                "value": "application\/x-www-form-urlencoded"
+            },
+            {
+                "name": "cookie",
+                "value": "mid=ZhoxogALAAHubFdTZS96KFjJIptn; ig_did=90F37C0A-66E0-4C6D-A18E-A2F1AB506938; datr=ojEaZncdsfE3nv-0jg_KpoiB; csrftoken=JuQGUwIXaXrLky6ZuQmzkOszGDAWAlJt; ds_user_id=65485362671; sessionid=65485362671%3Aj8W6edu3kZ8uDW%3A8%3AAYdf58IAz74d9-Lz40rtk41TFw7_aLWG2eGZkQoXEg; shbid=\"987\\05465485362671\\0541744528755:01f7bb8821a8f316bbb0d40ff8ed402257f78575d53d342316dc5baf4129c1b91a9ce9f6\"; shbts=\"1712992755\\05465485362671\\0541744528755:01f7a5a3c77a23059dc3515933986ed37ca408b97b90f14d0857ade273f7094df60a60e7\"; rur=\"CLN\\05465485362671\\0541744529158:01f7d701622371a2bffaca5c00cb615f7c087c5d605dfa0972059b06c5913028ecf495a6\""
+            },
+            {
+                "name": "origin",
+                "value": "https:\/\/www.instagram.com"
+            },
+            {
+                "name": "referer",
+                "value": "https:\/\/www.instagram.com\/"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Google Chrome\";v=\"123\", \"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"123\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "empty"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "no-cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "same-site"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/123.0.0.0 Safari\/537.36"
+            }
+        ],
+        "queryString": [],
+        "cookies": [
+            {
+                "name": "mid",
+                "value": "ZhoxogALAAHubFdTZS96KFjJIptn",
+                "path": "\/",
+                "domain": ".instagram.com",
+                "expires": "2025-05-18T07:17:57.000Z",
+                "httpOnly": false,
+                "secure": true
+            },
+            {
+                "name": "ig_did",
+                "value": "90F37C0A-66E0-4C6D-A18E-A2F1AB506938",
+                "path": "\/",
+                "domain": ".instagram.com",
+                "expires": "2025-04-13T07:19:11.300Z",
+                "httpOnly": true,
+                "secure": true
+            },
+            {
+                "name": "datr",
+                "value": "ojEaZncdsfE3nv-0jg_KpoiB",
+                "path": "\/",
+                "domain": ".instagram.com",
+                "expires": "2025-05-18T07:17:57.695Z",
+                "httpOnly": true,
+                "secure": true,
+                "sameSite": "None"
+            },
+            {
+                "name": "csrftoken",
+                "value": "JuQGUwIXaXrLky6ZuQmzkOszGDAWAlJt",
+                "path": "\/",
+                "domain": ".instagram.com",
+                "expires": "2025-04-12T07:25:58.259Z",
+                "httpOnly": false,
+                "secure": true
+            },
+            {
+                "name": "ds_user_id",
+                "value": "65485362671",
+                "path": "\/",
+                "domain": ".instagram.com",
+                "expires": "2024-07-12T07:25:58.259Z",
+                "httpOnly": false,
+                "secure": true
+            },
+            {
+                "name": "sessionid",
+                "value": "65485362671%3Aj8W6edu3kZ8uDW%3A8%3AAYdf58IAz74d9-Lz40rtk41TFw7_aLWG2eGZkQoXEg",
+                "path": "\/",
+                "domain": ".instagram.com",
+                "expires": "2025-04-13T07:19:11.300Z",
+                "httpOnly": true,
+                "secure": true
+            },
+            {
+                "name": "shbid",
+                "value": "\"987\\05465485362671\\0541744528755:01f7bb8821a8f316bbb0d40ff8ed402257f78575d53d342316dc5baf4129c1b91a9ce9f6\"",
+                "path": "\/",
+                "domain": ".instagram.com",
+                "expires": "2024-04-20T07:19:15.491Z",
+                "httpOnly": true,
+                "secure": true
+            },
+            {
+                "name": "shbts",
+                "value": "\"1712992755\\05465485362671\\0541744528755:01f7a5a3c77a23059dc3515933986ed37ca408b97b90f14d0857ade273f7094df60a60e7\"",
+                "path": "\/",
+                "domain": ".instagram.com",
+                "expires": "2024-04-20T07:19:15.491Z",
+                "httpOnly": true,
+                "secure": true
+            },
+            {
+                "name": "rur",
+                "value": "\"CLN\\05465485362671\\0541744529158:01f7d701622371a2bffaca5c00cb615f7c087c5d605dfa0972059b06c5913028ecf495a6\"",
+                "path": "\/",
+                "domain": ".instagram.com",
+                "expires": "1969-12-31T23:59:59.000Z",
+                "httpOnly": true,
+                "secure": true,
+                "sameSite": "Lax"
+            }
+        ],
+        "headersSize": -1,
+        "bodySize": 3500,
+        "postData": {
+            "mimeType": "application\/x-www-form-urlencoded",
+            "text": "access_token=936619743392459%7C3cdb3f896252a1db29679cb4554db266&message=%7B%22app_id%22%3A%22936619743392459%22%2C%22app_uid%22%3A%2265485362671%22%2C%22app_ver%22%3A%221.0.0%22%2C%22claims%22%3A[%22hmac.AR3P_LNKTHsdAONBDPsxw9hLNPPP76dw7y7P87Ln3G4K_tpG%22]%2C%22data%22%3A[%7B%22extra%22%3A%7B%22duration%22%3A7.27%2C%22loop_count%22%3A0%2C%22lsp%22%3A0%2C%22playing_audio%22%3A1%2C%22seq_num%22%3A5%2C%22time%22%3A7.27%2C%22video_width%22%3A720%2C%22m_pk%22%3A%223345092795998990646_289661353%22%2C%22a_i%22%3A%22organic%22%2C%22a_pk%22%3A%22289661353%22%2C%22is_dash_eligible%22%3A1%2C%22nav_chain%22%3A%22PolarisProfilePostsTabRoot%3AprofilePage%3A1%3Avia_cold_start%2CPolarisStoriesV3Root%3AStoriesPage%3A9%3Aunexpected%22%2C%22pk%22%3A%2265485362671%22%2C%22playback_format%22%3A%22dash%22%2C%22time_spent_id%22%3A%22nfjkx9%22%2C%22tracking_token%22%3A%22eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNjNkOGUzY2ExMTg2NDIxM2JlNzkzYzY1MGNiNDJlY2UzMzQ1MDkyNzk1OTk4OTkwNjQ2Iiwic2VydmVyX3Rva2VuIjoiMTcxMjk5MzE3ODI3NHwzMzQ1MDkyNzk1OTk4OTkwNjQ2fDY1NDg1MzYyNjcxfGQxZWRhNTk0Yzk1ODQxMjBjNTVjZTE4NTQ4N2Q2NzE1YmI3NTZlYTY5Mjc0OTdmYWFhOGMwYjhiZDYxYzBiODMifSwic2lnbmF0dXJlIjoiIn0%3D%22%7D%2C%22name%22%3A%22video_paused%22%2C%22time%22%3A1712993251.591%2C%22module%22%3A%22reel_feed_timeline%22%7D%2C%7B%22extra%22%3A%7B%22duration%22%3A7.27%2C%22loop_count%22%3A0%2C%22lsp%22%3A0%2C%22playing_audio%22%3A1%2C%22seq_num%22%3A6%2C%22time%22%3A0%2C%22m_pk%22%3A%223345092795998990646_289661353%22%2C%22a_i%22%3A%22organic%22%2C%22a_pk%22%3A%22289661353%22%2C%22is_dash_eligible%22%3A1%2C%22nav_chain%22%3A%22PolarisProfilePostsTabRoot%3AprofilePage%3A1%3Avia_cold_start%22%2C%22pk%22%3A%2265485362671%22%2C%22playback_format%22%3A%22dash%22%2C%22time_spent_id%22%3A%22nfjkx9%22%2C%22tracking_token%22%3A%22eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNjNkOGUzY2ExMTg2NDIxM2JlNzkzYzY1MGNiNDJlY2UzMzQ1MDkyNzk1OTk4OTkwNjQ2Iiwic2VydmVyX3Rva2VuIjoiMTcxMjk5MzE3ODI3NHwzMzQ1MDkyNzk1OTk4OTkwNjQ2fDY1NDg1MzYyNjcxfGQxZWRhNTk0Yzk1ODQxMjBjNTVjZTE4NTQ4N2Q2NzE1YmI3NTZlYTY5Mjc0OTdmYWFhOGMwYjhiZDYxYzBiODMifSwic2lnbmF0dXJlIjoiIn0%3D%22%7D%2C%22name%22%3A%22video_exited%22%2C%22time%22%3A1712993251.705%2C%22module%22%3A%22reel_feed_timeline%22%7D%2C%7B%22extra%22%3A%7B%22ig_userid%22%3A%2265485362671%22%2C%22pk%22%3A%2265485362671%22%2C%22rollout_hash%22%3A%221012754956%22%2C%22app_id%22%3A%22936619743392459%22%2C%22frontend_env%22%3A%22C3%22%2C%22client_time%22%3A1712993251707%2C%22event%22%3A%22transition%22%2C%22extra_data%22%3A%7B%22source_page_id%22%3A%22StoriesPage_289661353%22%2C%22dest_page_id%22%3A%22profilePage_289661353%22%2C%22dest_profile_id%22%3A%22289661353%22%2C%22dest_sub_path%22%3A%22posts%22%7D%2C%22time_spent_id%22%3A%22nfjkx9%22%2C%22source_endpoint%22%3A%22StoriesPage%22%2C%22dest_endpoint%22%3A%22profilePage%22%2C%22original_referrer%22%3Anull%2C%22original_referrer_domain%22%3A%22%22%2C%22referrer%22%3A%22%2Fstories%2Fsuperbon_banchamek%2F3345092795998990646%2F%3Fr%3D1%22%2C%22referrer_domain%22%3A%22www.instagram.com%22%2C%22url%22%3A%22%2Fsuperbon_banchamek%22%2C%22nav_chain%22%3A%22PolarisProfilePostsTabRoot%3AprofilePage%3A1%3Avia_cold_start%22%7D%2C%22name%22%3A%22instagram_web_time_spent_navigation%22%2C%22time%22%3A1712993251.707%7D]%2C%22device_id%22%3A%2290F37C0A-66E0-4C6D-A18E-A2F1AB506938%22%2C%22log_type%22%3A%22client_event%22%2C%22seq%22%3A16%2C%22session_id%22%3A%22y67kpb%3A9vtls8%3Anfjkx9%22%7D",
+            "params": [
+                {
+                    "name": "access_token",
+                    "value": "936619743392459%7C3cdb3f896252a1db29679cb4554db266"
+                },
+                {
+                    "name": "message",
+                    "value": "%7B%22app_id%22%3A%22936619743392459%22%2C%22app_uid%22%3A%2265485362671%22%2C%22app_ver%22%3A%221.0.0%22%2C%22claims%22%3A[%22hmac.AR3P_LNKTHsdAONBDPsxw9hLNPPP76dw7y7P87Ln3G4K_tpG%22]%2C%22data%22%3A[%7B%22extra%22%3A%7B%22duration%22%3A7.27%2C%22loop_count%22%3A0%2C%22lsp%22%3A0%2C%22playing_audio%22%3A1%2C%22seq_num%22%3A5%2C%22time%22%3A7.27%2C%22video_width%22%3A720%2C%22m_pk%22%3A%223345092795998990646_289661353%22%2C%22a_i%22%3A%22organic%22%2C%22a_pk%22%3A%22289661353%22%2C%22is_dash_eligible%22%3A1%2C%22nav_chain%22%3A%22PolarisProfilePostsTabRoot%3AprofilePage%3A1%3Avia_cold_start%2CPolarisStoriesV3Root%3AStoriesPage%3A9%3Aunexpected%22%2C%22pk%22%3A%2265485362671%22%2C%22playback_format%22%3A%22dash%22%2C%22time_spent_id%22%3A%22nfjkx9%22%2C%22tracking_token%22%3A%22eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNjNkOGUzY2ExMTg2NDIxM2JlNzkzYzY1MGNiNDJlY2UzMzQ1MDkyNzk1OTk4OTkwNjQ2Iiwic2VydmVyX3Rva2VuIjoiMTcxMjk5MzE3ODI3NHwzMzQ1MDkyNzk1OTk4OTkwNjQ2fDY1NDg1MzYyNjcxfGQxZWRhNTk0Yzk1ODQxMjBjNTVjZTE4NTQ4N2Q2NzE1YmI3NTZlYTY5Mjc0OTdmYWFhOGMwYjhiZDYxYzBiODMifSwic2lnbmF0dXJlIjoiIn0%3D%22%7D%2C%22name%22%3A%22video_paused%22%2C%22time%22%3A1712993251.591%2C%22module%22%3A%22reel_feed_timeline%22%7D%2C%7B%22extra%22%3A%7B%22duration%22%3A7.27%2C%22loop_count%22%3A0%2C%22lsp%22%3A0%2C%22playing_audio%22%3A1%2C%22seq_num%22%3A6%2C%22time%22%3A0%2C%22m_pk%22%3A%223345092795998990646_289661353%22%2C%22a_i%22%3A%22organic%22%2C%22a_pk%22%3A%22289661353%22%2C%22is_dash_eligible%22%3A1%2C%22nav_chain%22%3A%22PolarisProfilePostsTabRoot%3AprofilePage%3A1%3Avia_cold_start%22%2C%22pk%22%3A%2265485362671%22%2C%22playback_format%22%3A%22dash%22%2C%22time_spent_id%22%3A%22nfjkx9%22%2C%22tracking_token%22%3A%22eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNjNkOGUzY2ExMTg2NDIxM2JlNzkzYzY1MGNiNDJlY2UzMzQ1MDkyNzk1OTk4OTkwNjQ2Iiwic2VydmVyX3Rva2VuIjoiMTcxMjk5MzE3ODI3NHwzMzQ1MDkyNzk1OTk4OTkwNjQ2fDY1NDg1MzYyNjcxfGQxZWRhNTk0Yzk1ODQxMjBjNTVjZTE4NTQ4N2Q2NzE1YmI3NTZlYTY5Mjc0OTdmYWFhOGMwYjhiZDYxYzBiODMifSwic2lnbmF0dXJlIjoiIn0%3D%22%7D%2C%22name%22%3A%22video_exited%22%2C%22time%22%3A1712993251.705%2C%22module%22%3A%22reel_feed_timeline%22%7D%2C%7B%22extra%22%3A%7B%22ig_userid%22%3A%2265485362671%22%2C%22pk%22%3A%2265485362671%22%2C%22rollout_hash%22%3A%221012754956%22%2C%22app_id%22%3A%22936619743392459%22%2C%22frontend_env%22%3A%22C3%22%2C%22client_time%22%3A1712993251707%2C%22event%22%3A%22transition%22%2C%22extra_data%22%3A%7B%22source_page_id%22%3A%22StoriesPage_289661353%22%2C%22dest_page_id%22%3A%22profilePage_289661353%22%2C%22dest_profile_id%22%3A%22289661353%22%2C%22dest_sub_path%22%3A%22posts%22%7D%2C%22time_spent_id%22%3A%22nfjkx9%22%2C%22source_endpoint%22%3A%22StoriesPage%22%2C%22dest_endpoint%22%3A%22profilePage%22%2C%22original_referrer%22%3Anull%2C%22original_referrer_domain%22%3A%22%22%2C%22referrer%22%3A%22%2Fstories%2Fsuperbon_banchamek%2F3345092795998990646%2F%3Fr%3D1%22%2C%22referrer_domain%22%3A%22www.instagram.com%22%2C%22url%22%3A%22%2Fsuperbon_banchamek%22%2C%22nav_chain%22%3A%22PolarisProfilePostsTabRoot%3AprofilePage%3A1%3Avia_cold_start%22%7D%2C%22name%22%3A%22instagram_web_time_spent_navigation%22%2C%22time%22%3A1712993251.707%7D]%2C%22device_id%22%3A%2290F37C0A-66E0-4C6D-A18E-A2F1AB506938%22%2C%22log_type%22%3A%22client_event%22%2C%22seq%22%3A16%2C%22session_id%22%3A%22y67kpb%3A9vtls8%3Anfjkx9%22%7D"
+                }
+            ]
+        }
+    },
+    "response": {
+        "status": 200,
+        "statusText": "",
+        "httpVersion": "http\/2.0",
+        "headers": [
+            {
+                "name": "access-control-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "cache-control",
+                "value": "private, no-cache, no-store, must-revalidate"
+            },
+            {
+                "name": "content-length",
+                "value": "107"
+            },
+            {
+                "name": "content-type",
+                "value": "application\/json; charset=UTF-8"
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "date",
+                "value": "Sat, 13 Apr 2024 07:27:36 GMT"
+            },
+            {
+                "name": "expires",
+                "value": "Sat, 01 Jan 2000 00:00:00 GMT"
+            },
+            {
+                "name": "facebook-api-version",
+                "value": "v13.0"
+            },
+            {
+                "name": "pragma",
+                "value": "no-cache"
+            },
+            {
+                "name": "strict-transport-security",
+                "value": "max-age=31536000; preload; includeSubDomains"
+            },
+            {
+                "name": "vary",
+                "value": "Origin"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "x-fb-debug",
+                "value": "Oc4iNqhgrtCOce77KSQdZU2UIL0w03h8TlafxI\/lVvex4f6I4Q4Lcli6s5IF7YY3uWJPSg4tptl9ZveB7xEwHw=="
+            },
+            {
+                "name": "x-fb-request-id",
+                "value": "An8EBMa6kpu_jP4K6MiJiRs"
+            },
+            {
+                "name": "x-fb-rev",
+                "value": "1012762899"
+            },
+            {
+                "name": "x-fb-trace-id",
+                "value": "BMyZahMQ4JU"
+            },
+            {
+                "name": "x-stack",
+                "value": "www"
+            }
+        ],
+        "cookies": [],
+        "content": {
+            "size": 0,
+            "mimeType": "application\/json",
+            "text": ""
+        },
+        "redirectURL": "",
+        "headersSize": -1,
+        "bodySize": -1,
+        "_transferSize": 0,
+        "_error": null
+    },
+    "serverIPAddress": "157.240.227.63",
+    "startedDateTime": "2024-04-13T07:27:36.222Z",
+    "time": 363.61099999914785,
+    "timings": {
+        "blocked": 25.85999999942456,
+        "dns": 0.026000000000000023,
+        "ssl": 41.568999999999996,
+        "connect": 83.144,
+        "send": 1.1559999999999917,
+        "wait": 252.4340000007474,
+        "receive": 0.9909999989758944,
+        "_blocked_queueing": 25.35399999942456
+    }
+}

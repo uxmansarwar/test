@@ -1,0 +1,271 @@
+{
+    "_initiator": {
+        "type": "script",
+        "stack": {
+            "callFrames": [
+                {
+                    "functionName": "mark",
+                    "scriptId": "8",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yo\/r\/rMjUV3tlg5-.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 2,
+                    "columnNumber": 658
+                },
+                {
+                    "functionName": "",
+                    "scriptId": "8",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yo\/r\/rMjUV3tlg5-.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 2,
+                    "columnNumber": 715
+                }
+            ]
+        }
+    },
+    "_priority": "VeryLow",
+    "_resourceType": "ping",
+    "cache": [],
+    "request": {
+        "method": "POST",
+        "url": "https:\/\/www.facebook.com\/ajax\/qm\/?__a=1&__user=0&__comet_req=15&jazoest=2923",
+        "httpVersion": "h3",
+        "headers": [
+            {
+                "name": ":authority",
+                "value": "www.facebook.com"
+            },
+            {
+                "name": ":method",
+                "value": "POST"
+            },
+            {
+                "name": ":path",
+                "value": "\/ajax\/qm\/?__a=1&__user=0&__comet_req=15&jazoest=2923"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "*\/*"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br, zstd"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "content-length",
+                "value": "131"
+            },
+            {
+                "name": "content-type",
+                "value": "application\/x-www-form-urlencoded"
+            },
+            {
+                "name": "cookie",
+                "value": "fr=02gdTVDAIn74SDUTf.AWXdzghaZO6DirD54nUJKkHkJv4.BmGjH5..AAA.0.0.BmGjH5.AWV1CXH31YA"
+            },
+            {
+                "name": "origin",
+                "value": "https:\/\/www.facebook.com"
+            },
+            {
+                "name": "referer",
+                "value": "https:\/\/www.facebook.com\/instagram\/login_sync\/"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Google Chrome\";v=\"123\", \"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"123\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "empty"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "no-cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "same-origin"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/123.0.0.0 Safari\/537.36"
+            }
+        ],
+        "queryString": [
+            {
+                "name": "__a",
+                "value": "1"
+            },
+            {
+                "name": "__user",
+                "value": "0"
+            },
+            {
+                "name": "__comet_req",
+                "value": "15"
+            },
+            {
+                "name": "jazoest",
+                "value": "2923"
+            }
+        ],
+        "cookies": [
+            {
+                "name": "fr",
+                "value": "02gdTVDAIn74SDUTf.AWXdzghaZO6DirD54nUJKkHkJv4.BmGjH5..AAA.0.0.BmGjH5.AWV1CXH31YA",
+                "path": "\/",
+                "domain": ".facebook.com",
+                "expires": "2024-07-12T07:19:21.801Z",
+                "httpOnly": true,
+                "secure": true,
+                "sameSite": "None"
+            }
+        ],
+        "headersSize": -1,
+        "bodySize": 0
+    },
+    "response": {
+        "status": 200,
+        "statusText": "",
+        "httpVersion": "h3",
+        "headers": [
+            {
+                "name": "access-control-allow-credentials",
+                "value": "true"
+            },
+            {
+                "name": "access-control-allow-methods",
+                "value": "OPTIONS"
+            },
+            {
+                "name": "access-control-allow-origin",
+                "value": "https:\/\/www.facebook.com"
+            },
+            {
+                "name": "access-control-expose-headers",
+                "value": "X-FB-Debug, X-Loader-Length, X-Stack"
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=86400"
+            },
+            {
+                "name": "cache-control",
+                "value": "private, no-cache, no-store, must-revalidate"
+            },
+            {
+                "name": "content-encoding",
+                "value": "zstd"
+            },
+            {
+                "name": "content-type",
+                "value": "application\/x-javascript; charset=utf-8"
+            },
+            {
+                "name": "cross-origin-embedder-policy-report-only",
+                "value": "require-corp;report-to=\"coep_report\""
+            },
+            {
+                "name": "cross-origin-opener-policy",
+                "value": "same-origin-allow-popups;report-to=\"coop_report\""
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "date",
+                "value": "Sat, 13 Apr 2024 07:24:14 GMT"
+            },
+            {
+                "name": "expires",
+                "value": "Sat, 01 Jan 2000 00:00:00 GMT"
+            },
+            {
+                "name": "origin-agent-cluster",
+                "value": "?0"
+            },
+            {
+                "name": "pragma",
+                "value": "no-cache"
+            },
+            {
+                "name": "priority",
+                "value": "u=4,i"
+            },
+            {
+                "name": "report-to",
+                "value": "{\"max_age\":2592000,\"endpoints\":[{\"url\":\"https:\\\/\\\/www.facebook.com\\\/browser_reporting\\\/coop\\\/?minimize=0\"}],\"group\":\"coop_report\",\"include_subdomains\":true}, {\"max_age\":86400,\"endpoints\":[{\"url\":\"https:\\\/\\\/www.facebook.com\\\/browser_reporting\\\/coep\\\/?minimize=0\"}],\"group\":\"coep_report\"}, {\"max_age\":259200,\"endpoints\":[{\"url\":\"https:\\\/\\\/www.facebook.com\\\/ajax\\\/comet_error_reports\\\/?device_level=unknown\"}]}"
+            },
+            {
+                "name": "reporting-endpoints",
+                "value": "coop_report=\"https:\/\/www.facebook.com\/browser_reporting\/coop\/?minimize=0\", coep_report=\"https:\/\/www.facebook.com\/browser_reporting\/coep\/?minimize=0\", default=\"https:\/\/www.facebook.com\/ajax\/comet_error_reports\/?device_level=unknown\""
+            },
+            {
+                "name": "strict-transport-security",
+                "value": "max-age=15552000; preload"
+            },
+            {
+                "name": "vary",
+                "value": "Origin"
+            },
+            {
+                "name": "vary",
+                "value": "Accept-Encoding"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "x-fb-connection-quality",
+                "value": "EXCELLENT; q=0.9, rtt=47, rtx=22, c=37, mss=1232, tbw=47984, tp=52, tpl=22, uplat=208, ullat=0"
+            },
+            {
+                "name": "x-fb-debug",
+                "value": "+l3W8Qafts7\/iDU7\/aAXmDl5LignZZaNFDoTVNZ8WSHzvv2MeqcogbracmQRnph0ml\/awGB7Tdhs1MSI5\/JoPA=="
+            },
+            {
+                "name": "x-frame-options",
+                "value": "DENY"
+            }
+        ],
+        "cookies": [],
+        "content": {
+            "size": 243,
+            "mimeType": "application\/x-javascript"
+        },
+        "redirectURL": "",
+        "headersSize": -1,
+        "bodySize": -1,
+        "_transferSize": 317,
+        "_error": null
+    },
+    "serverIPAddress": "157.240.227.35",
+    "startedDateTime": "2024-04-13T07:24:14.008Z",
+    "time": 253.882999999405,
+    "timings": {
+        "blocked": 2.2820000006691554,
+        "dns": -1,
+        "ssl": -1,
+        "connect": -1,
+        "send": 0.7059999999999998,
+        "wait": 249.96600000074028,
+        "receive": 0.928999997995561,
+        "_blocked_queueing": 1.3560000006691553
+    }
+}

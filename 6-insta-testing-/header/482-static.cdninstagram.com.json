@@ -1,0 +1,115 @@
+{
+    "url": "https:\/\/static.cdninstagram.com\/rsrc-translations.php\/v6i_Lz4\/yL\/l\/en_US\/q3FQ62QYpBG.js?_nc_x=Ij3Wp8lg5Kz",
+    "request": [
+        {
+            "name": "sec-ch-ua",
+            "value": "\"Google Chrome\";v=\"123\", \"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"123\""
+        },
+        {
+            "name": "Referer",
+            "value": "https:\/\/www.instagram.com\/"
+        },
+        {
+            "name": "sec-ch-ua-mobile",
+            "value": "?0"
+        },
+        {
+            "name": "User-Agent",
+            "value": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/123.0.0.0 Safari\/537.36"
+        },
+        {
+            "name": "sec-ch-ua-platform",
+            "value": "\"Windows\""
+        }
+    ],
+    "response": [
+        {
+            "name": "date",
+            "value": "Sat, 13 Apr 2024 07:19:12 GMT"
+        },
+        {
+            "name": "content-encoding",
+            "value": "zstd"
+        },
+        {
+            "name": "x-content-type-options",
+            "value": "nosniff"
+        },
+        {
+            "name": "content-md5",
+            "value": "Jl0cRIPneoRjQGBUn2jWLg=="
+        },
+        {
+            "name": "document-policy",
+            "value": "force-load-at-top"
+        },
+        {
+            "name": "cross-origin-resource-policy",
+            "value": "cross-origin"
+        },
+        {
+            "name": "alt-svc",
+            "value": "h3=\":443\"; ma=86400"
+        },
+        {
+            "name": "content-length",
+            "value": "391"
+        },
+        {
+            "name": "reporting-endpoints",
+            "value": "permissions_policy=\"https:\/\/www.facebook.com\/ajax\/browser_error_reports\/\""
+        },
+        {
+            "name": "x-fb-connection-quality",
+            "value": "EXCELLENT; q=0.9, rtt=43, rtx=577, c=95, mss=1232, tbw=1764182, tp=1452, tpl=577, uplat=0, ullat=-1"
+        },
+        {
+            "name": "x-fb-debug",
+            "value": "Q4RIpciV8snRjUIuM3mEu50M2Ksp4hoOVpgHYYIz8hs\/TdDZIDYiUt32YEl48oVk8aSLNmVOXTpVL8RFLKuqYQ=="
+        },
+        {
+            "name": "last-modified",
+            "value": "Mon, 01 Jan 2001 08:00:00 GMT"
+        },
+        {
+            "name": "vary",
+            "value": "Origin"
+        },
+        {
+            "name": "report-to",
+            "value": "{\"max_age\":21600,\"endpoints\":[{\"url\":\"https:\\\/\\\/www.facebook.com\\\/ajax\\\/browser_error_reports\\\/\"}],\"group\":\"permissions_policy\"}"
+        },
+        {
+            "name": "content-type",
+            "value": "application\/json"
+        },
+        {
+            "name": "access-control-allow-origin",
+            "value": "https:\/\/www.instagram.com"
+        },
+        {
+            "name": "origin-agent-cluster",
+            "value": "?0"
+        },
+        {
+            "name": "cache-control",
+            "value": "public,max-age=31536000,immutable"
+        },
+        {
+            "name": "permissions-policy",
+            "value": "accelerometer=(), attribution-reporting=(), autoplay=(), bluetooth=(), camera=(), ch-device-memory=(), ch-downlink=(), ch-ect=(), ch-rtt=(), ch-save-data=(), ch-ua-arch=(), ch-ua-bitness=(), clipboard-read=(), clipboard-write=(), display-capture=(), encrypted-media=(), fullscreen=(self), gamepad=(), geolocation=(), gyroscope=(), hid=(), idle-detection=(), keyboard-map=(), local-fonts=(), magnetometer=(), microphone=(), midi=(), otp-credentials=(), payment=(), picture-in-picture=(), publickey-credentials-get=(), screen-wake-lock=(), serial=(), usb=(), window-management=(), xr-spatial-tracking=();report-to=\"permissions_policy\""
+        },
+        {
+            "name": "timing-allow-origin",
+            "value": "*"
+        },
+        {
+            "name": "priority",
+            "value": "u=1,i"
+        },
+        {
+            "name": "expires",
+            "value": "Sat, 12 Apr 2025 21:21:30 GMT"
+        }
+    ]
+}

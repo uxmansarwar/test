@@ -1,0 +1,16 @@
+{
+    "url": "https:\/\/www.instagram.com\/",
+    "request": [],
+    "response": [
+        {
+            "name": "csrftoken",
+            "value": "oBQx_9QTfQRQaJYzYqgn9x",
+            "path": "\/",
+            "domain": ".instagram.com",
+            "expires": "2025-04-12T07:17:53.987Z",
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        }
+    ]
+}

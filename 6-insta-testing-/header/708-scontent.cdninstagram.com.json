@@ -1,0 +1,139 @@
+{
+    "url": "https:\/\/scontent.cdninstagram.com\/v\/t72.14836-16\/355382251_2350759468453164_5148575400140484411_n.mp4?_nc_cat=106&ccb=1-7&_nc_sid=9a5d50&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfcjJldmV2cDktcjFnZW4ydnA5X3E5MCIsInZpZGVvX2lkIjpudWxsfQ%3D%3D&_nc_ohc=cIYydgAAQV0Ab7NSAwp&_nc_ht=scontent.cdninstagram.com&oh=00_AfBGNOuptp-ZnYQi-ZP6Mh6Pc46wajB-JIA1KMl8V0r48w&oe=661FF4F5&bytestart=1943518&byteend=4036586",
+    "request": [
+        {
+            "name": ":authority",
+            "value": "scontent.cdninstagram.com"
+        },
+        {
+            "name": ":method",
+            "value": "GET"
+        },
+        {
+            "name": ":path",
+            "value": "\/v\/t72.14836-16\/355382251_2350759468453164_5148575400140484411_n.mp4?_nc_cat=106&ccb=1-7&_nc_sid=9a5d50&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfcjJldmV2cDktcjFnZW4ydnA5X3E5MCIsInZpZGVvX2lkIjpudWxsfQ%3D%3D&_nc_ohc=cIYydgAAQV0Ab7NSAwp&_nc_ht=scontent.cdninstagram.com&oh=00_AfBGNOuptp-ZnYQi-ZP6Mh6Pc46wajB-JIA1KMl8V0r48w&oe=661FF4F5&bytestart=1943518&byteend=4036586"
+        },
+        {
+            "name": ":scheme",
+            "value": "https"
+        },
+        {
+            "name": "accept",
+            "value": "*\/*"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br, zstd"
+        },
+        {
+            "name": "accept-language",
+            "value": "en-US,en;q=0.9"
+        },
+        {
+            "name": "origin",
+            "value": "https:\/\/www.instagram.com"
+        },
+        {
+            "name": "referer",
+            "value": "https:\/\/www.instagram.com\/"
+        },
+        {
+            "name": "sec-ch-ua",
+            "value": "\"Google Chrome\";v=\"123\", \"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"123\""
+        },
+        {
+            "name": "sec-ch-ua-mobile",
+            "value": "?0"
+        },
+        {
+            "name": "sec-ch-ua-platform",
+            "value": "\"Windows\""
+        },
+        {
+            "name": "sec-fetch-dest",
+            "value": "empty"
+        },
+        {
+            "name": "sec-fetch-mode",
+            "value": "cors"
+        },
+        {
+            "name": "sec-fetch-site",
+            "value": "cross-site"
+        },
+        {
+            "name": "user-agent",
+            "value": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/123.0.0.0 Safari\/537.36"
+        }
+    ],
+    "response": [
+        {
+            "name": "accept-ranges",
+            "value": "bytes"
+        },
+        {
+            "name": "access-control-allow-origin",
+            "value": "https:\/\/www.instagram.com"
+        },
+        {
+            "name": "alt-svc",
+            "value": "h3=\":443\"; ma=86400"
+        },
+        {
+            "name": "cache-control",
+            "value": "max-age=1209600, no-transform"
+        },
+        {
+            "name": "content-length",
+            "value": "2093069"
+        },
+        {
+            "name": "content-type",
+            "value": "video\/mp4"
+        },
+        {
+            "name": "cross-origin-resource-policy",
+            "value": "cross-origin"
+        },
+        {
+            "name": "date",
+            "value": "Sat, 13 Apr 2024 07:27:12 GMT"
+        },
+        {
+            "name": "last-modified",
+            "value": "Sat, 13 Apr 2024 05:33:12 GMT"
+        },
+        {
+            "name": "priority",
+            "value": "u=1,i"
+        },
+        {
+            "name": "thrift_fmhk",
+            "value": "GBDM0VD9fr8bvq4ywFnHxz0iFeq3uckLvFUAAAA="
+        },
+        {
+            "name": "timing-allow-origin",
+            "value": "*"
+        },
+        {
+            "name": "vary",
+            "value": "Origin"
+        },
+        {
+            "name": "x-fb-connection-quality",
+            "value": "EXCELLENT; q=0.9, rtt=43, rtx=7966, c=88, mss=1232, tbw=25693785, tp=21164, tpl=7966, uplat=2, ullat=-1"
+        },
+        {
+            "name": "x-needle-checksum",
+            "value": "1921413310"
+        },
+        {
+            "name": "x-storage-error-category",
+            "value": "dfs:none;sc_p:206:WSE_NOT_SET"
+        },
+        {
+            "name": "x-upstream-checksum-algorithm",
+            "value": "crc32"
+        }
+    ]
+}

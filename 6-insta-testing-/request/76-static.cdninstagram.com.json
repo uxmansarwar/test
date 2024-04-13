@@ -1,0 +1,210 @@
+{
+    "_initiator": {
+        "type": "parser",
+        "url": "https:\/\/www.instagram.com\/accounts\/onetap\/?next=%2F",
+        "lineNumber": 11
+    },
+    "_priority": "High",
+    "_resourceType": "script",
+    "cache": [],
+    "pageref": "page_14",
+    "request": {
+        "method": "GET",
+        "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yV\/r\/L7ybOSq2QJYq9PrmLfknwq.js?_nc_x=Ij3Wp8lg5Kz",
+        "httpVersion": "h3",
+        "headers": [
+            {
+                "name": ":authority",
+                "value": "static.cdninstagram.com"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "\/rsrc.php\/v3\/yV\/r\/L7ybOSq2QJYq9PrmLfknwq.js?_nc_x=Ij3Wp8lg5Kz"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "*\/*"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br, zstd"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "origin",
+                "value": "https:\/\/www.instagram.com"
+            },
+            {
+                "name": "referer",
+                "value": "https:\/\/www.instagram.com\/"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Google Chrome\";v=\"123\", \"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"123\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "script"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "cross-site"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/123.0.0.0 Safari\/537.36"
+            }
+        ],
+        "queryString": [
+            {
+                "name": "_nc_x",
+                "value": "Ij3Wp8lg5Kz"
+            }
+        ],
+        "cookies": [],
+        "headersSize": -1,
+        "bodySize": 0
+    },
+    "response": {
+        "status": 200,
+        "statusText": "",
+        "httpVersion": "h3",
+        "headers": [
+            {
+                "name": "access-control-allow-origin",
+                "value": "https:\/\/www.instagram.com"
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=86400"
+            },
+            {
+                "name": "cache-control",
+                "value": "public,max-age=31536000,immutable"
+            },
+            {
+                "name": "content-encoding",
+                "value": "zstd"
+            },
+            {
+                "name": "content-length",
+                "value": "4174"
+            },
+            {
+                "name": "content-md5",
+                "value": "DpykvrnGKDwkQOzPzCHafw=="
+            },
+            {
+                "name": "content-type",
+                "value": "application\/x-javascript; charset=utf-8"
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "date",
+                "value": "Sat, 13 Apr 2024 07:19:11 GMT"
+            },
+            {
+                "name": "document-policy",
+                "value": "force-load-at-top"
+            },
+            {
+                "name": "expires",
+                "value": "Thu, 10 Apr 2025 19:18:36 GMT"
+            },
+            {
+                "name": "last-modified",
+                "value": "Mon, 01 Jan 2001 08:00:00 GMT"
+            },
+            {
+                "name": "origin-agent-cluster",
+                "value": "?0"
+            },
+            {
+                "name": "permissions-policy",
+                "value": "accelerometer=(), attribution-reporting=(), autoplay=(), bluetooth=(), camera=(), ch-device-memory=(), ch-downlink=(), ch-ect=(), ch-rtt=(), ch-save-data=(), ch-ua-arch=(), ch-ua-bitness=(), clipboard-read=(), clipboard-write=(), display-capture=(), encrypted-media=(), fullscreen=(self), gamepad=(), geolocation=(), gyroscope=(), hid=(), idle-detection=(), keyboard-map=(), local-fonts=(), magnetometer=(), microphone=(), midi=(), otp-credentials=(), payment=(), picture-in-picture=(), publickey-credentials-get=(), screen-wake-lock=(), serial=(), usb=(), window-management=(), xr-spatial-tracking=();report-to=\"permissions_policy\""
+            },
+            {
+                "name": "priority",
+                "value": "u=1"
+            },
+            {
+                "name": "report-to",
+                "value": "{\"max_age\":21600,\"endpoints\":[{\"url\":\"https:\\\/\\\/www.facebook.com\\\/ajax\\\/browser_error_reports\\\/\"}],\"group\":\"permissions_policy\"}"
+            },
+            {
+                "name": "reporting-endpoints",
+                "value": "permissions_policy=\"https:\/\/www.facebook.com\/ajax\/browser_error_reports\/\""
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "vary",
+                "value": "Origin"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "x-fb-connection-quality",
+                "value": "GOOD; q=0.7, rtt=74, rtx=0, c=48, mss=1232, tbw=83710, tp=87, tpl=0, uplat=1, ullat=-1"
+            },
+            {
+                "name": "x-fb-debug",
+                "value": "lZogepx98sNFNhzTgaO4jBNSHf3Wjf6T9JGrtYQ9zvPRxxbmhicl1EhEQzjCdM2Mx0iOixwrIaDLFN5PQ5KK2w=="
+            }
+        ],
+        "cookies": [],
+        "content": {
+            "size": 11959,
+            "mimeType": "application\/x-javascript",
+            "text": ";\/*FB_PKG_DELIM*\/\n\n__d(\"PolarisUserAvatarWithStories_user.graphql\",[],(function(a,b,c,d,e,f){\"use strict\";a={argumentDefinitions:[],kind:\"Fragment\",metadata:null,name:\"PolarisUserAvatarWithStories_user\",selections:[{kind:\"RequiredField\",field:{alias:null,args:null,kind:\"ScalarField\",name:\"username\",storageKey:null},action:\"THROW\",path:\"username\"},{kind:\"RequiredField\",field:{alias:null,args:null,kind:\"ScalarField\",name:\"pk\",storageKey:null},action:\"THROW\",path:\"pk\"},{alias:null,args:null,kind:\"ScalarField\",name:\"live_broadcast_visibility\",storageKey:null},{alias:null,args:null,kind:\"ScalarField\",name:\"live_broadcast_id\",storageKey:null},{alias:null,args:null,kind:\"ScalarField\",name:\"profile_pic_url\",storageKey:null},{alias:null,args:null,concreteType:\"XDTProfilePicUrlInfo\",kind:\"LinkedField\",name:\"hd_profile_pic_url_info\",plural:!1,selections:[{alias:null,args:null,kind:\"ScalarField\",name:\"url\",storageKey:null}],storageKey:null},{alias:null,args:null,kind:\"ScalarField\",name:\"is_unpublished\",storageKey:null}],type:\"XDTUserDict\",abstractKey:null};e.exports=a}),null);\n__d(\"XPolarisProfileLiveControllerRouteBuilder\",[\"jsRouteBuilder\"],(function(a,b,c,d,e,f,g){a=c(\"jsRouteBuilder\")(\"\/{username}\/live\/\",Object.freeze({}),void 0);b=a;g[\"default\"]=b}),98);\n__d(\"PolarisUserAvatarWithStories.next.react\",[\"CometPressable.react\",\"CometRelay\",\"PolarisConfig\",\"PolarisLiveBadge.react\",\"PolarisNavigationActions\",\"PolarisReactRedux.react\",\"PolarisStoryActions\",\"PolarisStoryRing.react\",\"PolarisUA\",\"PolarisUserAvatar.react\",\"PolarisUserAvatarLivePulse.react\",\"PolarisUserAvatarWithStories_user.graphql\",\"XPolarisProfileLiveControllerRouteBuilder\",\"XPolarisStoriesMediaControllerRouteBuilder\",\"cr:2136\",\"cr:2140\",\"emptyFunction\",\"immutable-4.0.0-rc.9\",\"polarisAvatarConstants\",\"polarisStorySelectors\",\"promiseDone\",\"react\",\"stylex\",\"useCometRouterDispatcher\",\"usePolarisSelector\"],(function(a,b,c,d,e,f,g){\"use strict\";var h,i,j,k=j||(j=d(\"react\"));e=j;e.useCallback;var l=e.useState,m=e.unstable_useMemoCache,n=(e=(f=b(\"cr:2136\"))!=null?f:b(\"cr:2140\"))!=null?e:c(\"emptyFunction\"),o={liveBadgeRoot:{alignItems:\"x6s0dn4\",bottom:\"xc4rmwq\",display:\"x78zum5\",justifyContent:\"xl56j7k\",position:\"x10l6tqk\",width:\"xh8yej3\",$$css:!0},liveBadgeRootLarge:{bottom:\"x1xtax4o\",$$css:!0},root:{alignItems:\"x6s0dn4\",alignSelf:\"xamitd3\",display:\"x1lliihq\",justifyContent:\"xl56j7k\",position:\"x1n2onr6\",$$css:!0}};function a(a){var e=m(57),f=a.animateOnLoad,g=a.entrypoint,j=a.hdAvatar,p=a.onClick,q=a.onOpenReel,r=a.showLivePulse,s=a.size,t=a.testid;a=a.user;j=j===void 0?!1:j;a=d(\"CometRelay\").useFragment(h!==void 0?h:h=b(\"PolarisUserAvatarWithStories_user.graphql\"),a);var u=a.hd_profile_pic_url_info,v=a.is_unpublished,w=a.live_broadcast_id,x=a.live_broadcast_visibility,y=a.pk,z=a.profile_pic_url,A=a.username;u=(j=(a=j?u==null?void 0:u.url:z)!=null?a:z)!=null?j:\"\";var B=c(\"useCometRouterDispatcher\")(),C=d(\"PolarisReactRedux.react\").useDispatch();a=l(!1);z=a[0];var D=a[1];e[0]!==w?(j=w!=null&&d(\"PolarisUA\").isDesktop(),e[0]=w,e[1]=j):j=e[1];var E=j;e[2]!==y?(a=function(a){return d(\"polarisStorySelectors\").getReel(a,y)},e[2]=y,e[3]=a):a=e[3];var F=c(\"usePolarisSelector\")(a);e[4]!==C||e[5]!==g||e[6]!==B||e[7]!==w||e[8]!==A?(j=function(){var a;C(d(\"PolarisNavigationActions\").trackEntrypoint());C(d(\"PolarisStoryActions\").setStoryTrayEntrypoint(g));B==null?void 0:B.go(c(\"XPolarisProfileLiveControllerRouteBuilder\").buildUri({broadcast_id:(a=w)!=null?a:void 0,username:A}).toString(),{replace:!0})},e[4]=C,e[5]=g,e[6]=B,e[7]=w,e[8]=A,e[9]=j):j=e[9];var G=j,H=n(A,g);e[10]!==H||e[11]!==p||e[12]!==E||e[13]!==G||e[14]!==C||e[15]!==g||e[16]!==q||e[17]!==y||e[18]!==F||e[19]!==A||e[20]!==B?(a=function(a){a.stopPropagation();a.preventDefault();H==null&&D(!0);p&&p(a);if(E&&d(\"PolarisConfig\").isLoggedIn()&&d(\"PolarisUA\").isDesktop()){G();return}C(d(\"PolarisNavigationActions\").trackEntrypoint());C(d(\"PolarisStoryActions\").setStoryTrayEntrypoint(g));q&&q();if(y!=null){if(H!=null){H();return}F!=null?C(d(\"PolarisStoryActions\").openReelsMedia(d(\"immutable-4.0.0-rc.9\").List.of(F),g,y,null)):c(\"promiseDone\")(C(d(\"PolarisStoryActions\").initStoryPage({owner:{id:y,username:A}})).then(function(){B==null?void 0:B.go(c(\"XPolarisStoriesMediaControllerRouteBuilder\").buildUri({username:A}).toString(),{replace:!0})}))}},e[10]=H,e[11]=p,e[12]=E,e[13]=G,e[14]=C,e[15]=g,e[16]=q,e[17]=y,e[18]=F,e[19]=A,e[20]=B,e[21]=a):a=e[21];j=a;a=r===!0&&E;e[22]!==s?(r=Math.ceil(s*d(\"PolarisUserAvatarLivePulse.react\").getAvatarSizeScale()),e[22]=s,e[23]=r):r=e[23];r=r;var I;e[24]!==y?(I=function(a){return y!=null?d(\"polarisStorySelectors\").getReel(a,y):null},e[24]=y,e[25]=I):I=e[25];I=c(\"usePolarisSelector\")(I);var J=I!=null,K=J||E;v=v===!0||!K;r=a?r:s;var L;e[26]!==v||e[27]!==u||e[28]!==r||e[29]!==A?(L=k.jsx(c(\"PolarisUserAvatar.react\"),{isLink:v,profilePictureUrl:u,size:r,username:A}),e[26]=v,e[27]=u,e[28]=r,e[29]=A,e[30]=L):L=e[30];v=L;e[31]!==a||e[32]!==s||e[33]!==v?(u=a?k.jsx(d(\"PolarisUserAvatarLivePulse.react\").UserAvatarLivePulse,{size:s,children:v}):v,e[31]=a,e[32]=s,e[33]=v,e[34]=u):u=e[34];r=u;if(!J&&!E){e[35]===Symbol[\"for\"](\"react.memo_cache_sentinel\")?(L=\"x6s0dn4 xamitd3 x1lliihq xl56j7k x1n2onr6\",e[35]=L):L=e[35];e[36]!==v?(a=k.jsx(\"div\",{className:L,children:v}),e[36]=v,e[37]=a):a=e[37];return a}u=I!=null&&d(\"polarisStorySelectors\").isReelSeen(I);if(e[38]!==K||e[39]!==f||e[40]!==I||e[41]!==E||e[42]!==u||e[43]!==z||e[44]!==s||e[45]!==x){L=K&&k.jsx(c(\"PolarisStoryRing.react\"),{animateOnLoad:f===!0,className:\"x1upo8f9 xpdipgo x87ps6o\",hasPrideMedia:!1,isCenterOnAvatar:!0,isCloseFriends:(J=I==null?void 0:I.isCloseFriends)!=null?J:!1,isLive:E,isLoading:z,seen:E?!1:u,showRing:!0,size:s,visibility:x});e[38]=K;e[39]=f;e[40]=I;e[41]=E;e[42]=u;e[43]=z;e[44]=s;e[45]=x;e[46]=L}else L=e[46];e[47]!==E||e[48]!==s||e[49]!==x?(v=E&&k.jsx(\"div\",{className:(i||(i=c(\"stylex\")))(o.liveBadgeRoot,s===d(\"polarisAvatarConstants\").PROFILE_AVATAR_SIZE_LARGE&&o.liveBadgeRootLarge),children:k.jsx(d(\"PolarisLiveBadge.react\").LiveBadge,babelHelpers[\"extends\"]({visibility:x},d(\"PolarisLiveBadge.react\").getLiveBadgeSize(s)))}),e[47]=E,e[48]=s,e[49]=x,e[50]=v):v=e[50];e[51]!==j||e[52]!==t||e[53]!==L||e[54]!==r||e[55]!==v?(a=k.jsxs(c(\"CometPressable.react\"),{onPress:j,overlayDisabled:!0,testid:void 0,xstyle:o.root,children:[L,r,v]}),e[51]=j,e[52]=t,e[53]=L,e[54]=r,e[55]=v,e[56]=a):a=e[56];return a}g[\"default\"]=a}),98);\/*FB_PKG_DELIM*\/\n__d(\"BasePopover.react\",[\"react\",\"stylex\",\"testID\"],(function(a,b,c,d,e,f,g){\"use strict\";var h,i,j=i||d(\"react\"),k={root:{position:\"x1n2onr6\",$$css:!0}};b=j.forwardRef(a);function a(a,b){var d=a[\"aria-label\"],e=a[\"aria-labelledby\"],f=a.arrowAlignment;f=f===void 0?\"center\":f;var g=a.arrowImpl,i=a.id,l=a.role;l=l===void 0?\"dialog\":l;var m=a.testid,n=a.xstyle;a=babelHelpers.objectWithoutPropertiesLoose(a,[\"aria-label\",\"aria-labelledby\",\"arrowAlignment\",\"arrowImpl\",\"id\",\"role\",\"testid\",\"xstyle\"]);return g?j.jsx(g,babelHelpers[\"extends\"]({\"aria-label\":d,\"aria-labelledby\":e,arrowAlignment:f,id:i,ref:b,role:l,testid:void 0,xstyle:n},a)):j.jsx(\"div\",babelHelpers[\"extends\"]({\"aria-label\":d,\"aria-labelledby\":e,className:(h||(h=c(\"stylex\")))(k.root,n),id:i,ref:b,role:l},c(\"testID\")(m),a))}a.displayName=a.name+\" [from \"+f.id+\"]\";e=b;g[\"default\"]=e}),98);\n__d(\"IGDSPopover.react\",[\"BaseContextualLayerOrientationContext\",\"BasePopover.react\",\"IGDSPrivateArrow.react\",\"IGDSPrivateArrowOuterContainerStyles\",\"react\",\"stylex\",\"useCometDisplayTimingTrackerForInteraction\"],(function(a,b,c,d,e,f,g){\"use strict\";var h,i,j=i||(i=d(\"react\"));b=i;var k=b.useContext,l=b.unstable_useMemoCache,m={arrowEnd:{start:\"xr6gfmr\",left:null,right:null,$$css:!0},outerContainer:{display:\"x78zum5\",$$css:!0},popoverContentContainer:{backgroundColor:\"xgf5ljw\",borderTopStartRadius:\"xhk9q7s\",borderTopEndRadius:\"x1otrzb0\",borderBottomEndRadius:\"x1i1ezom\",borderBottomStartRadius:\"x1o6z2jb\",boxShadow:\"x1wp8tw6\",display:\"x78zum5\",flexDirection:\"xdt5ytf\",height:\"x5yr21d\",overflowX:\"x6ikm8r\",overflowY:\"x10wlt62\",position:\"x1n2onr6\",width:\"xh8yej3\",$$css:!0}},n={above_end:{bottom:\"x1ey2m1c\",end:\"x1memqgq\",left:null,right:null,position:\"x10l6tqk\",$$css:!0},above_start:{bottom:\"x1ey2m1c\",position:\"x10l6tqk\",start:\"x11f4b5y\",left:null,right:null,$$css:!0},below_end:{end:\"x1memqgq\",left:null,right:null,position:\"x10l6tqk\",top:\"x13vifvy\",$$css:!0},below_start:{position:\"x10l6tqk\",start:\"x11f4b5y\",left:null,right:null,top:\"x13vifvy\",$$css:!0},end_end:{bottom:\"x191j7n5\",position:\"x10l6tqk\",start:\"x17qophe\",left:null,right:null,$$css:!0},end_start:{position:\"x10l6tqk\",start:\"x17qophe\",left:null,right:null,top:\"xomnu4r\",$$css:!0},start_end:{bottom:\"x191j7n5\",end:\"xds687c\",left:null,right:null,position:\"x10l6tqk\",$$css:!0},start_start:{end:\"xds687c\",left:null,right:null,position:\"x10l6tqk\",top:\"xomnu4r\",$$css:!0}};function o(a){var b=l(24),d=a.arrowContainerXStyle,e=a.backgroundXStyle,f=a.displayTrackerRef,g=a.popoverContent,i=a.popoverXStyle;a=a.withArrow;var o=k(c(\"BaseContextualLayerOrientationContext\")),p=o.align;o=o.position;p=n[o+\"_\"+p];var q;b[0]!==p||b[1]!==d?(q=(h||(h=c(\"stylex\")))([p,d]),b[0]=p,b[1]=d,b[2]=q):q=b[2];p=o===\"end\"&&m.arrowEnd;b[3]!==p||b[4]!==e?(d=j.jsx(c(\"IGDSPrivateArrow.react\"),{xstyle:[p,e]}),b[3]=p,b[4]=e,b[5]=d):d=b[5];b[6]!==q||b[7]!==d?(p=j.jsx(\"div\",{className:q,children:d}),b[6]=q,b[7]=d,b[8]=p):p=b[8];q=p;d=a&&o===\"below\"&&c(\"IGDSPrivateArrowOuterContainerStyles\").outerContainerArrowBelowMarginSpacing;p=a&&o===\"above\"&&c(\"IGDSPrivateArrowOuterContainerStyles\").outerContainerArrowAboveMarginSpacing;o=a&&o===\"end\"&&c(\"IGDSPrivateArrowOuterContainerStyles\").outerContainerArrowEndMarginSpacing;var r;b[9]!==d||b[10]!==p||b[11]!==o?(r=(h||(h=c(\"stylex\")))(m.outerContainer,d,p,o),b[9]=d,b[10]=p,b[11]=o,b[12]=r):r=b[12];b[13]!==i||b[14]!==e?(d=(h||(h=c(\"stylex\")))(m.popoverContentContainer,i,e),b[13]=i,b[14]=e,b[15]=d):d=b[15];b[16]!==d||b[17]!==f||b[18]!==g?(p=j.jsx(\"div\",{className:d,ref:f,children:g}),b[16]=d,b[17]=f,b[18]=g,b[19]=p):p=b[19];o=a&&q;b[20]!==r||b[21]!==p||b[22]!==o?(i=j.jsxs(\"div\",{className:r,children:[p,o]}),b[20]=r,b[21]=p,b[22]=o,b[23]=i):i=b[23];return i}function a(a,b){var d=l(11),e=a.arrowContainerXStyle,f=a.backgroundXStyle,g=a.popoverContent,h=a.popoverName,i=a.popoverXStyle,k=a.testid;a=a.withArrow;a=a===void 0?!1:a;h=c(\"useCometDisplayTimingTrackerForInteraction\")(h);var m;d[0]!==e||d[1]!==f||d[2]!==h||d[3]!==g||d[4]!==i||d[5]!==a?(m=j.jsx(o,{arrowContainerXStyle:e,backgroundXStyle:f,displayTrackerRef:h,popoverContent:g,popoverXStyle:i,withArrow:a}),d[0]=e,d[1]=f,d[2]=h,d[3]=g,d[4]=i,d[5]=a,d[6]=m):m=d[6];d[7]!==b||d[8]!==k||d[9]!==m?(e=j.jsx(c(\"BasePopover.react\"),{ref:b,testid:void 0,children:m}),d[7]=b,d[8]=k,d[9]=m,d[10]=e):e=d[10];return e}e=j.forwardRef(a);g[\"default\"]=e}),98);\n__d(\"IGDSPopoverLoadingStateContent.react\",[\"react\",\"stylex\"],(function(a,b,c,d,e,f,g){\"use strict\";var h,i,j=(i||(i=d(\"react\"))).unstable_useMemoCache,k=i,l={root:{alignItems:\"x6s0dn4\",display:\"x78zum5\",justifyContent:\"xl56j7k\",width:\"xh8yej3\",$$css:!0}};function a(a){var b=j(5),d=a.children;a=a.xstyle;var e;b[0]!==a?(e=(h||(h=c(\"stylex\")))(l.root,a),b[0]=a,b[1]=e):e=b[1];b[2]!==e||b[3]!==d?(a=k.jsx(\"div\",{className:e,children:d}),b[2]=e,b[3]=d,b[4]=a):a=b[4];return a}g[\"default\"]=a}),98);\n__d(\"IGDSPopoverLoadingState.react\",[\"IGDSPopover.react\",\"IGDSPopoverLoadingStateContent.react\",\"react\"],(function(a,b,c,d,e,f,g){\"use strict\";var h,i=(h||(h=d(\"react\"))).unstable_useMemoCache,j=h;function a(a){var b=i(10),d,e,f;b[0]!==a?(d=a.xstyle,e=a.popoverContent,f=babelHelpers.objectWithoutPropertiesLoose(a,[\"xstyle\",\"popoverContent\"]),b[0]=a,b[1]=d,b[2]=e,b[3]=f):(d=b[1],e=b[2],f=b[3]);b[4]!==d||b[5]!==e?(a=j.jsx(c(\"IGDSPopoverLoadingStateContent.react\"),{xstyle:d,children:e}),b[4]=d,b[5]=e,b[6]=a):a=b[6];b[7]!==f||b[8]!==a?(d=j.jsx(c(\"IGDSPopover.react\"),babelHelpers[\"extends\"]({},f,{popoverContent:a})),b[7]=f,b[8]=a,b[9]=d):d=b[9];return d}g[\"default\"]=a}),98);"
+        },
+        "redirectURL": "",
+        "headersSize": -1,
+        "bodySize": -1,
+        "_transferSize": 4315,
+        "_error": null
+    },
+    "serverIPAddress": "157.240.227.63",
+    "startedDateTime": "2024-04-13T07:19:11.848Z",
+    "time": 1500.0730000010662,
+    "timings": {
+        "blocked": 60.02299999981816,
+        "dns": -1,
+        "ssl": -1,
+        "connect": -1,
+        "send": 0.546999999999997,
+        "wait": 1418.6050000005775,
+        "receive": 20.898000000670436,
+        "_blocked_queueing": 21.91099999981816
+    }
+}
