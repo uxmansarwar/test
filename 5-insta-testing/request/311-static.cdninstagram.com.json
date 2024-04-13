@@ -1,0 +1,321 @@
+{
+    "_initiator": {
+        "type": "script",
+        "stack": {
+            "callFrames": [
+                {
+                    "functionName": "a",
+                    "scriptId": "37",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 59,
+                    "columnNumber": 337
+                },
+                {
+                    "functionName": "loadModules",
+                    "scriptId": "37",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 170,
+                    "columnNumber": 16000
+                },
+                {
+                    "functionName": "",
+                    "scriptId": "37",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 143,
+                    "columnNumber": 932
+                },
+                {
+                    "functionName": "m",
+                    "scriptId": "37",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 143,
+                    "columnNumber": 193
+                },
+                {
+                    "functionName": "e.preload",
+                    "scriptId": "37",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 143,
+                    "columnNumber": 909
+                },
+                {
+                    "functionName": "",
+                    "scriptId": "39",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3iiQ54\/yZ\/l\/makehaste_jhash\/_6QLXU4VLZWIMB23JaF78-.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 767,
+                    "columnNumber": 972
+                },
+                {
+                    "functionName": "",
+                    "scriptId": "39",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3iiQ54\/yZ\/l\/makehaste_jhash\/_6QLXU4VLZWIMB23JaF78-.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 767,
+                    "columnNumber": 950
+                },
+                {
+                    "functionName": "a",
+                    "scriptId": "37",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 233,
+                    "columnNumber": 190
+                },
+                {
+                    "functionName": "p",
+                    "scriptId": "37",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 235,
+                    "columnNumber": 881
+                },
+                {
+                    "functionName": "",
+                    "scriptId": "37",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 235,
+                    "columnNumber": 1598
+                },
+                {
+                    "functionName": "",
+                    "scriptId": "37",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 239,
+                    "columnNumber": 979
+                },
+                {
+                    "functionName": "applyWithGuard",
+                    "scriptId": "37",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 69,
+                    "columnNumber": 10431
+                },
+                {
+                    "functionName": "c",
+                    "scriptId": "37",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 69,
+                    "columnNumber": 11165
+                },
+                {
+                    "functionName": "O",
+                    "scriptId": "37",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 228,
+                    "columnNumber": 2291
+                },
+                {
+                    "functionName": "U",
+                    "scriptId": "37",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 228,
+                    "columnNumber": 2892
+                }
+            ],
+            "parentId": {
+                "id": "3492",
+                "debuggerId": "8574087838191512604.-5840262278814751724"
+            }
+        }
+    },
+    "_priority": "High",
+    "_resourceType": "script",
+    "cache": [],
+    "pageref": "page_14",
+    "request": {
+        "method": "GET",
+        "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yw\/r\/9UhDFdjkbap.js?_nc_x=Ij3Wp8lg5Kz",
+        "httpVersion": "h3",
+        "headers": [
+            {
+                "name": ":authority",
+                "value": "static.cdninstagram.com"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "\/rsrc.php\/v3\/yw\/r\/9UhDFdjkbap.js?_nc_x=Ij3Wp8lg5Kz"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "*\/*"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br, zstd"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "origin",
+                "value": "https:\/\/www.instagram.com"
+            },
+            {
+                "name": "referer",
+                "value": "https:\/\/www.instagram.com\/"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Google Chrome\";v=\"123\", \"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"123\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "script"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "cross-site"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/123.0.0.0 Safari\/537.36"
+            }
+        ],
+        "queryString": [
+            {
+                "name": "_nc_x",
+                "value": "Ij3Wp8lg5Kz"
+            }
+        ],
+        "cookies": [],
+        "headersSize": -1,
+        "bodySize": 0
+    },
+    "response": {
+        "status": 200,
+        "statusText": "",
+        "httpVersion": "h3",
+        "headers": [
+            {
+                "name": "access-control-allow-origin",
+                "value": "https:\/\/www.instagram.com"
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=86400"
+            },
+            {
+                "name": "cache-control",
+                "value": "public,max-age=31536000,immutable"
+            },
+            {
+                "name": "content-encoding",
+                "value": "zstd"
+            },
+            {
+                "name": "content-length",
+                "value": "1738"
+            },
+            {
+                "name": "content-md5",
+                "value": "I59JUWolF9aCT3tpc2abCQ=="
+            },
+            {
+                "name": "content-type",
+                "value": "application\/x-javascript; charset=utf-8"
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "date",
+                "value": "Sat, 13 Apr 2024 07:19:57 GMT"
+            },
+            {
+                "name": "document-policy",
+                "value": "force-load-at-top"
+            },
+            {
+                "name": "expires",
+                "value": "Thu, 10 Apr 2025 14:04:07 GMT"
+            },
+            {
+                "name": "last-modified",
+                "value": "Mon, 01 Jan 2001 08:00:00 GMT"
+            },
+            {
+                "name": "origin-agent-cluster",
+                "value": "?0"
+            },
+            {
+                "name": "permissions-policy",
+                "value": "accelerometer=(), attribution-reporting=(), autoplay=(), bluetooth=(), camera=(), ch-device-memory=(), ch-downlink=(), ch-ect=(), ch-rtt=(), ch-save-data=(), ch-ua-arch=(), ch-ua-bitness=(), clipboard-read=(), clipboard-write=(), display-capture=(), encrypted-media=(), fullscreen=(self), gamepad=(), geolocation=(), gyroscope=(), hid=(), idle-detection=(), keyboard-map=(), local-fonts=(), magnetometer=(), microphone=(), midi=(), otp-credentials=(), payment=(), picture-in-picture=(), publickey-credentials-get=(), screen-wake-lock=(), serial=(), usb=(), window-management=(), xr-spatial-tracking=();report-to=\"permissions_policy\""
+            },
+            {
+                "name": "priority",
+                "value": "u=1"
+            },
+            {
+                "name": "report-to",
+                "value": "{\"max_age\":21600,\"endpoints\":[{\"url\":\"https:\\\/\\\/www.facebook.com\\\/ajax\\\/browser_error_reports\\\/\"}],\"group\":\"permissions_policy\"}"
+            },
+            {
+                "name": "reporting-endpoints",
+                "value": "permissions_policy=\"https:\/\/www.facebook.com\/ajax\/browser_error_reports\/\""
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "vary",
+                "value": "Origin"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "x-fb-connection-quality",
+                "value": "GOOD; q=0.7, rtt=81, rtx=1680, c=188, mss=1232, tbw=6173065, tp=5233, tpl=1680, uplat=0, ullat=-1"
+            },
+            {
+                "name": "x-fb-debug",
+                "value": "wfNgxgK+NVKeBfLsLw1PamRBpx3K8eiu\/rGDH3Tmv4vC+YkC9LbJuHVHyb+yjr3ndjVqC9EuZDN71meUppawAQ=="
+            }
+        ],
+        "cookies": [],
+        "content": {
+            "size": 4459,
+            "mimeType": "application\/x-javascript",
+            "text": ";\/*FB_PKG_DELIM*\/\n\n__d(\"MWUnvaultedText\",[\"cr:2472\",\"react\"],(function(a,b,c,d,e,f,g){\"use strict\";var h,i=(h||d(\"react\")).useMemo,j=function(a,c){if(b(\"cr:2472\")==null||c==null)return c;return a?b(\"cr:2472\").unvaultOrThrow(c):b(\"cr:2472\").unvault(c,!0)};a=function(a,b){var c=i(function(){return j(a,b)},[a,b]);return c};g.getMWUnvaultedText=j;g.useMWUnvaultedText=a}),98);\n__d(\"MWPEditMessageHistoryListText.react\",[\"MWChatTextTransform\",\"MWUnvaultedText\",\"MWXMessageTextWithEntities.react\",\"MWXText.react\",\"react\",\"stylex\"],(function(a,b,c,d,e,f,g){\"use strict\";var h,i,j=i||d(\"react\"),k={incoming:{color:\"x18lvrbx\",$$css:!0},outgoing:{color:\"xyk4ms5\",$$css:!0},regular:{marginTop:\"x1gslohp\",marginEnd:\"x11i5rnm\",marginBottom:\"x12nagc\",marginStart:\"x1mh8g0r\",textAlign:\"x1yc453h\",whiteSpace:\"x126k92a\",$$css:!0}};function a(a){var b=a.isSecureMessage,e=a.maxLength,f=a.maxLines,g=a.seeLessLinkProps,i=a.seeMoreLinkProps,l=a.text,m=a.truncationStyle,n=a.outgoing,o=a.ranges,p=a.renderers,q=a.transforms;a=a.xstyleForText;b=d(\"MWUnvaultedText\").useMWUnvaultedText(b,l);return j.jsx(c(\"MWXText.react\"),{color:n?\"white\":\"primary\",type:\"body3\",children:j.jsx(\"div\",{className:(h||(h=c(\"stylex\")))(k.regular,a,n?k.outgoing:k.incoming),dir:\"auto\",children:j.jsx(c(\"MWXMessageTextWithEntities.react\"),{maxLength:e,maxLines:f,ranges:o,renderers:p,seeLessLinkProps:g,seeMoreLinkProps:i,text:b||\"\",transforms:(l=q)!=null?l:d(\"MWChatTextTransform\").textTransforms,truncationStyle:m,truncationThreshold:2,withParagraphs:!0})})})}a.displayName=a.name+\" [from \"+f.id+\"]\";g[\"default\"]=a}),98);\n__d(\"MWPEditedMessageHistoryEntry.react\",[\"MWPEditMessageHistoryListText.react\",\"MWXMessageBubble.react\",\"react\",\"stylex\"],(function(a,b,c,d,e,f,g){\"use strict\";var h,i,j=i||(i=d(\"react\")),k=i.useState,l={inner:{display:\"x78zum5\",flexGrow:\"x1iyjqo2\",flexShrink:\"xs83m0k\",marginBottom:\"xjpr12u\",minWidth:\"xeuugli\",opacity:\"xbyyjgo\",$$css:!0},makeSpaceForMessageActions:{maxWidth:\"x1no2skz\",$$css:!0},messageBubbleIncoming:{paddingEnd:\"x1k62owy\",$$css:!0},messageBubbleOutgoing:{paddingStart:\"x6plb61\",$$css:!0},outgoing:{flexDirection:\"x15zctf7\",$$css:!0}};function a(a){var b=a.isReply,d=a.isSecureMessage,e=a.messageHistoryEntry,f=a.outgoing,g=a.renderMessageActions;a={color:f?\"white\":void 0,weight:\"semibold\"};var i=k(!1),m=i[0],n=i[1];return j.jsxs(\"div\",{className:(h||(h=c(\"stylex\")))(l.inner,f&&l.outgoing),\"data-testid\":void 0,onMouseEnter:function(){g!=null&&n(!0)},onMouseLeave:function(){g!=null&&n(!1)},role:\"none\",children:[j.jsx(\"div\",{className:h(g?l.makeSpaceForMessageActions:f?l.messageBubbleOutgoing:l.messageBubbleIncoming),children:j.jsx(c(\"MWXMessageBubble.react\"),{align:f?\"right\":\"left\",color:f?\"outgoing\":\"incoming\",connectBottom:!1,connectTop:!1,hasBorder:!f&&b,variant:\"opaque\",children:j.jsx(c(\"MWPEditMessageHistoryListText.react\"),{isSecureMessage:d,maxLength:300,maxLines:3,outgoing:f,ranges:[],seeLessLinkProps:a,seeMoreLinkProps:a,text:e.messageContent||\"\",truncationStyle:\"see-more-and-less\"})})}),g&&m?j.jsx(\"div\",{className:\"xc26acl\",children:g(e)}):null]})}a.displayName=a.name+\" [from \"+f.id+\"]\";g.MWPEditedMessageHistoryEntry=a}),98);\n__d(\"MWPEditedMessageHistoryList.react\",[\"MWMessageEditContext.react\",\"MWPEditedMessageHistoryEntry.react\",\"ReQL\",\"ReQLSuspense\",\"react\",\"stylex\",\"useReStore\"],(function(a,b,c,d,e,f,g){\"use strict\";var h,i,j,k=j||(j=d(\"react\")),l=j.useMemo,m={base:{backgroundColor:\"x1eb86dx\",maxWidth:\"x193iq5w\",zIndex:\"x1vjfegm\",$$css:!0},incoming:{display:\"x1lliihq\",paddingStart:\"xd06s5i\",$$css:!0},outgoing:{display:\"x1lliihq\",paddingEnd:\"x1sxyh0\",$$css:!0}};function n(a,b){var e=(h||(h=c(\"useReStore\")))(),g=d(\"ReQLSuspense\").useArray(function(){return d(\"ReQL\").fromTableAscending(e.tables.edit_message_history.index(\"originalMsgPkEditTs\")).getKeyRange(a)},[e,a],f.id+\":52\");return l(function(){return b?g.slice(0,-1):g},[g,b])}function a(a){var b=a.isReply,e=a.isSecureMessage,f=a.msgId,g=a.outgoing,h=a.renderMessageActions;a=a.xstyle;f=n(f,e);var j=d(\"MWMessageEditContext.react\").useMWMessageEditContext()||{showEdits:!1};j=j.showEdits;a=k.jsx(\"div\",{className:(i||(i=c(\"stylex\")))(m.base,g?m.outgoing:m.incoming,a),role:\"none\",children:f.map(function(a,c){return k.jsx(d(\"MWPEditedMessageHistoryEntry.react\").MWPEditedMessageHistoryEntry,{isReply:b,isSecureMessage:e,messageHistoryEntry:a,outgoing:g,renderMessageActions:h},c)})});return j?a:null}a.displayName=a.name+\" [from \"+f.id+\"]\";g[\"default\"]=a}),98);"
+        },
+        "redirectURL": "",
+        "headersSize": -1,
+        "bodySize": -1,
+        "_transferSize": 1908,
+        "_error": null
+    },
+    "serverIPAddress": "157.240.227.63",
+    "startedDateTime": "2024-04-13T07:19:56.963Z",
+    "time": 1197.3049999996874,
+    "timings": {
+        "blocked": 109.18200000049977,
+        "dns": -1,
+        "ssl": -1,
+        "connect": -1,
+        "send": 0.6830000000000069,
+        "wait": 1025.0119999999154,
+        "receive": 62.42799999927229,
+        "_blocked_queueing": 5.971000000499771
+    }
+}

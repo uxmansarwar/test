@@ -1,0 +1,147 @@
+{
+    "_initiator": {
+        "type": "other"
+    },
+    "_priority": "VeryHigh",
+    "_resourceType": "document",
+    "cache": [],
+    "connection": "33465",
+    "pageref": "page_13",
+    "request": {
+        "method": "GET",
+        "url": "https:\/\/instagram.com\/",
+        "httpVersion": "http\/2.0",
+        "headers": [
+            {
+                "name": ":authority",
+                "value": "instagram.com"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "\/"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "text\/html,application\/xhtml+xml,application\/xml;q=0.9,image\/avif,image\/webp,image\/apng,*\/*;q=0.8,application\/signed-exchange;v=b3;q=0.7"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br, zstd"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Google Chrome\";v=\"123\", \"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"123\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "document"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "navigate"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "none"
+            },
+            {
+                "name": "sec-fetch-user",
+                "value": "?1"
+            },
+            {
+                "name": "upgrade-insecure-requests",
+                "value": "1"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/123.0.0.0 Safari\/537.36"
+            }
+        ],
+        "queryString": [],
+        "cookies": [],
+        "headersSize": -1,
+        "bodySize": 0
+    },
+    "response": {
+        "status": 301,
+        "statusText": "",
+        "httpVersion": "http\/2.0",
+        "headers": [
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=86400"
+            },
+            {
+                "name": "content-length",
+                "value": "0"
+            },
+            {
+                "name": "content-type",
+                "value": "text\/html; charset=\"utf-8\""
+            },
+            {
+                "name": "date",
+                "value": "Sat, 13 Apr 2024 07:17:53 GMT"
+            },
+            {
+                "name": "location",
+                "value": "https:\/\/www.instagram.com\/"
+            },
+            {
+                "name": "strict-transport-security",
+                "value": "max-age=31536000; preload; includeSubDomains"
+            },
+            {
+                "name": "x-fb-debug",
+                "value": "H\/YZWb8cRGMhEPesRCE3QCwCwVFgtNSy9TTVl5G5l6xa7afEdiytDnzNgcuUPx6HyssXyO7kdKX2gww3JoKg3g=="
+            },
+            {
+                "name": "x-stack",
+                "value": "www"
+            }
+        ],
+        "cookies": [],
+        "content": {
+            "size": 0,
+            "mimeType": "text\/html"
+        },
+        "redirectURL": "https:\/\/www.instagram.com\/",
+        "headersSize": -1,
+        "bodySize": -1,
+        "_transferSize": 248,
+        "_error": null
+    },
+    "serverIPAddress": "157.240.227.174",
+    "startedDateTime": "2024-04-13T07:17:53.612Z",
+    "time": 374.2309999994378,
+    "timings": {
+        "blocked": 52.610999998437705,
+        "dns": 0.044000000000004036,
+        "ssl": 47.735,
+        "connect": 90.25900000000001,
+        "send": 1.6099999999999852,
+        "wait": 228.3360000007099,
+        "receive": 1.3710000002902234,
+        "_blocked_queueing": 2.5099999984377064
+    }
+}

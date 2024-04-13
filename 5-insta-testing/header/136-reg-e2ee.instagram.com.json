@@ -1,0 +1,39 @@
+{
+    "url": "https:\/\/reg-e2ee.instagram.com\/v2\/fb_icdc_fetch",
+    "request": [
+        {
+            "name": "Referer",
+            "value": "https:\/\/www.instagram.com\/"
+        },
+        {
+            "name": "User-Agent",
+            "value": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/123.0.0.0 Safari\/537.36"
+        },
+        {
+            "name": "Content-Type",
+            "value": "application\/x-www-form-urlencoded; charset=UTF-8"
+        }
+    ],
+    "response": [
+        {
+            "name": "access-control-allow-origin",
+            "value": "https:\/\/www.instagram.com"
+        },
+        {
+            "name": "date",
+            "value": "Sat, 13 Apr 2024 07:19:20 GMT"
+        },
+        {
+            "name": "server",
+            "value": "Yaws 2.0.9"
+        },
+        {
+            "name": "content-length",
+            "value": "95"
+        },
+        {
+            "name": "content-type",
+            "value": "application\/json"
+        }
+    ]
+}
