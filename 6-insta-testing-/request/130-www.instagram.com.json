@@ -1,0 +1,179 @@
+{
+    "_initiator": {
+        "type": "other"
+    },
+    "_priority": "High",
+    "_resourceType": "script",
+    "cache": [],
+    "request": {
+        "method": "GET",
+        "url": "https:\/\/www.instagram.com\/static_resources\/webworker\/init_script\/?worker_type=MODULE&__hs=19826.HYP%3Ainstagram_web_pkg.2.1..0.1&__spin_r=1012754956&__spin_b=trunk&__spin_t=1712992751",
+        "httpVersion": "h3",
+        "headers": [
+            {
+                "name": "Referer",
+                "value": "https:\/\/www.instagram.com\/accounts\/onetap\/?next=%2F"
+            },
+            {
+                "name": "Origin",
+                "value": "https:\/\/www.instagram.com"
+            },
+            {
+                "name": "User-Agent",
+                "value": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/123.0.0.0 Safari\/537.36"
+            }
+        ],
+        "queryString": [
+            {
+                "name": "worker_type",
+                "value": "MODULE"
+            },
+            {
+                "name": "__hs",
+                "value": "19826.HYP%3Ainstagram_web_pkg.2.1..0.1"
+            },
+            {
+                "name": "__spin_r",
+                "value": "1012754956"
+            },
+            {
+                "name": "__spin_b",
+                "value": "trunk"
+            },
+            {
+                "name": "__spin_t",
+                "value": "1712992751"
+            }
+        ],
+        "cookies": [],
+        "headersSize": -1,
+        "bodySize": 0
+    },
+    "response": {
+        "status": 200,
+        "statusText": "",
+        "httpVersion": "h3",
+        "headers": [
+            {
+                "name": "content-security-policy",
+                "value": "default-src *.facebook.com *.fbcdn.net *.instagram.com data: blob: 'wasm-unsafe-eval';script-src *.facebook.com *.fbcdn.net *.facebook.net 127.0.0.1:* 'unsafe-inline' 'self' *.teststagram.com *.instagram.com static.cdninstagram.com *.google-analytics.com https:\/\/translate.google.com https:\/\/apis.google.com https:\/\/accounts.google.com 'wasm-unsafe-eval';style-src data: blob: 'unsafe-inline' *.fbcdn.net *.facebook.com *.instagram.com *.teststagram.com static.cdninstagram.com;connect-src *.facebook.com facebook.com *.fbcdn.net *.facebook.net wss:\/\/*.facebook.com:* ws:\/\/localhost:* blob: *.instagram.com *.cdninstagram.com wss:\/\/*.instagram.com:* 'self' *.teststagram.com wss:\/\/edge-chat.instagram.com connect.facebook.net;font-src *.facebook.com data: fonts.gstatic.com *.fbcdn.net *.instagram.com *.teststagram.com static.cdninstagram.com *.intern.facebook.com;img-src *.instagram.com *.facebook.com *.fbcdn.net data: blob: *.cdninstagram.com www.gstatic.com *.fbsbx.com android-webview-video-poster: *.oculuscdn.com www.googleadservices.com *.doubleclick.net *.google.com *.google.co.uk *.giphy.com *.teststagram.com *.igsonar.com *.google-analytics.com *.whatsapp.net;media-src *.facebook.com *.fbcdn.net *.instagram.com *.cdninstagram.com cdn.fbsbx.com data: blob: https:\/\/*.giphy.com;frame-src *.instagram.com *.facebook.com *.fbsbx.com fbsbx.com data: www.googleadservices.com *.doubleclick.net *.google.com *.google.co.uk;worker-src https:\/\/www.instagram.com\/static_resources\/webworker_v1\/init_script\/ https:\/\/www.instagram.com\/static_resources\/webworker\/init_script\/ *.cdninstagram.com;block-all-mixed-content;upgrade-insecure-requests;"
+            },
+            {
+                "name": "content-encoding",
+                "value": "zstd"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "strict-transport-security",
+                "value": "max-age=31536000; preload; includeSubDomains"
+            },
+            {
+                "name": "date",
+                "value": "Sat, 13 Apr 2024 07:19:17 GMT"
+            },
+            {
+                "name": "document-policy",
+                "value": "force-load-at-top"
+            },
+            {
+                "name": "content-security-policy-report-only",
+                "value": "default-src *.facebook.com *.fbcdn.net *.instagram.com data: blob: 'wasm-unsafe-eval';script-src *.facebook.com *.fbcdn.net *.facebook.net 'unsafe-inline' 'self' *.teststagram.com *.instagram.com static.cdninstagram.com *.google-analytics.com https:\/\/translate.google.com https:\/\/apis.google.com https:\/\/accounts.google.com 'wasm-unsafe-eval';style-src data: blob: 'unsafe-inline' *.fbcdn.net *.facebook.com *.instagram.com *.teststagram.com static.cdninstagram.com;connect-src *.facebook.com facebook.com *.fbcdn.net *.facebook.net wss:\/\/*.facebook.com:* ws:\/\/localhost:* blob: *.instagram.com *.cdninstagram.com wss:\/\/*.instagram.com:* 'self' *.teststagram.com wss:\/\/edge-chat.instagram.com connect.facebook.net;font-src *.facebook.com data: fonts.gstatic.com *.fbcdn.net *.instagram.com *.teststagram.com static.cdninstagram.com *.intern.facebook.com;img-src *.instagram.com *.facebook.com *.fbcdn.net data: blob: *.cdninstagram.com *.fbsbx.com android-webview-video-poster: *.giphy.com *.teststagram.com *.igsonar.com *.google-analytics.com;media-src *.facebook.com *.fbcdn.net *.instagram.com *.cdninstagram.com cdn.fbsbx.com data: blob: https:\/\/*.giphy.com;frame-src *.instagram.com *.facebook.com *.fbsbx.com fbsbx.com data:;worker-src https:\/\/www.instagram.com\/static_resources\/webworker_v1\/init_script\/ https:\/\/www.instagram.com\/static_resources\/webworker\/init_script\/ *.cdninstagram.com;block-all-mixed-content;report-uri https:\/\/www.facebook.com\/csp\/reporting\/?minimize=0;"
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=86400"
+            },
+            {
+                "name": "x-xss-protection",
+                "value": "0"
+            },
+            {
+                "name": "reporting-endpoints",
+                "value": "coop_report=\"https:\/\/www.facebook.com\/browser_reporting\/coop\/?minimize=0\", coep_report=\"https:\/\/www.facebook.com\/browser_reporting\/coep\/?minimize=0\", default=\"https:\/\/www.instagram.com\/error\/ig_web_error_reports\/?device_level=unknown\", permissions_policy=\"https:\/\/www.instagram.com\/error\/ig_web_error_reports\/\""
+            },
+            {
+                "name": "x-fb-debug",
+                "value": "i97zy5Eu2TCOH0RJvtNANOYsxZ547ywYCvgsBMNI3hUqdDFMokpqqkFIB4+3ChxBiBlXFzlsJCLVHBLRVfZzww=="
+            },
+            {
+                "name": "cross-origin-embedder-policy-report-only",
+                "value": "require-corp;report-to=\"coep_report\""
+            },
+            {
+                "name": "x-stack",
+                "value": "www"
+            },
+            {
+                "name": "cross-origin-opener-policy",
+                "value": "same-origin-allow-popups;report-to=\"coop_report\""
+            },
+            {
+                "name": "vary",
+                "value": "Accept-Encoding"
+            },
+            {
+                "name": "report-to",
+                "value": "{\"max_age\":2592000,\"endpoints\":[{\"url\":\"https:\\\/\\\/www.facebook.com\\\/browser_reporting\\\/coop\\\/?minimize=0\"}],\"group\":\"coop_report\",\"include_subdomains\":true}, {\"max_age\":86400,\"endpoints\":[{\"url\":\"https:\\\/\\\/www.facebook.com\\\/browser_reporting\\\/coep\\\/?minimize=0\"}],\"group\":\"coep_report\"}, {\"max_age\":259200,\"endpoints\":[{\"url\":\"https:\\\/\\\/www.instagram.com\\\/error\\\/ig_web_error_reports\\\/?device_level=unknown\"}]}, {\"max_age\":21600,\"endpoints\":[{\"url\":\"https:\\\/\\\/www.instagram.com\\\/error\\\/ig_web_error_reports\\\/\"}],\"group\":\"permissions_policy\"}"
+            },
+            {
+                "name": "content-type",
+                "value": "application\/x-javascript; charset=utf-8"
+            },
+            {
+                "name": "x-frame-options",
+                "value": "DENY"
+            },
+            {
+                "name": "origin-agent-cluster",
+                "value": "?0"
+            },
+            {
+                "name": "cache-control",
+                "value": "public,max-age=600,immutable"
+            },
+            {
+                "name": "permissions-policy",
+                "value": "accelerometer=(self), attribution-reporting=(), autoplay=(), bluetooth=(), camera=(self), ch-device-memory=(), ch-downlink=(), ch-ect=(), ch-rtt=(), ch-save-data=(), ch-ua-arch=(), ch-ua-bitness=(), clipboard-read=(), clipboard-write=(self), display-capture=(), encrypted-media=(), fullscreen=(self), gamepad=(), geolocation=(self), gyroscope=(self), hid=(), idle-detection=(), keyboard-map=(), local-fonts=(), magnetometer=(), microphone=(self), midi=(), otp-credentials=(), payment=(), picture-in-picture=(self), publickey-credentials-get=(), screen-wake-lock=(), serial=(), usb=(), window-management=(), xr-spatial-tracking=();report-to=\"permissions_policy\""
+            },
+            {
+                "name": "priority",
+                "value": "u=1"
+            },
+            {
+                "name": "expires",
+                "value": "Sat, 13 Apr 2024 07:29:17 GMT"
+            }
+        ],
+        "cookies": [],
+        "content": {
+            "size": 3214,
+            "mimeType": "application\/x-javascript",
+            "text": "self.window=self;self.__annotator=function(a){return a};self.__d_stub=[];self.__d=function(a,b,c,d){self.__d_stub.push([a,b,c,d])};self.__rl_stub=[];self.requireLazy=function(){self.__rl_stub.push(arguments)};function processJSEnv(a){window.Env=window.Env||{},Object.assign(window.Env,a)}function generateWorkerID(){var a=Math.floor(Math.random()*Math.pow(36,6));a=a.toString(36);return\"0\".repeat(6-a.length)+a}var importWrapper=function(a){return import(a)};self.bl_worker_import_wrapper=importWrapper;function processHRP(a,b){b===void 0&&(b=function(){});var c=a.allResources,d=a.hsrp;if(d==null)throw new Error(\"[WebWorkerV2 Init] Missing hsrp\");var e=a.jsmods,f=d.hsdp,g=d.hblp,h=g==null?void 0:g.rsrcMap,i={};if(c==null||h==null)throw new Error(\"[WebWorkerV2 Init] Missing resources or resource map\");var j={};c.forEach(function(a){var b=h[a];if(!b)return;i[a]=h[a];b.type===\"js\"&&(j[a]=importWrapper(b.src))});void Promise.all(Object.values(j)).then(function(){b(\"all_imports_loaded\")});requireLazy.call(null,[\"HasteSupportData\",\"ServerJS\"],function(a,c){b(\"hsdp_start\"),f&&a.handle(f),e&&new c().handle(e),b(\"hsdp_end\")});requireLazy.call(null,[\"Bootloader\"],function(a){b(\"hblp_start\"),a.notifyManuallyLoadedResourcesInWorker(i,j),g&&a.handlePayload(g),b(\"hblp_end\")})}var initialized=!1;if(\"SharedWorkerGlobalScope\"in self&&self instanceof self.SharedWorkerGlobalScope){var portsBuffer=[],messageBuffer=[],unsubscribeCleanupFunctions=[],hasRun=!1;self.setTimeout(function(){if(!hasRun){try{var a;(a=portsBuffer[0])==null?void 0:a.postMessage({type:\"self-terminate\",response:{from:\"init-v2-module\"}})}catch(a){}self.close()}},3e5);var connectListener=function(a){self.worker_id==null&&(self.worker_id=generateWorkerID());var b=a.ports[0];b.postMessage({type:\"connection-ack\",response:{from:\"initScriptV2\",workerID:self.worker_id}});var c=function(c){var d=c.data;if(!initialized&&typeof d===\"object\"&&(d==null?void 0:d.type)===\"ww-hrp-init\"&&typeof d.hrp===\"object\"){d.is_dev===!0&&(self.__DEV__=1);initialized=!0;try{var e=function(a){b.postMessage({type:\"worker-init-mark\",response:{point:a}})};d.js_env!=null&&processJSEnv(d.js_env);processHRP(d.hrp,e);b.postMessage({type:\"ww-hrp-init\",response:{}})}catch(a){b.postMessage({type:\"ww-hrp-init\",response:{err:a.message}})}}messageBuffer.push({e:c,port:b})};b.addEventListener(\"message\",c);unsubscribeCleanupFunctions.push(function(){return b.removeEventListener(\"message\",c)});b.start();portsBuffer.push(b)};self.addEventListener(\"connect\",connectListener);unsubscribeCleanupFunctions.push(function(){return self.removeEventListener(\"connect\",connectListener)});self.shared_worker_bootstrap_buffer=function(){hasRun;hasRun=!0;while(unsubscribeCleanupFunctions.length)try{var a=unsubscribeCleanupFunctions.pop();a()}catch(a){}a=portsBuffer;var b=messageBuffer;messageBuffer=[];portsBuffer=[];return{ports:a,messages:b}}}else{var initMessageHandler=function(a){a=a.data;typeof a===\"object\"&&(a==null?void 0:a.type)===\"ww-hrp-init\"&&typeof a.hrp===\"object\"&&(a.is_dev===!0&&(self.__DEV__=1),self.removeEventListener(\"message\",initMessageHandler),a.js_env!=null&&processJSEnv(a.js_env),processHRP(a.hrp))};self.addEventListener(\"message\",initMessageHandler)}"
+        },
+        "redirectURL": "",
+        "headersSize": -1,
+        "bodySize": -1,
+        "_transferSize": 1488,
+        "_error": null
+    },
+    "serverIPAddress": "157.240.227.174",
+    "startedDateTime": "2024-04-13T07:19:17.371Z",
+    "time": 269.17800000046554,
+    "timings": {
+        "blocked": 1.7440000004665928,
+        "dns": -1,
+        "ssl": -1,
+        "connect": -1,
+        "send": 0.45099999999999996,
+        "wait": 265.02499999925806,
+        "receive": 1.958000000740867,
+        "_blocked_queueing": 1.0760000004665926
+    }
+}

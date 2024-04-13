@@ -1,0 +1,307 @@
+{
+    "_initiator": {
+        "type": "script",
+        "stack": {
+            "callFrames": [
+                {
+                    "functionName": "",
+                    "scriptId": "37",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 148,
+                    "columnNumber": 1563
+                },
+                {
+                    "functionName": "m",
+                    "scriptId": "37",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 148,
+                    "columnNumber": 907
+                },
+                {
+                    "functionName": "p",
+                    "scriptId": "37",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 148,
+                    "columnNumber": 2010
+                },
+                {
+                    "functionName": "aa",
+                    "scriptId": "37",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 170,
+                    "columnNumber": 7445
+                },
+                {
+                    "functionName": "T",
+                    "scriptId": "37",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 170,
+                    "columnNumber": 9195
+                },
+                {
+                    "functionName": "",
+                    "scriptId": "37",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 170,
+                    "columnNumber": 17128
+                },
+                {
+                    "functionName": "a",
+                    "scriptId": "37",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 59,
+                    "columnNumber": 328
+                },
+                {
+                    "functionName": "loadResources",
+                    "scriptId": "37",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 170,
+                    "columnNumber": 17088
+                },
+                {
+                    "functionName": "",
+                    "scriptId": "37",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 255,
+                    "columnNumber": 283
+                },
+                {
+                    "functionName": "applyWithGuard",
+                    "scriptId": "37",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 69,
+                    "columnNumber": 10431
+                },
+                {
+                    "functionName": "c",
+                    "scriptId": "37",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 69,
+                    "columnNumber": 11165
+                },
+                {
+                    "functionName": "O",
+                    "scriptId": "37",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 228,
+                    "columnNumber": 2291
+                },
+                {
+                    "functionName": "U",
+                    "scriptId": "37",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 228,
+                    "columnNumber": 2892
+                }
+            ],
+            "parentId": {
+                "id": "1980",
+                "debuggerId": "8574087838191512604.-5840262278814751724"
+            }
+        }
+    },
+    "_priority": "High",
+    "_resourceType": "xhr",
+    "cache": [],
+    "pageref": "page_14",
+    "request": {
+        "method": "GET",
+        "url": "https:\/\/static.cdninstagram.com\/rsrc-translations.php\/v6ijvo4\/yU\/l\/en_US\/QDBdntLNlXYR4Tyoeq-PQVpPyylhqFv9ySw7oMdoDdWSlK6cjntDuLrknUKOK1KcVzn8ReVJO9XfplANuFvLs7y14Xooa1yDaQCdAklFfDRoVo.js?_nc_x=Ij3Wp8lg5Kz",
+        "httpVersion": "h3",
+        "headers": [
+            {
+                "name": ":authority",
+                "value": "static.cdninstagram.com"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "\/rsrc-translations.php\/v6ijvo4\/yU\/l\/en_US\/QDBdntLNlXYR4Tyoeq-PQVpPyylhqFv9ySw7oMdoDdWSlK6cjntDuLrknUKOK1KcVzn8ReVJO9XfplANuFvLs7y14Xooa1yDaQCdAklFfDRoVo.js?_nc_x=Ij3Wp8lg5Kz"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "*\/*"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br, zstd"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "origin",
+                "value": "https:\/\/www.instagram.com"
+            },
+            {
+                "name": "referer",
+                "value": "https:\/\/www.instagram.com\/"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Google Chrome\";v=\"123\", \"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"123\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "empty"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "cross-site"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/123.0.0.0 Safari\/537.36"
+            }
+        ],
+        "queryString": [
+            {
+                "name": "_nc_x",
+                "value": "Ij3Wp8lg5Kz"
+            }
+        ],
+        "cookies": [],
+        "headersSize": -1,
+        "bodySize": 0
+    },
+    "response": {
+        "status": 200,
+        "statusText": "",
+        "httpVersion": "h3",
+        "headers": [
+            {
+                "name": "access-control-allow-origin",
+                "value": "https:\/\/www.instagram.com"
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=86400"
+            },
+            {
+                "name": "cache-control",
+                "value": "public,max-age=31536000,immutable"
+            },
+            {
+                "name": "content-encoding",
+                "value": "zstd"
+            },
+            {
+                "name": "content-length",
+                "value": "3096"
+            },
+            {
+                "name": "content-md5",
+                "value": "N0nkw9dNC7X+9a9S6rpm0A=="
+            },
+            {
+                "name": "content-type",
+                "value": "application\/json"
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "date",
+                "value": "Sat, 13 Apr 2024 07:19:12 GMT"
+            },
+            {
+                "name": "document-policy",
+                "value": "force-load-at-top"
+            },
+            {
+                "name": "expires",
+                "value": "Sat, 12 Apr 2025 19:30:34 GMT"
+            },
+            {
+                "name": "last-modified",
+                "value": "Mon, 01 Jan 2001 08:00:00 GMT"
+            },
+            {
+                "name": "origin-agent-cluster",
+                "value": "?0"
+            },
+            {
+                "name": "permissions-policy",
+                "value": "accelerometer=(), attribution-reporting=(), autoplay=(), bluetooth=(), camera=(), ch-device-memory=(), ch-downlink=(), ch-ect=(), ch-rtt=(), ch-save-data=(), ch-ua-arch=(), ch-ua-bitness=(), clipboard-read=(), clipboard-write=(), display-capture=(), encrypted-media=(), fullscreen=(self), gamepad=(), geolocation=(), gyroscope=(), hid=(), idle-detection=(), keyboard-map=(), local-fonts=(), magnetometer=(), microphone=(), midi=(), otp-credentials=(), payment=(), picture-in-picture=(), publickey-credentials-get=(), screen-wake-lock=(), serial=(), usb=(), window-management=(), xr-spatial-tracking=();report-to=\"permissions_policy\""
+            },
+            {
+                "name": "priority",
+                "value": "u=1,i"
+            },
+            {
+                "name": "report-to",
+                "value": "{\"max_age\":21600,\"endpoints\":[{\"url\":\"https:\\\/\\\/www.facebook.com\\\/ajax\\\/browser_error_reports\\\/\"}],\"group\":\"permissions_policy\"}"
+            },
+            {
+                "name": "reporting-endpoints",
+                "value": "permissions_policy=\"https:\/\/www.facebook.com\/ajax\/browser_error_reports\/\""
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "vary",
+                "value": "Origin"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "x-fb-connection-quality",
+                "value": "EXCELLENT; q=0.9, rtt=45, rtx=568, c=99, mss=1232, tbw=1745702, tp=1437, tpl=568, uplat=1, ullat=-1"
+            },
+            {
+                "name": "x-fb-debug",
+                "value": "s6IJ23Y8471pCYsC7rQUZjkdvzLi1ap2xdz1REysziczebFiajzX6slgfUvJHsGb3NuXebKmossl4CySs6tI0Q=="
+            }
+        ],
+        "cookies": [],
+        "content": {
+            "size": 7159,
+            "mimeType": "application\/json",
+            "text": "{\"translations\":{\"GbFoxuI3sCw\":\"Sorry! Something went wrong :(\",\"Twor-U8sZs8\":\"Your internet connection was restored.\",\"mzjg0e604Yh\":\"Refresh\",\"px_Aor7szAo\":\"You are currently offline.\",\"1V4qdh25Bnb\":\"This is a browser feature intended for developers. If someone told you to copy-paste something here to enable an Instagram feature or \\\"hack\\\" someone's account, it is a scam and will give them access to your Instagram account.\",\"JSeBwAKhGJH\":\"This is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Threads feature or \\\"hack\\\" someone's account, it is a scam and will give them access to your Threads account.\",\"S8hqZ4zKptW\":\"This is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Facebook feature or \\\"hack\\\" someone's account, it is a scam and will give them access to your Facebook account.\",\"4REdQ6uuqzn\":\"Stop!\",\"1jNE2MHDhX-\":\"See {url} for more information.\",\"dV9Vz_8TRow\":\"Confirm\",\"vfZ0qXC5Zmr\":\"Cancel\",\"bHf-pjjpSrh\":\"Messenger is offline\",\"g2TuGL7kp7W\":\"Please check your connection. Anything you do in chats while offline, like send messages or change chat colors, will be completed when you connect to the internet.\",\"KN5FuK9HL68\":\"Facebook user\",\"PmrYWcLl7s-\":\"Your message was not sent.\",\"U3_S6m-Asci\":\"You can't reply to this conversation.\",\"wwqS06IKURT\":\"You unsent a message.\",\"_xK_oqrbVu3\":\"{user_name} unsent a message.\",\"mtqLMpBAIfE\":\"Message hidden\",\"AcX9AAMg2Jv\":\"You bumped a message.\",\"nh5Ig-KQkRx\":\"{user_name} bumped a message.\",\"r5f8SC2OUWe\":\"You\",\"UxIyHnrkGvQ\":\"You sent a sticker.\",\"6CXDyy4pKod\":\"{user_name} sent a sticker.\",\"4jXDffqGKxc\":\"You sent an attachment.\",\"XuMb0GRtMp2\":\"{user_name} sent an attachment.\",\"adFbSa44M9G\":\"You sent a photo.\",\"WRQpot61Zha\":\"{user_name} sent a photo.\",\"AKC6gu2oXen\":\"You sent a GIF from {app_name}.\",\"LLEsQ4Y9-C7\":\"{user_name} sent a GIF from {app_name}.\",\"pQsKY3JdghI\":\"You sent a GIF.\",\"VzXmY6Nofoo\":\"{user_name} sent a GIF.\",\"C6rFQy3ZqgT\":\"You sent a video.\",\"5sq-yY8-PHO\":\"{user_name} sent a video.\",\"Y9RNnaq--9C\":\"You sent a voice message.\",\"Tf8KEtj2NUW\":\"{user_name} sent a voice message.\",\"VTdyPQ7H4GZ\":\"You sent a selfie sticker.\",\"YPG0HYdjvfW\":\"{user_name} sent a selfie sticker.\",\"j-o8KFpMPxd\":\"You shared a post.\",\"zsY9ES-V3Ko\":\"{user_name} shared a post.\",\"8PT2JtdeJx9\":\"You replied to a story.\",\"H7eOZ8S6YOP\":\"{user_name} replied to a story.\",\"qiicOieyAHd\":\"You sent a story.\",\"TkSIon2AHjf\":\"{user_name} sent a story.\",\"hs-XIkGvPGM\":\"you mentioned {user_name} in your story\",\"78NZ4EbNix1\":\"mentioned you in their story\",\"9P29njYEtVJ\":\"You sent a reel.\",\"HqUxJ78yQEs\":\"{user_name} sent a reel.\",\"4RDpwDU2bxj\":\"You sent an IGTV video.\",\"sfM4caXMU8x\":\"{user_name} sent an IGTV video.\",\"rMpUt8zHstd\":\"You shared a shop.\",\"ZqoJBBTdmfd\":\"{user_name} shared a shop.\",\"3bEfkOlWqZQ\":\"You sent a profile.\",\"0LAhbzE2305\":\"{user_name} sent a profile.\",\"Xv5h5VWZ1z-\":\"You sent a story highlight.\",\"iwXmJRLI5oQ\":\"{user_name} sent a story highlight.\",\"da1hGBDyrc0\":\"You sent a gaming update.\",\"eB3RT9ZRPNU\":\"{user_name} sent a gaming update.\",\"uVYFUqdjsDk\":\"You replied to your story.\",\"JNmnqH9YpVN\":\"{user_name} replied to your story.\",\"cjVmAaYlDK5\":\"You replied to their story.\",\"tgAN3WazCx7\":\"{user_name} replied to their story.\",\"BCqXnePZxrY\":\"You sent a location.\",\"NfWlT4Kxbzi\":\"{user_name} sent a location.\",\"mUkKfPWP8w_\":\"You sent a memory.\",\"2bPnhlt5UjK\":\"{user_name} sent a memory.\",\"LG-CVe6YeL2\":\"The audio call ended.\",\"XSfhGJMwPL8\":\"The video call ended.\",\"qL_GOsBRgrZ\":\"{user_name} missed your audio call.\",\"LrXrY17Mwwh\":\"You missed an audio call from {user_name}.\",\"NEO9buPurkr\":\"{user_name} missed your video call.\",\"Qho_g3FF8mq\":\"You missed a video call from {user_name}.\",\"Xxt66o3iPYX\":\"The audio call started.\",\"v6KFXcykdOt\":\"The video call started.\",\"0oa3QgNUtA3\":\"Missed group audio call\",\"ypexge-6NRA\":\"Missed group video call\",\"woc-8KLy7zj\":\"You sent a live location.\",\"--XUHiOY0Z1\":\"{user_name} sent a live location.\",\"vsnRcMCSSFJ\":{\"*\":\"You sent {number} photos.\",\"_1\":\"You sent a photo.\"},\"rG1E-FG-TxB\":{\"*\":\"{user_name} sent {number} photos.\",\"_1\":\"{user_name} sent a photo.\"},\"_H0KEIF4aGq\":\"You sent multiple attachments.\",\"F5OxWfUB9Dy\":\"{user_name} sent multiple attachments.\",\"3P1HxS_1jfg\":\"Reply to {other_user}\",\"a5_sxn3ZWZn\":\"Reply to {other_user} and others\",\"czVm_Pwt6t9\":\"{num_messages} new messages\",\"_P-lwtylUhP\":\"{other_user} sent a message.\",\"YBxxz_Vibx6\":\"Pending approval\",\"YRCmoad58uJ\":\"Going\",\"_8aETeHXtHr\":\"Interested\",\"byni3VHMHc8\":\"Not interested\",\"ga21xjHrnrP\":\"Maybe\",\"Q_LYP_ZLQTd\":\"Can't go\",\"JBe8j08K09-\":\"Respond\",\"bZt0xiZTnI-\":\"Request to join\",\"LU51Dz-OBab\":\"See all\",\"6vTlb2bku1-\":\"You bumped your message\",\"TK1WqTTq979\":\"You bumped {participant_name}'s message\",\"AI6Z85qZOTl\":\"{sender_name} bumped your message\",\"1Mq5qyIkjxC\":\"{sender_name} bumped their message\",\"Jm7dkp7Q46M\":\"{sender_name} bumped {reply_source_sender_name}'s message\",\"YfSaJhpdv0H\":\"You replied to yourself\",\"rouMYaFboPj\":\"You replied to {participant_name}\",\"gln0mR6BSos\":\"{sender_name} replied to you\",\"xBthZSMLrSR\":\"{sender_name} replied to themselves\",\"Bfn4BTqFbTw\":\"{sender_name} replied to {reply_source_sender_name}\",\"yQuJ1OMUVjP\":\"Add\",\"3k8IWsw1-6Y\":\"You\",\"JXT3riixpEu\":\"{user} turned on disappearing messages.\",\"hI4gbzrBlXq\":\"Disappearing messages were turned on.\",\"71WGCM_QR6l\":\"{preamble} Messages will disappear {time} after they're sent.\",\"8dRN_uv1Ey6\":{\"*\":\"{number} seconds\",\"_1\":\"1 second\"},\"ypkuSNWTmvD\":{\"*\":\"{number} minutes\",\"_1\":\"1 minute\"},\"Gt2ASOwx3aR\":{\"*\":\"{number} hours\",\"_1\":\"1 hour\"},\"BkWfpfnRWrH\":\"{user} turned off disappearing messages.\",\"lritNDvzWHc\":\"Disappearing messages were turned off.\",\"4w1HQhVySfH\":\"Workplace User\",\"Yz7gQUpuAdz\":\"Sidechat\",\"KVOi7QtdIiz\":\"Facebook User\",\"YIi23RvfAOM\":\"{user_name}'s audio\",\"zy0vB4g7bUg\":\"{user_name}'s photo\",\"Tjhx4Uo9tx2\":\"{user_name}'s video\",\"ixrUZRszn_J\":\"{user_name}'s sticker\",\"cOvKzCJo9pt\":\"{user_name}'s GIF\",\"HW7JxEhyqTG\":\"{user_name}'s attachment\",\"DIFtX0dJhWX\":\"You created a sidechat\",\"7lkRbksMys6\":\"{receiver_name} didn't accept your payment of ${amount} within 7 days, so the money was returned to you.\",\"VQfKxCig0vy\":\"{sender_name} made an update. You are receiving updates for {game_name} in this thread.\",\"5SAbOrcrYuU\":\"You are receiving updates for {game_name} in this thread.\",\"VQ2HMGY9wwv\":\"People in this thread are playing {game_name}. Messages are turned off for you.\",\"JjXwyclLQBa\":\"{sender_name} made an update.\",\"w7ck8Nknn5M\":\"You are now connected on Messenger.\",\"ri623MWPdFQ\":\"{sender_name} scanned {receiver_name}'s QR code to start this chat.\",\"VF7_ry1JLc_\":\"The broadcast is waiting for a signal. It should resume shortly.\",\"BFvlG3IxPd7\":\"Waiting for Live Video Signal\",\"qNfUY0OKWF7\":\"{Platform Name} User\"},\"virtual_modules\":[\"CometFBUncaughtError.react$fbt_virtual\",\"CometNetworkStatusToast$fbt_virtual\",\"Chromedome$fbt_virtual\",\"CometOnBeforeUnloadDialog.react$fbt_virtual\",\"LSLocalizedStrings$fbt_virtual\",\"LSLocalizedStringsV2$fbt_virtual\",\"VideoPlayerWithLiveVideoInterruptedOverlay.react$fbt_virtual\",\"MAWSubscribeToContactNames$fbt_virtual\"]}"
+        },
+        "redirectURL": "",
+        "headersSize": -1,
+        "bodySize": -1,
+        "_transferSize": 3241,
+        "_error": null
+    },
+    "serverIPAddress": "157.240.227.63",
+    "startedDateTime": "2024-04-13T07:19:12.933Z",
+    "time": 1373.4070000009524,
+    "timings": {
+        "blocked": 3.6660000001189763,
+        "dns": -1,
+        "ssl": -1,
+        "connect": -1,
+        "send": 0.3909999999999998,
+        "wait": 1318.3819999994575,
+        "receive": 50.96800000137591,
+        "_blocked_queueing": 1.7090000001189765
+    }
+}

@@ -1,0 +1,167 @@
+{
+    "_fromCache": "disk",
+    "_initiator": {
+        "type": "parser",
+        "url": "https:\/\/www.instagram.com\/superbon_banchamek",
+        "lineNumber": 9
+    },
+    "_priority": "High",
+    "_resourceType": "other",
+    "cache": [],
+    "pageref": "page_16",
+    "request": {
+        "method": "GET",
+        "url": "https:\/\/static.cdninstagram.com\/rsrc-translations.php\/v6iyTh4\/yq\/l\/en_US\/A5kSIoTbRdd.js?_nc_x=Ij3Wp8lg5Kz",
+        "httpVersion": "h3",
+        "headers": [
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Google Chrome\";v=\"123\", \"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"123\""
+            },
+            {
+                "name": "Referer",
+                "value": "https:\/\/www.instagram.com\/"
+            },
+            {
+                "name": "Origin",
+                "value": "https:\/\/www.instagram.com"
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "User-Agent",
+                "value": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/123.0.0.0 Safari\/537.36"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+            }
+        ],
+        "queryString": [
+            {
+                "name": "_nc_x",
+                "value": "Ij3Wp8lg5Kz"
+            }
+        ],
+        "cookies": [],
+        "headersSize": -1,
+        "bodySize": 0
+    },
+    "response": {
+        "status": 200,
+        "statusText": "",
+        "httpVersion": "h3",
+        "headers": [
+            {
+                "name": "date",
+                "value": "Sat, 13 Apr 2024 07:19:53 GMT"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "content-md5",
+                "value": "WBL78nOnde\/HC6B+LoYcVw=="
+            },
+            {
+                "name": "document-policy",
+                "value": "force-load-at-top"
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=86400"
+            },
+            {
+                "name": "content-length",
+                "value": "126"
+            },
+            {
+                "name": "reporting-endpoints",
+                "value": "permissions_policy=\"https:\/\/www.facebook.com\/ajax\/browser_error_reports\/\""
+            },
+            {
+                "name": "x-fb-connection-quality",
+                "value": "MODERATE; q=0.3, rtt=191, rtx=1680, c=178, mss=1232, tbw=5757625, tp=4838, tpl=1680, uplat=1, ullat=-1"
+            },
+            {
+                "name": "x-fb-debug",
+                "value": "J1Gf63IFUeqHf67kTVFWS606SPPNwCWMot+ADmuUtLlkagmDHpMoJIoHwPjq2NNIgIqv1wsGv3cCnd0meJMf4g=="
+            },
+            {
+                "name": "last-modified",
+                "value": "Mon, 01 Jan 2001 08:00:00 GMT"
+            },
+            {
+                "name": "vary",
+                "value": "Origin"
+            },
+            {
+                "name": "report-to",
+                "value": "{\"max_age\":21600,\"endpoints\":[{\"url\":\"https:\\\/\\\/www.facebook.com\\\/ajax\\\/browser_error_reports\\\/\"}],\"group\":\"permissions_policy\"}"
+            },
+            {
+                "name": "content-type",
+                "value": "application\/json"
+            },
+            {
+                "name": "access-control-allow-origin",
+                "value": "https:\/\/www.instagram.com"
+            },
+            {
+                "name": "origin-agent-cluster",
+                "value": "?0"
+            },
+            {
+                "name": "cache-control",
+                "value": "public,max-age=31536000,immutable"
+            },
+            {
+                "name": "permissions-policy",
+                "value": "accelerometer=(), ambient-light-sensor=(), attribution-reporting=(), autoplay=(), bluetooth=(), camera=(), ch-device-memory=(), ch-save-data=(), ch-ua-arch=(), ch-ua-bitness=(), clipboard-read=(), clipboard-write=(), display-capture=(), encrypted-media=(), fullscreen=(self), gamepad=(), geolocation=(), gyroscope=(), hid=(), idle-detection=(), keyboard-map=(), local-fonts=(), magnetometer=(), microphone=(), midi=(), otp-credentials=(), payment=(), picture-in-picture=(), publickey-credentials-get=(), screen-wake-lock=(), serial=(), usb=(), window-management=(), xr-spatial-tracking=();report-to=\"permissions_policy\""
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "priority",
+                "value": "u=1,i"
+            },
+            {
+                "name": "expires",
+                "value": "Tue, 01 Apr 2025 10:57:37 GMT"
+            }
+        ],
+        "cookies": [],
+        "content": {
+            "size": 126,
+            "mimeType": "application\/json",
+            "text": "{\"translations\":{\"0C3tbV4wRe8\":\"Sensitive content overlay\"},\"virtual_modules\":[\"PolarisPostsGridItem.next.react$fbt_virtual\"]}"
+        },
+        "redirectURL": "",
+        "headersSize": -1,
+        "bodySize": 0,
+        "_transferSize": 0,
+        "_error": null
+    },
+    "serverIPAddress": "157.240.227.63",
+    "startedDateTime": "2024-04-13T07:25:53.277Z",
+    "time": 65.59400000151072,
+    "timings": {
+        "blocked": 1.6740000001440059,
+        "dns": -1,
+        "ssl": -1,
+        "connect": -1,
+        "send": 0,
+        "wait": 46.67400000011607,
+        "receive": 17.24600000125065,
+        "_blocked_queueing": 1.5640000001440058
+    }
+}

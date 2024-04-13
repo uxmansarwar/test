@@ -1,0 +1,755 @@
+{
+    "_initiator": {
+        "type": "script",
+        "stack": {
+            "callFrames": [
+                {
+                    "functionName": "c.send",
+                    "scriptId": "199",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3iz8r4\/yF\/l\/makehaste_jhash\/_6QLXU4VLZWIMB23JaF78-0wSX6cSW3K49oOxHG-k_ZzcZtDF6kpo1BBYBHirbomYfNjyUKFlncpmcBNnczn8-8FaKa9IOdu-hOnsVB6010oIk7eckjj2pErN.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 1733,
+                    "columnNumber": 1874
+                },
+                {
+                    "functionName": "o",
+                    "scriptId": "199",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3iz8r4\/yF\/l\/makehaste_jhash\/_6QLXU4VLZWIMB23JaF78-0wSX6cSW3K49oOxHG-k_ZzcZtDF6kpo1BBYBHirbomYfNjyUKFlncpmcBNnczn8-8FaKa9IOdu-hOnsVB6010oIk7eckjj2pErN.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 1733,
+                    "columnNumber": 4336
+                },
+                {
+                    "functionName": "",
+                    "scriptId": "199",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3iz8r4\/yF\/l\/makehaste_jhash\/_6QLXU4VLZWIMB23JaF78-0wSX6cSW3K49oOxHG-k_ZzcZtDF6kpo1BBYBHirbomYfNjyUKFlncpmcBNnczn8-8FaKa9IOdu-hOnsVB6010oIk7eckjj2pErN.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 1733,
+                    "columnNumber": 4475
+                },
+                {
+                    "functionName": "c.map",
+                    "scriptId": "199",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3iz8r4\/yF\/l\/makehaste_jhash\/_6QLXU4VLZWIMB23JaF78-0wSX6cSW3K49oOxHG-k_ZzcZtDF6kpo1BBYBHirbomYfNjyUKFlncpmcBNnczn8-8FaKa9IOdu-hOnsVB6010oIk7eckjj2pErN.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 1733,
+                    "columnNumber": 4837
+                },
+                {
+                    "functionName": "map",
+                    "scriptId": "199",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3iz8r4\/yF\/l\/makehaste_jhash\/_6QLXU4VLZWIMB23JaF78-0wSX6cSW3K49oOxHG-k_ZzcZtDF6kpo1BBYBHirbomYfNjyUKFlncpmcBNnczn8-8FaKa9IOdu-hOnsVB6010oIk7eckjj2pErN.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 1733,
+                    "columnNumber": 5319
+                },
+                {
+                    "functionName": "y",
+                    "scriptId": "199",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3iz8r4\/yF\/l\/makehaste_jhash\/_6QLXU4VLZWIMB23JaF78-0wSX6cSW3K49oOxHG-k_ZzcZtDF6kpo1BBYBHirbomYfNjyUKFlncpmcBNnczn8-8FaKa9IOdu-hOnsVB6010oIk7eckjj2pErN.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 1121,
+                    "columnNumber": 4132
+                },
+                {
+                    "functionName": "u",
+                    "scriptId": "199",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3iz8r4\/yF\/l\/makehaste_jhash\/_6QLXU4VLZWIMB23JaF78-0wSX6cSW3K49oOxHG-k_ZzcZtDF6kpo1BBYBHirbomYfNjyUKFlncpmcBNnczn8-8FaKa9IOdu-hOnsVB6010oIk7eckjj2pErN.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 1121,
+                    "columnNumber": 5325
+                },
+                {
+                    "functionName": "s",
+                    "scriptId": "199",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3iz8r4\/yF\/l\/makehaste_jhash\/_6QLXU4VLZWIMB23JaF78-0wSX6cSW3K49oOxHG-k_ZzcZtDF6kpo1BBYBHirbomYfNjyUKFlncpmcBNnczn8-8FaKa9IOdu-hOnsVB6010oIk7eckjj2pErN.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 1121,
+                    "columnNumber": 4185
+                },
+                {
+                    "functionName": "a",
+                    "scriptId": "199",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3iz8r4\/yF\/l\/makehaste_jhash\/_6QLXU4VLZWIMB23JaF78-0wSX6cSW3K49oOxHG-k_ZzcZtDF6kpo1BBYBHirbomYfNjyUKFlncpmcBNnczn8-8FaKa9IOdu-hOnsVB6010oIk7eckjj2pErN.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 1121,
+                    "columnNumber": 5562
+                },
+                {
+                    "functionName": "",
+                    "scriptId": "202",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3iVjB4\/yE\/l\/makehaste_jhash\/Vv_wcocnelN.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 79,
+                    "columnNumber": 758
+                },
+                {
+                    "functionName": "h",
+                    "scriptId": "199",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3iz8r4\/yF\/l\/makehaste_jhash\/_6QLXU4VLZWIMB23JaF78-0wSX6cSW3K49oOxHG-k_ZzcZtDF6kpo1BBYBHirbomYfNjyUKFlncpmcBNnczn8-8FaKa9IOdu-hOnsVB6010oIk7eckjj2pErN.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 1579,
+                    "columnNumber": 124
+                },
+                {
+                    "functionName": "g",
+                    "scriptId": "199",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3iz8r4\/yF\/l\/makehaste_jhash\/_6QLXU4VLZWIMB23JaF78-0wSX6cSW3K49oOxHG-k_ZzcZtDF6kpo1BBYBHirbomYfNjyUKFlncpmcBNnczn8-8FaKa9IOdu-hOnsVB6010oIk7eckjj2pErN.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 1579,
+                    "columnNumber": 348
+                },
+                {
+                    "functionName": "",
+                    "scriptId": "199",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3iz8r4\/yF\/l\/makehaste_jhash\/_6QLXU4VLZWIMB23JaF78-0wSX6cSW3K49oOxHG-k_ZzcZtDF6kpo1BBYBHirbomYfNjyUKFlncpmcBNnczn8-8FaKa9IOdu-hOnsVB6010oIk7eckjj2pErN.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 1579,
+                    "columnNumber": 407
+                },
+                {
+                    "functionName": "",
+                    "scriptId": "199",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3iz8r4\/yF\/l\/makehaste_jhash\/_6QLXU4VLZWIMB23JaF78-0wSX6cSW3K49oOxHG-k_ZzcZtDF6kpo1BBYBHirbomYfNjyUKFlncpmcBNnczn8-8FaKa9IOdu-hOnsVB6010oIk7eckjj2pErN.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 1579,
+                    "columnNumber": 276
+                },
+                {
+                    "functionName": "",
+                    "scriptId": "202",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3iVjB4\/yE\/l\/makehaste_jhash\/Vv_wcocnelN.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 79,
+                    "columnNumber": 1819
+                },
+                {
+                    "functionName": "e.$8",
+                    "scriptId": "199",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3iz8r4\/yF\/l\/makehaste_jhash\/_6QLXU4VLZWIMB23JaF78-0wSX6cSW3K49oOxHG-k_ZzcZtDF6kpo1BBYBHirbomYfNjyUKFlncpmcBNnczn8-8FaKa9IOdu-hOnsVB6010oIk7eckjj2pErN.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 698,
+                    "columnNumber": 1672
+                },
+                {
+                    "functionName": "e.$6",
+                    "scriptId": "199",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3iz8r4\/yF\/l\/makehaste_jhash\/_6QLXU4VLZWIMB23JaF78-0wSX6cSW3K49oOxHG-k_ZzcZtDF6kpo1BBYBHirbomYfNjyUKFlncpmcBNnczn8-8FaKa9IOdu-hOnsVB6010oIk7eckjj2pErN.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 698,
+                    "columnNumber": 1599
+                },
+                {
+                    "functionName": "e.loadGetQuery",
+                    "scriptId": "199",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3iz8r4\/yF\/l\/makehaste_jhash\/_6QLXU4VLZWIMB23JaF78-0wSX6cSW3K49oOxHG-k_ZzcZtDF6kpo1BBYBHirbomYfNjyUKFlncpmcBNnczn8-8FaKa9IOdu-hOnsVB6010oIk7eckjj2pErN.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 698,
+                    "columnNumber": 1063
+                },
+                {
+                    "functionName": "d.loadGetQuery",
+                    "scriptId": "199",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3iz8r4\/yF\/l\/makehaste_jhash\/_6QLXU4VLZWIMB23JaF78-0wSX6cSW3K49oOxHG-k_ZzcZtDF6kpo1BBYBHirbomYfNjyUKFlncpmcBNnczn8-8FaKa9IOdu-hOnsVB6010oIk7eckjj2pErN.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 699,
+                    "columnNumber": 408
+                },
+                {
+                    "functionName": "a",
+                    "scriptId": "199",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3iz8r4\/yF\/l\/makehaste_jhash\/_6QLXU4VLZWIMB23JaF78-0wSX6cSW3K49oOxHG-k_ZzcZtDF6kpo1BBYBHirbomYfNjyUKFlncpmcBNnczn8-8FaKa9IOdu-hOnsVB6010oIk7eckjj2pErN.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 1812,
+                    "columnNumber": 226
+                },
+                {
+                    "functionName": "a",
+                    "scriptId": "200",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3ik0A4\/yW\/l\/makehaste_jhash\/C4CcZc2o7FHc7cKIItSAeVH6X7_0-thwdZC0uTymPFi8HzzQyzZ3zNRu9xcXTmwcxe6BFJQUsUw5JGrj0qPeNo3qITMTcK13AweRAtLTl45A93YdJ2H1oYpRX4rhG6u_TiI95Ppx2hs_Ch8kBR2tCac8vV1Vn3C30z2yXOnmSaduO8mPAMBI80zJOUIAeIf3EHIcpDT6FQmWY9KwkA-fUTUKZ8rmqD-jbnwmz6FcRYoJlGbYMGL7ybOSq2QJYDulL5JT06CErTz6SfrQeceTa-ZDR8RuD26FX6W_V-V5GvsWqehdEtWws0hYtJjORjZygKaBVpywd2.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 618,
+                    "columnNumber": 179
+                },
+                {
+                    "functionName": "p",
+                    "scriptId": "199",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3iz8r4\/yF\/l\/makehaste_jhash\/_6QLXU4VLZWIMB23JaF78-0wSX6cSW3K49oOxHG-k_ZzcZtDF6kpo1BBYBHirbomYfNjyUKFlncpmcBNnczn8-8FaKa9IOdu-hOnsVB6010oIk7eckjj2pErN.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 2088,
+                    "columnNumber": 903
+                },
+                {
+                    "functionName": "a",
+                    "scriptId": "199",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3iz8r4\/yF\/l\/makehaste_jhash\/_6QLXU4VLZWIMB23JaF78-0wSX6cSW3K49oOxHG-k_ZzcZtDF6kpo1BBYBHirbomYfNjyUKFlncpmcBNnczn8-8FaKa9IOdu-hOnsVB6010oIk7eckjj2pErN.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 2088,
+                    "columnNumber": 1510
+                },
+                {
+                    "functionName": "af",
+                    "scriptId": "199",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3iz8r4\/yF\/l\/makehaste_jhash\/_6QLXU4VLZWIMB23JaF78-0wSX6cSW3K49oOxHG-k_ZzcZtDF6kpo1BBYBHirbomYfNjyUKFlncpmcBNnczn8-8FaKa9IOdu-hOnsVB6010oIk7eckjj2pErN.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 1405,
+                    "columnNumber": 42881
+                },
+                {
+                    "functionName": "Tg",
+                    "scriptId": "199",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3iz8r4\/yF\/l\/makehaste_jhash\/_6QLXU4VLZWIMB23JaF78-0wSX6cSW3K49oOxHG-k_ZzcZtDF6kpo1BBYBHirbomYfNjyUKFlncpmcBNnczn8-8FaKa9IOdu-hOnsVB6010oIk7eckjj2pErN.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 1405,
+                    "columnNumber": 67520
+                },
+                {
+                    "functionName": "mh",
+                    "scriptId": "199",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3iz8r4\/yF\/l\/makehaste_jhash\/_6QLXU4VLZWIMB23JaF78-0wSX6cSW3K49oOxHG-k_ZzcZtDF6kpo1BBYBHirbomYfNjyUKFlncpmcBNnczn8-8FaKa9IOdu-hOnsVB6010oIk7eckjj2pErN.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 1405,
+                    "columnNumber": 79159
+                },
+                {
+                    "functionName": "pk",
+                    "scriptId": "199",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3iz8r4\/yF\/l\/makehaste_jhash\/_6QLXU4VLZWIMB23JaF78-0wSX6cSW3K49oOxHG-k_ZzcZtDF6kpo1BBYBHirbomYfNjyUKFlncpmcBNnczn8-8FaKa9IOdu-hOnsVB6010oIk7eckjj2pErN.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 1405,
+                    "columnNumber": 126713
+                },
+                {
+                    "functionName": "ok",
+                    "scriptId": "199",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3iz8r4\/yF\/l\/makehaste_jhash\/_6QLXU4VLZWIMB23JaF78-0wSX6cSW3K49oOxHG-k_ZzcZtDF6kpo1BBYBHirbomYfNjyUKFlncpmcBNnczn8-8FaKa9IOdu-hOnsVB6010oIk7eckjj2pErN.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 1405,
+                    "columnNumber": 126686
+                },
+                {
+                    "functionName": "nk",
+                    "scriptId": "199",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3iz8r4\/yF\/l\/makehaste_jhash\/_6QLXU4VLZWIMB23JaF78-0wSX6cSW3K49oOxHG-k_ZzcZtDF6kpo1BBYBHirbomYfNjyUKFlncpmcBNnczn8-8FaKa9IOdu-hOnsVB6010oIk7eckjj2pErN.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 1405,
+                    "columnNumber": 126532
+                },
+                {
+                    "functionName": "Vj",
+                    "scriptId": "199",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3iz8r4\/yF\/l\/makehaste_jhash\/_6QLXU4VLZWIMB23JaF78-0wSX6cSW3K49oOxHG-k_ZzcZtDF6kpo1BBYBHirbomYfNjyUKFlncpmcBNnczn8-8FaKa9IOdu-hOnsVB6010oIk7eckjj2pErN.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 1405,
+                    "columnNumber": 121861
+                },
+                {
+                    "functionName": "applyWithGuard",
+                    "scriptId": "207",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 69,
+                    "columnNumber": 10431
+                },
+                {
+                    "functionName": "c",
+                    "scriptId": "207",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 69,
+                    "columnNumber": 11165
+                },
+                {
+                    "functionName": "O",
+                    "scriptId": "207",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 228,
+                    "columnNumber": 2291
+                },
+                {
+                    "functionName": "U",
+                    "scriptId": "207",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 228,
+                    "columnNumber": 2892
+                }
+            ],
+            "parentId": {
+                "id": "7575",
+                "debuggerId": "8424053649680792390.4928694886500465872"
+            }
+        }
+    },
+    "_priority": "High",
+    "_resourceType": "xhr",
+    "cache": [],
+    "pageref": "page_16",
+    "request": {
+        "method": "GET",
+        "url": "https:\/\/www.instagram.com\/api\/v1\/web\/get_ruling_for_content\/?content_type=PROFILE&target_id=289661353",
+        "httpVersion": "h3",
+        "headers": [
+            {
+                "name": ":authority",
+                "value": "www.instagram.com"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "\/api\/v1\/web\/get_ruling_for_content\/?content_type=PROFILE&target_id=289661353"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "*\/*"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br, zstd"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "cookie",
+                "value": "mid=ZhoxogALAAHubFdTZS96KFjJIptn; ig_did=90F37C0A-66E0-4C6D-A18E-A2F1AB506938; datr=ojEaZncdsfE3nv-0jg_KpoiB; csrftoken=JuQGUwIXaXrLky6ZuQmzkOszGDAWAlJt; ds_user_id=65485362671; sessionid=65485362671%3Aj8W6edu3kZ8uDW%3A8%3AAYdf58IAz74d9-Lz40rtk41TFw7_aLWG2eGZkQoXEg; shbid=\"987\\05465485362671\\0541744528755:01f7bb8821a8f316bbb0d40ff8ed402257f78575d53d342316dc5baf4129c1b91a9ce9f6\"; shbts=\"1712992755\\05465485362671\\0541744528755:01f7a5a3c77a23059dc3515933986ed37ca408b97b90f14d0857ade273f7094df60a60e7\"; rur=\"CLN\\05465485362671\\0541744529156:01f7b91520fbce6e9d1f1a3170320a1811cdbc516f3814f4c2f77e5bd65962dbedb5aafb\""
+            },
+            {
+                "name": "dpr",
+                "value": "1"
+            },
+            {
+                "name": "referer",
+                "value": "https:\/\/www.instagram.com\/superbon_banchamek"
+            },
+            {
+                "name": "sec-ch-prefers-color-scheme",
+                "value": "dark"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Google Chrome\";v=\"123\", \"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"123\""
+            },
+            {
+                "name": "sec-ch-ua-full-version-list",
+                "value": "\"Google Chrome\";v=\"123.0.6312.122\", \"Not:A-Brand\";v=\"8.0.0.0\", \"Chromium\";v=\"123.0.6312.122\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-model",
+                "value": "\"\""
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+            },
+            {
+                "name": "sec-ch-ua-platform-version",
+                "value": "\"10.0.0\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "empty"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "same-origin"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/123.0.0.0 Safari\/537.36"
+            },
+            {
+                "name": "viewport-width",
+                "value": "958"
+            },
+            {
+                "name": "x-asbd-id",
+                "value": "129477"
+            },
+            {
+                "name": "x-csrftoken",
+                "value": "JuQGUwIXaXrLky6ZuQmzkOszGDAWAlJt"
+            },
+            {
+                "name": "x-ig-app-id",
+                "value": "936619743392459"
+            },
+            {
+                "name": "x-ig-www-claim",
+                "value": "hmac.AR3P_LNKTHsdAONBDPsxw9hLNPPP76dw7y7P87Ln3G4K_tpG"
+            },
+            {
+                "name": "x-requested-with",
+                "value": "XMLHttpRequest"
+            }
+        ],
+        "queryString": [
+            {
+                "name": "content_type",
+                "value": "PROFILE"
+            },
+            {
+                "name": "target_id",
+                "value": "289661353"
+            }
+        ],
+        "cookies": [
+            {
+                "name": "mid",
+                "value": "ZhoxogALAAHubFdTZS96KFjJIptn",
+                "path": "\/",
+                "domain": ".instagram.com",
+                "expires": "2025-05-18T07:17:57.000Z",
+                "httpOnly": false,
+                "secure": true
+            },
+            {
+                "name": "ig_did",
+                "value": "90F37C0A-66E0-4C6D-A18E-A2F1AB506938",
+                "path": "\/",
+                "domain": ".instagram.com",
+                "expires": "2025-04-13T07:19:11.300Z",
+                "httpOnly": true,
+                "secure": true
+            },
+            {
+                "name": "datr",
+                "value": "ojEaZncdsfE3nv-0jg_KpoiB",
+                "path": "\/",
+                "domain": ".instagram.com",
+                "expires": "2025-05-18T07:17:57.695Z",
+                "httpOnly": true,
+                "secure": true,
+                "sameSite": "None"
+            },
+            {
+                "name": "csrftoken",
+                "value": "JuQGUwIXaXrLky6ZuQmzkOszGDAWAlJt",
+                "path": "\/",
+                "domain": ".instagram.com",
+                "expires": "2025-04-12T07:25:56.409Z",
+                "httpOnly": false,
+                "secure": true
+            },
+            {
+                "name": "ds_user_id",
+                "value": "65485362671",
+                "path": "\/",
+                "domain": ".instagram.com",
+                "expires": "2024-07-12T07:25:56.409Z",
+                "httpOnly": false,
+                "secure": true
+            },
+            {
+                "name": "sessionid",
+                "value": "65485362671%3Aj8W6edu3kZ8uDW%3A8%3AAYdf58IAz74d9-Lz40rtk41TFw7_aLWG2eGZkQoXEg",
+                "path": "\/",
+                "domain": ".instagram.com",
+                "expires": "2025-04-13T07:19:11.300Z",
+                "httpOnly": true,
+                "secure": true
+            },
+            {
+                "name": "shbid",
+                "value": "\"987\\05465485362671\\0541744528755:01f7bb8821a8f316bbb0d40ff8ed402257f78575d53d342316dc5baf4129c1b91a9ce9f6\"",
+                "path": "\/",
+                "domain": ".instagram.com",
+                "expires": "2024-04-20T07:19:15.491Z",
+                "httpOnly": true,
+                "secure": true
+            },
+            {
+                "name": "shbts",
+                "value": "\"1712992755\\05465485362671\\0541744528755:01f7a5a3c77a23059dc3515933986ed37ca408b97b90f14d0857ade273f7094df60a60e7\"",
+                "path": "\/",
+                "domain": ".instagram.com",
+                "expires": "2024-04-20T07:19:15.491Z",
+                "httpOnly": true,
+                "secure": true
+            },
+            {
+                "name": "rur",
+                "value": "\"CLN\\05465485362671\\0541744529156:01f7b91520fbce6e9d1f1a3170320a1811cdbc516f3814f4c2f77e5bd65962dbedb5aafb\"",
+                "path": "\/",
+                "domain": ".instagram.com",
+                "expires": "1969-12-31T23:59:59.000Z",
+                "httpOnly": true,
+                "secure": true,
+                "sameSite": "Lax"
+            }
+        ],
+        "headersSize": -1,
+        "bodySize": 0
+    },
+    "response": {
+        "status": 200,
+        "statusText": "",
+        "httpVersion": "h3",
+        "headers": [
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=86400"
+            },
+            {
+                "name": "cache-control",
+                "value": "private, no-cache, no-store, must-revalidate"
+            },
+            {
+                "name": "content-language",
+                "value": "en"
+            },
+            {
+                "name": "content-length",
+                "value": "84"
+            },
+            {
+                "name": "content-security-policy",
+                "value": "report-uri https:\/\/www.instagram.com\/security\/csp_report\/; default-src 'self' https:\/\/www.instagram.com; img-src data: blob: https:\/\/*.fbcdn.net https:\/\/*.instagram.com https:\/\/*.cdninstagram.com https:\/\/*.facebook.com https:\/\/*.fbsbx.com https:\/\/*.threads.net https:\/\/*.giphy.com; font-src data: https:\/\/*.fbcdn.net https:\/\/*.instagram.com https:\/\/*.cdninstagram.com; media-src 'self' blob: https:\/\/www.instagram.com https:\/\/*.cdninstagram.com https:\/\/*.fbcdn.net; manifest-src 'self' https:\/\/www.instagram.com; script-src 'self' https:\/\/instagram.com https:\/\/www.instagram.com https:\/\/*.www.instagram.com https:\/\/*.cdninstagram.com wss:\/\/www.instagram.com https:\/\/*.facebook.com https:\/\/*.fbcdn.net https:\/\/*.facebook.net 'unsafe-inline' 'unsafe-eval' blob:; style-src 'self' https:\/\/*.www.instagram.com https:\/\/www.instagram.com 'unsafe-inline'; connect-src 'self' https:\/\/instagram.com https:\/\/www.instagram.com https:\/\/*.www.instagram.com https:\/\/graph.instagram.com https:\/\/*.graph.instagram.com https:\/\/i.instagram.com\/graphql_www https:\/\/graphql.instagram.com https:\/\/*.cdninstagram.com https:\/\/api.instagram.com https:\/\/i.instagram.com https:\/\/*.i.instagram.com https:\/\/*.od.instagram.com https:\/\/i.threads.net https:\/\/*.od.threads.net wss:\/\/www.instagram.com wss:\/\/edge-chat.instagram.com https:\/\/*.facebook.com https:\/\/*.fbcdn.net https:\/\/*.facebook.net chrome-extension:\/\/boadgeojelhgndaghljhdicfkmllpafd blob:; worker-src 'self' blob: https:\/\/www.instagram.com; frame-src 'self' https:\/\/instagram.com https:\/\/www.instagram.com https:\/\/*.instagram.com https:\/\/staticxx.facebook.com https:\/\/www.facebook.com https:\/\/web.facebook.com https:\/\/connect.facebook.net https:\/\/m.facebook.com https:\/\/*.fbsbx.com; object-src 'none'; upgrade-insecure-requests"
+            },
+            {
+                "name": "content-type",
+                "value": "application\/json; charset=utf-8"
+            },
+            {
+                "name": "cross-origin-embedder-policy-report-only",
+                "value": "require-corp;report-to=\"coep\""
+            },
+            {
+                "name": "cross-origin-opener-policy",
+                "value": "same-origin-allow-popups;report-to=\"coop\""
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "date",
+                "value": "Sat, 13 Apr 2024 07:25:56 GMT"
+            },
+            {
+                "name": "expires",
+                "value": "Sat, 01 Jan 2000 00:00:00 GMT"
+            },
+            {
+                "name": "pragma",
+                "value": "no-cache"
+            },
+            {
+                "name": "priority",
+                "value": "u=1,i"
+            },
+            {
+                "name": "report-to",
+                "value": "{\"group\": \"coep\", \"max_age\": 86400, \"endpoints\": [{\"url\": \"\/security\/coep_report\/\"}]},{\"group\": \"coop\", \"max_age\": 86400, \"endpoints\": [{\"url\": \"\/security\/coop_report\/\"}]}"
+            },
+            {
+                "name": "set-cookie",
+                "value": "csrftoken=JuQGUwIXaXrLky6ZuQmzkOszGDAWAlJt; Domain=.instagram.com; expires=Sat, 12-Apr-2025 07:25:56 GMT; Max-Age=31449600; Path=\/; Secure"
+            },
+            {
+                "name": "set-cookie",
+                "value": "rur=\"CLN\\05465485362671\\0541744529156:01f7b91520fbce6e9d1f1a3170320a1811cdbc516f3814f4c2f77e5bd65962dbedb55566\"; Domain=.instagram.com; HttpOnly; Path=\/; SameSite=Lax; Secure"
+            },
+            {
+                "name": "set-cookie",
+                "value": "ds_user_id=65485362671; Domain=.instagram.com; expires=Fri, 12-Jul-2024 07:25:56 GMT; Max-Age=7776000; Path=\/; Secure"
+            },
+            {
+                "name": "set-cookie",
+                "value": "th_eu_pref=\"\"; Domain=instagram.com; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; Path=\/"
+            },
+            {
+                "name": "set-cookie",
+                "value": "th_eu_pref=\"\"; Domain=.instagram.com; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; Path=\/"
+            },
+            {
+                "name": "set-cookie",
+                "value": "th_eu_pref=\"\"; Domain=i.instagram.com; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; Path=\/"
+            },
+            {
+                "name": "set-cookie",
+                "value": "th_eu_pref=\"\"; Domain=.i.instagram.com; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; Path=\/"
+            },
+            {
+                "name": "set-cookie",
+                "value": "th_eu_pref=\"\"; Domain=www.instagram.com; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; Path=\/"
+            },
+            {
+                "name": "set-cookie",
+                "value": "th_eu_pref=\"\"; Domain=.www.instagram.com; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; Path=\/"
+            },
+            {
+                "name": "set-cookie",
+                "value": "th_eu_pref=\"\"; Domain=.threads.net; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; Path=\/"
+            },
+            {
+                "name": "set-cookie",
+                "value": "th_eu_pref=\"\"; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; Path=\/"
+            },
+            {
+                "name": "strict-transport-security",
+                "value": "max-age=31536000"
+            },
+            {
+                "name": "vary",
+                "value": "Accept-Language, Cookie"
+            },
+            {
+                "name": "x-aed",
+                "value": "177"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "x-fb-load",
+                "value": "405"
+            },
+            {
+                "name": "x-frame-options",
+                "value": "SAMEORIGIN"
+            },
+            {
+                "name": "x-ig-cache-control",
+                "value": "cache"
+            },
+            {
+                "name": "x-ig-origin-region",
+                "value": "cln"
+            },
+            {
+                "name": "x-ig-peak-time",
+                "value": "0"
+            },
+            {
+                "name": "x-ig-push-state",
+                "value": "c2"
+            },
+            {
+                "name": "x-ig-request-elapsed-time-ms",
+                "value": "34"
+            },
+            {
+                "name": "x-ig-set-www-claim",
+                "value": "hmac.AR3P_LNKTHsdAONBDPsxw9hLNPPP76dw7y7P87Ln3G4K_tpG"
+            },
+            {
+                "name": "x-stack",
+                "value": "dis"
+            },
+            {
+                "name": "x-xss-protection",
+                "value": "0"
+            }
+        ],
+        "cookies": [
+            {
+                "name": "csrftoken",
+                "value": "JuQGUwIXaXrLky6ZuQmzkOszGDAWAlJt",
+                "path": "\/",
+                "domain": ".instagram.com",
+                "expires": "2025-04-12T07:25:56.433Z",
+                "httpOnly": false,
+                "secure": true
+            },
+            {
+                "name": "rur",
+                "value": "\"CLN\\05465485362671\\0541744529156:01f7b91520fbce6e9d1f1a3170320a1811cdbc516f3814f4c2f77e5bd65962dbedb55566\"",
+                "path": "\/",
+                "domain": ".instagram.com",
+                "expires": null,
+                "httpOnly": true,
+                "secure": true,
+                "sameSite": "Lax"
+            },
+            {
+                "name": "ds_user_id",
+                "value": "65485362671",
+                "path": "\/",
+                "domain": ".instagram.com",
+                "expires": "2024-07-12T07:25:56.433Z",
+                "httpOnly": false,
+                "secure": true
+            },
+            {
+                "name": "th_eu_pref",
+                "value": "\"\"",
+                "path": "\/",
+                "domain": "instagram.com",
+                "expires": "2024-04-13T07:25:56.433Z",
+                "httpOnly": false,
+                "secure": false
+            },
+            {
+                "name": "th_eu_pref",
+                "value": "\"\"",
+                "path": "\/",
+                "domain": ".instagram.com",
+                "expires": "2024-04-13T07:25:56.433Z",
+                "httpOnly": false,
+                "secure": false
+            },
+            {
+                "name": "th_eu_pref",
+                "value": "\"\"",
+                "path": "\/",
+                "domain": "i.instagram.com",
+                "expires": "2024-04-13T07:25:56.433Z",
+                "httpOnly": false,
+                "secure": false
+            },
+            {
+                "name": "th_eu_pref",
+                "value": "\"\"",
+                "path": "\/",
+                "domain": ".i.instagram.com",
+                "expires": "2024-04-13T07:25:56.433Z",
+                "httpOnly": false,
+                "secure": false
+            },
+            {
+                "name": "th_eu_pref",
+                "value": "\"\"",
+                "path": "\/",
+                "domain": "www.instagram.com",
+                "expires": "2024-04-13T07:25:56.433Z",
+                "httpOnly": false,
+                "secure": false
+            },
+            {
+                "name": "th_eu_pref",
+                "value": "\"\"",
+                "path": "\/",
+                "domain": ".www.instagram.com",
+                "expires": "2024-04-13T07:25:56.433Z",
+                "httpOnly": false,
+                "secure": false
+            },
+            {
+                "name": "th_eu_pref",
+                "value": "\"\"",
+                "path": "\/",
+                "domain": ".threads.net",
+                "expires": "2024-04-13T07:25:56.433Z",
+                "httpOnly": false,
+                "secure": false
+            },
+            {
+                "name": "th_eu_pref",
+                "value": "\"\"",
+                "path": "\/",
+                "domain": "www.instagram.com",
+                "expires": "2024-04-13T07:25:56.433Z",
+                "httpOnly": false,
+                "secure": false
+            }
+        ],
+        "content": {
+            "size": 84,
+            "mimeType": "application\/json",
+            "text": "{\"title\":\"\",\"description\":\"\",\"session_id\":\"\",\"blocks_logging_data\":\"\",\"status\":\"ok\"}"
+        },
+        "redirectURL": "",
+        "headersSize": -1,
+        "bodySize": -1,
+        "_transferSize": 135,
+        "_error": null
+    },
+    "serverIPAddress": "157.240.227.174",
+    "startedDateTime": "2024-04-13T07:25:56.431Z",
+    "time": 264.7370000013325,
+    "timings": {
+        "blocked": 55.747000000265196,
+        "dns": -1,
+        "ssl": -1,
+        "connect": -1,
+        "send": 1.6229999999999976,
+        "wait": 201.72800000018407,
+        "receive": 5.639000000883243,
+        "_blocked_queueing": 1.516000000265194
+    }
+}

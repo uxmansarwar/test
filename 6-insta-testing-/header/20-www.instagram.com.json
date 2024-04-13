@@ -1,0 +1,187 @@
+{
+    "url": "https:\/\/www.instagram.com\/images\/instagram\/xig\/homepage\/screenshots\/screenshot1.png?__d=www",
+    "request": [
+        {
+            "name": ":authority",
+            "value": "www.instagram.com"
+        },
+        {
+            "name": ":method",
+            "value": "GET"
+        },
+        {
+            "name": ":path",
+            "value": "\/images\/instagram\/xig\/homepage\/screenshots\/screenshot1.png?__d=www"
+        },
+        {
+            "name": ":scheme",
+            "value": "https"
+        },
+        {
+            "name": "accept",
+            "value": "image\/avif,image\/webp,image\/apng,image\/svg+xml,image\/*,*\/*;q=0.8"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br, zstd"
+        },
+        {
+            "name": "accept-language",
+            "value": "en-US,en;q=0.9"
+        },
+        {
+            "name": "cookie",
+            "value": "csrftoken=oBQx_9QTfQRQaJYzYqgn9x"
+        },
+        {
+            "name": "dpr",
+            "value": "1"
+        },
+        {
+            "name": "referer",
+            "value": "https:\/\/www.instagram.com\/"
+        },
+        {
+            "name": "sec-ch-prefers-color-scheme",
+            "value": "dark"
+        },
+        {
+            "name": "sec-ch-ua",
+            "value": "\"Google Chrome\";v=\"123\", \"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"123\""
+        },
+        {
+            "name": "sec-ch-ua-full-version-list",
+            "value": "\"Google Chrome\";v=\"123.0.6312.122\", \"Not:A-Brand\";v=\"8.0.0.0\", \"Chromium\";v=\"123.0.6312.122\""
+        },
+        {
+            "name": "sec-ch-ua-mobile",
+            "value": "?0"
+        },
+        {
+            "name": "sec-ch-ua-model",
+            "value": "\"\""
+        },
+        {
+            "name": "sec-ch-ua-platform",
+            "value": "\"Windows\""
+        },
+        {
+            "name": "sec-ch-ua-platform-version",
+            "value": "\"10.0.0\""
+        },
+        {
+            "name": "sec-fetch-dest",
+            "value": "image"
+        },
+        {
+            "name": "sec-fetch-mode",
+            "value": "no-cors"
+        },
+        {
+            "name": "sec-fetch-site",
+            "value": "same-origin"
+        },
+        {
+            "name": "user-agent",
+            "value": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/123.0.0.0 Safari\/537.36"
+        },
+        {
+            "name": "viewport-width",
+            "value": "958"
+        }
+    ],
+    "response": [
+        {
+            "name": "access-control-allow-origin",
+            "value": "*"
+        },
+        {
+            "name": "alt-svc",
+            "value": "h3=\":443\"; ma=86400"
+        },
+        {
+            "name": "cache-control",
+            "value": "public,max-age=86400"
+        },
+        {
+            "name": "content-length",
+            "value": "176752"
+        },
+        {
+            "name": "content-md5",
+            "value": "f95NrTtgpab4n4Gq2CHjOg=="
+        },
+        {
+            "name": "content-type",
+            "value": "image\/png"
+        },
+        {
+            "name": "cross-origin-embedder-policy-report-only",
+            "value": "require-corp;report-to=\"coep_report\""
+        },
+        {
+            "name": "cross-origin-opener-policy",
+            "value": "same-origin-allow-popups;report-to=\"coop_report\""
+        },
+        {
+            "name": "cross-origin-resource-policy",
+            "value": "cross-origin"
+        },
+        {
+            "name": "date",
+            "value": "Sat, 13 Apr 2024 07:17:57 GMT"
+        },
+        {
+            "name": "document-policy",
+            "value": "force-load-at-top"
+        },
+        {
+            "name": "edge-control",
+            "value": "cache-maxage=86400s"
+        },
+        {
+            "name": "expires",
+            "value": "Sun, 14 Apr 2024 07:17:57 GMT"
+        },
+        {
+            "name": "origin-agent-cluster",
+            "value": "?0"
+        },
+        {
+            "name": "permissions-policy",
+            "value": "accelerometer=(self), attribution-reporting=(), autoplay=(), bluetooth=(), camera=(self), ch-device-memory=(), ch-downlink=(), ch-ect=(), ch-rtt=(), ch-save-data=(), ch-ua-arch=(), ch-ua-bitness=(), clipboard-read=(), clipboard-write=(self), display-capture=(), encrypted-media=(), fullscreen=(self), gamepad=(), geolocation=(self), gyroscope=(self), hid=(), idle-detection=(), keyboard-map=(), local-fonts=(), magnetometer=(), microphone=(self), midi=(), otp-credentials=(), payment=(), picture-in-picture=(self), publickey-credentials-get=(), screen-wake-lock=(), serial=(), usb=(), window-management=(), xr-spatial-tracking=();report-to=\"permissions_policy\""
+        },
+        {
+            "name": "priority",
+            "value": "u=3,i"
+        },
+        {
+            "name": "report-to",
+            "value": "{\"max_age\":2592000,\"endpoints\":[{\"url\":\"https:\\\/\\\/www.facebook.com\\\/browser_reporting\\\/coop\\\/?minimize=0\"}],\"group\":\"coop_report\",\"include_subdomains\":true}, {\"max_age\":86400,\"endpoints\":[{\"url\":\"https:\\\/\\\/www.facebook.com\\\/browser_reporting\\\/coep\\\/?minimize=0\"}],\"group\":\"coep_report\"}, {\"max_age\":259200,\"endpoints\":[{\"url\":\"https:\\\/\\\/www.instagram.com\\\/error\\\/ig_web_error_reports\\\/?device_level=unknown\"}]}, {\"max_age\":21600,\"endpoints\":[{\"url\":\"https:\\\/\\\/www.instagram.com\\\/error\\\/ig_web_error_reports\\\/\"}],\"group\":\"permissions_policy\"}"
+        },
+        {
+            "name": "reporting-endpoints",
+            "value": "coop_report=\"https:\/\/www.facebook.com\/browser_reporting\/coop\/?minimize=0\", coep_report=\"https:\/\/www.facebook.com\/browser_reporting\/coep\/?minimize=0\", default=\"https:\/\/www.instagram.com\/error\/ig_web_error_reports\/?device_level=unknown\", permissions_policy=\"https:\/\/www.instagram.com\/error\/ig_web_error_reports\/\""
+        },
+        {
+            "name": "strict-transport-security",
+            "value": "max-age=31536000; preload; includeSubDomains"
+        },
+        {
+            "name": "timing-allow-origin",
+            "value": "*"
+        },
+        {
+            "name": "x-content-type-options",
+            "value": "nosniff"
+        },
+        {
+            "name": "x-fb-debug",
+            "value": "L0sl9QGJ285kW+VUmg4XXE\/TeQEWgmdnJEm1a5CFrar6OfTr5laljF2Q5A51LOzdywDz5oqKIklSy+MJ1XFKvw=="
+        },
+        {
+            "name": "x-stack",
+            "value": "www"
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "url": "https:\/\/graph.instagram.com\/logging_client_events",
+    "request": [
+        {
+            "name": ":authority",
+            "value": "graph.instagram.com"
+        },
+        {
+            "name": ":method",
+            "value": "POST"
+        },
+        {
+            "name": ":path",
+            "value": "\/logging_client_events"
+        },
+        {
+            "name": ":scheme",
+            "value": "https"
+        },
+        {
+            "name": "accept",
+            "value": "*\/*"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br, zstd"
+        },
+        {
+            "name": "accept-language",
+            "value": "en-US,en;q=0.9"
+        },
+        {
+            "name": "content-length",
+            "value": "9693"
+        },
+        {
+            "name": "content-type",
+            "value": "application\/x-www-form-urlencoded"
+        },
+        {
+            "name": "origin",
+            "value": "https:\/\/www.instagram.com"
+        },
+        {
+            "name": "referer",
+            "value": "https:\/\/www.instagram.com\/"
+        },
+        {
+            "name": "sec-ch-ua",
+            "value": "\"Google Chrome\";v=\"123\", \"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"123\""
+        },
+        {
+            "name": "sec-ch-ua-mobile",
+            "value": "?0"
+        },
+        {
+            "name": "sec-ch-ua-platform",
+            "value": "\"Windows\""
+        },
+        {
+            "name": "sec-fetch-dest",
+            "value": "empty"
+        },
+        {
+            "name": "sec-fetch-mode",
+            "value": "cors"
+        },
+        {
+            "name": "sec-fetch-site",
+            "value": "same-site"
+        },
+        {
+            "name": "user-agent",
+            "value": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/123.0.0.0 Safari\/537.36"
+        },
+        {
+            "name": "x-asbd-id",
+            "value": "129477"
+        }
+    ],
+    "response": [
+        {
+            "name": "access-control-allow-origin",
+            "value": "*"
+        },
+        {
+            "name": "cache-control",
+            "value": "private, no-cache, no-store, must-revalidate"
+        },
+        {
+            "name": "content-length",
+            "value": "107"
+        },
+        {
+            "name": "content-type",
+            "value": "application\/json; charset=UTF-8"
+        },
+        {
+            "name": "cross-origin-resource-policy",
+            "value": "cross-origin"
+        },
+        {
+            "name": "date",
+            "value": "Sat, 13 Apr 2024 07:24:23 GMT"
+        },
+        {
+            "name": "expires",
+            "value": "Sat, 01 Jan 2000 00:00:00 GMT"
+        },
+        {
+            "name": "facebook-api-version",
+            "value": "v13.0"
+        },
+        {
+            "name": "pragma",
+            "value": "no-cache"
+        },
+        {
+            "name": "strict-transport-security",
+            "value": "max-age=31536000; preload; includeSubDomains"
+        },
+        {
+            "name": "vary",
+            "value": "Origin"
+        },
+        {
+            "name": "x-content-type-options",
+            "value": "nosniff"
+        },
+        {
+            "name": "x-fb-debug",
+            "value": "MRvRv3ryiN0bwg2GaxNt50GL+0qt14Jcb5OGjQs8mRuyWvc7Nlhzat1BXQkFdcSNMQvLpLIfu4b4z48jzzBIDg=="
+        },
+        {
+            "name": "x-fb-request-id",
+            "value": "AC5P0wMB0Jm08M6m5A98r0I"
+        },
+        {
+            "name": "x-fb-rev",
+            "value": "1012754956"
+        },
+        {
+            "name": "x-fb-trace-id",
+            "value": "EZp5ZNM1xNo"
+        },
+        {
+            "name": "x-stack",
+            "value": "www"
+        }
+    ]
+}
