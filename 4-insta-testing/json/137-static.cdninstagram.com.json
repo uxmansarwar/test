@@ -1,0 +1,210 @@
+{
+    "_initiator": {
+        "type": "parser",
+        "url": "https:\/\/www.instagram.com\/",
+        "lineNumber": 7
+    },
+    "_priority": "High",
+    "_resourceType": "other",
+    "cache": [],
+    "pageref": "page_6",
+    "request": {
+        "method": "GET",
+        "url": "https:\/\/static.cdninstagram.com\/rsrc-translations.php\/v6iyYr4\/yO\/l\/en_US\/SE3dc-QOLzbdNdJCdolpCjFvx5iWrEfcROnmSaduO8mP3Y8BYqIOZ0XAMBI80zJOUISlZbjJEW5RLJ9TdOYdWaz7sPsCb4gTeS8lUXVd666Y6BA-fUTUKZ8rmqD-jbnwmz6FcRYoJlGbYMGL7ybOSq2QJYS_38TchtxxXq9PrmLfknwqrTz6SfrQeceiLXwx544FyyTa-ZDR8RuD2j_3M6klTdImQrPpHchEnFZKeaXXVZ3A14E0mkwR2cjj2Jujl3m03w4pE0dilX6A_JqbYTTAL85gnsMITQpxAcuBOvsWqehdEtWwygKaBVpywd27d0GADv2pJI.js?_nc_x=Ij3Wp8lg5Kz",
+        "httpVersion": "h3",
+        "headers": [
+            {
+                "name": ":authority",
+                "value": "static.cdninstagram.com"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "\/rsrc-translations.php\/v6iyYr4\/yO\/l\/en_US\/SE3dc-QOLzbdNdJCdolpCjFvx5iWrEfcROnmSaduO8mP3Y8BYqIOZ0XAMBI80zJOUISlZbjJEW5RLJ9TdOYdWaz7sPsCb4gTeS8lUXVd666Y6BA-fUTUKZ8rmqD-jbnwmz6FcRYoJlGbYMGL7ybOSq2QJYS_38TchtxxXq9PrmLfknwqrTz6SfrQeceiLXwx544FyyTa-ZDR8RuD2j_3M6klTdImQrPpHchEnFZKeaXXVZ3A14E0mkwR2cjj2Jujl3m03w4pE0dilX6A_JqbYTTAL85gnsMITQpxAcuBOvsWqehdEtWwygKaBVpywd27d0GADv2pJI.js?_nc_x=Ij3Wp8lg5Kz"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "*\/*"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br, zstd"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "origin",
+                "value": "https:\/\/www.instagram.com"
+            },
+            {
+                "name": "referer",
+                "value": "https:\/\/www.instagram.com\/"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Google Chrome\";v=\"123\", \"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"123\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "empty"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "cross-site"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/123.0.0.0 Safari\/537.36"
+            }
+        ],
+        "queryString": [
+            {
+                "name": "_nc_x",
+                "value": "Ij3Wp8lg5Kz"
+            }
+        ],
+        "cookies": [],
+        "headersSize": -1,
+        "bodySize": 0
+    },
+    "response": {
+        "status": 200,
+        "statusText": "",
+        "httpVersion": "h3",
+        "headers": [
+            {
+                "name": "access-control-allow-origin",
+                "value": "https:\/\/www.instagram.com"
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=86400"
+            },
+            {
+                "name": "cache-control",
+                "value": "public,max-age=31536000,immutable"
+            },
+            {
+                "name": "content-encoding",
+                "value": "zstd"
+            },
+            {
+                "name": "content-length",
+                "value": "848"
+            },
+            {
+                "name": "content-md5",
+                "value": "n4uEqgpyiRJF4TEBPVV2TQ=="
+            },
+            {
+                "name": "content-type",
+                "value": "application\/json"
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "date",
+                "value": "Fri, 12 Apr 2024 15:26:01 GMT"
+            },
+            {
+                "name": "document-policy",
+                "value": "force-load-at-top"
+            },
+            {
+                "name": "expires",
+                "value": "Sat, 12 Apr 2025 15:09:44 GMT"
+            },
+            {
+                "name": "last-modified",
+                "value": "Mon, 01 Jan 2001 08:00:00 GMT"
+            },
+            {
+                "name": "origin-agent-cluster",
+                "value": "?0"
+            },
+            {
+                "name": "permissions-policy",
+                "value": "accelerometer=(), attribution-reporting=(), autoplay=(), bluetooth=(), camera=(), ch-device-memory=(), ch-downlink=(), ch-ect=(), ch-rtt=(), ch-save-data=(), ch-ua-arch=(), ch-ua-bitness=(), clipboard-read=(), clipboard-write=(), display-capture=(), encrypted-media=(), fullscreen=(self), gamepad=(), geolocation=(), gyroscope=(), hid=(), idle-detection=(), keyboard-map=(), local-fonts=(), magnetometer=(), microphone=(), midi=(), otp-credentials=(), payment=(), picture-in-picture=(), publickey-credentials-get=(), screen-wake-lock=(), serial=(), usb=(), window-management=(), xr-spatial-tracking=();report-to=\"permissions_policy\""
+            },
+            {
+                "name": "priority",
+                "value": "u=1,i"
+            },
+            {
+                "name": "report-to",
+                "value": "{\"max_age\":21600,\"endpoints\":[{\"url\":\"https:\\\/\\\/www.facebook.com\\\/ajax\\\/browser_error_reports\\\/\"}],\"group\":\"permissions_policy\"}"
+            },
+            {
+                "name": "reporting-endpoints",
+                "value": "permissions_policy=\"https:\/\/www.facebook.com\/ajax\/browser_error_reports\/\""
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "vary",
+                "value": "Origin"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "x-fb-connection-quality",
+                "value": "GOOD; q=0.7, rtt=146, rtx=0, c=32, mss=1232, tbw=42275, tp=46, tpl=0, uplat=152, ullat=-1"
+            },
+            {
+                "name": "x-fb-debug",
+                "value": "J7yckJzd+gkFgZ9NjqcUcOY+jivgfFV\/bXStXH13k\/GVWEwFvDZZwgRZR5UgUM3mhwCYTar4EvfgKJMrB4+NCQ=="
+            }
+        ],
+        "cookies": [],
+        "content": {
+            "size": 1334,
+            "mimeType": "application\/json",
+            "text": "{\"translations\":{\"QstIZ1Zhw8o\":\"alt\",\"Km7wSc2ETGw\":\"enter\",\"Op-vAMG8rI1\":\"delete\",\"id1nOkXKcjl\":\"forward delete\",\"bKqaY04PSVQ\":\"caps lock\",\"aYrdVhRm1tI\":\"shift\",\"LIB23SzcP62\":\"opt\",\"mB0Ic7ZwRl9\":\"ctrl\",\"V-4mfkMtvSJ\":\"cmd\",\"qoKM-XBkLE_\":\"esc\",\"Hrp-AL8_x-a\":\"tab\",\"H9_c_r97ZY_\":\"up\",\"ggwFyvSk6LU\":\"down\",\"Epi1xPIm62F\":\"right\",\"SlqoaJtPEUL\":\"left\",\"X_5sOoQH8Gh\":\"page up\",\"EiKL7Vp3s9G\":\"page down\",\"hRLord5PHtu\":\"home\",\"jP0i_jQyEKg\":\"end\",\"ojx_8slmkSl\":\"Space\",\"hHNIwGmtduS\":\"Question mark\",\"GIXmY8P-GeY\":\"Forward slash\",\"2HY11o2ViTU\":\"Disabled\",\"1BT0m5idyS-\":\"To Do This\",\"M6bYqjYXV2x\":\"Use Command\",\"WuYXL8sCY4_\":\"Log In\",\"tzTq97tRpk3\":\"Create new account\",\"xfyNdK0NalW\":\"Sign Up\",\"CB0r6Qgg0c-\":\"Related keyboard shortcuts\",\"w7Pm44Mudq_\":\"Related keyboard shortcuts\",\"MeiUzJeWLoG\":\"Close\",\"8GxedqeHlPv\":\"These shortcuts relate to what you're doing. They will change as you use Instagram.\",\"2rQvtLbRF3t\":\"You need to log back in.\",\"F8IHcMlOn1y\":\"Logging Out\",\"EubW9vzR0uu\":\"Instagram\"},\"virtual_modules\":[\"translateKey$fbt_virtual\",\"getKeyboardKeyAsString$fbt_virtual\",\"KeyBlocks.react$fbt_virtual\",\"KeyInfoList.react$fbt_virtual\",\"PolarisDesktopNavLoggedOutContainer.react$fbt_virtual\",\"PolarisCompactKeyCommandDisplay.react$fbt_virtual\",\"PolarisLoggingOutDialog.react$fbt_virtual\",\"PolarisInstagramMobileLogoTitle.react$fbt_virtual\"]}"
+        },
+        "redirectURL": "",
+        "headersSize": -1,
+        "bodySize": -1,
+        "_transferSize": 992,
+        "_error": null
+    },
+    "serverIPAddress": "[2a03:2880:f242:1cb:face:b00c:0:43fe]",
+    "startedDateTime": "2024-04-12T15:25:59.483Z",
+    "time": 1230.4710000025807,
+    "timings": {
+        "blocked": 17.091000005067325,
+        "dns": -1,
+        "ssl": -1,
+        "connect": -1,
+        "send": 0.4170000000000016,
+        "wait": 1210.3990000026226,
+        "receive": 2.5639999948907644,
+        "_blocked_queueing": 2.766000005067326
+    }
+}

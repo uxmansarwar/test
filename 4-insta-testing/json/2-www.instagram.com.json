@@ -1,0 +1,234 @@
+{
+    "_initiator": {
+        "type": "other"
+    },
+    "_priority": "VeryHigh",
+    "_resourceType": "document",
+    "cache": [],
+    "connection": "188934",
+    "pageref": "page_4",
+    "request": {
+        "method": "GET",
+        "url": "https:\/\/www.instagram.com\/",
+        "httpVersion": "http\/2.0",
+        "headers": [
+            {
+                "name": ":authority",
+                "value": "www.instagram.com"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "\/"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "text\/html,application\/xhtml+xml,application\/xml;q=0.9,image\/avif,image\/webp,image\/apng,*\/*;q=0.8,application\/signed-exchange;v=b3;q=0.7"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br, zstd"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Google Chrome\";v=\"123\", \"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"123\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "document"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "navigate"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "none"
+            },
+            {
+                "name": "sec-fetch-user",
+                "value": "?1"
+            },
+            {
+                "name": "upgrade-insecure-requests",
+                "value": "1"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/123.0.0.0 Safari\/537.36"
+            }
+        ],
+        "queryString": [],
+        "cookies": [],
+        "headersSize": -1,
+        "bodySize": 0
+    },
+    "response": {
+        "status": 200,
+        "statusText": "",
+        "httpVersion": "http\/2.0",
+        "headers": [
+            {
+                "name": "accept-ch",
+                "value": "viewport-width,dpr,Sec-CH-Prefers-Color-Scheme,Sec-CH-UA-Full-Version-List,Sec-CH-UA-Platform-Version,Sec-CH-UA-Model"
+            },
+            {
+                "name": "accept-ch-lifetime",
+                "value": "4838400"
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=86400"
+            },
+            {
+                "name": "cache-control",
+                "value": "private, no-cache, no-store, must-revalidate"
+            },
+            {
+                "name": "content-encoding",
+                "value": "zstd"
+            },
+            {
+                "name": "content-security-policy",
+                "value": "default-src *.facebook.com *.fbcdn.net *.instagram.com data: blob:;script-src *.facebook.com *.fbcdn.net *.facebook.net 127.0.0.1:* 'unsafe-inline' 'unsafe-eval' blob: data: 'self' *.teststagram.com *.instagram.com static.cdninstagram.com *.google-analytics.com https:\/\/translate.google.com https:\/\/apis.google.com https:\/\/accounts.google.com;style-src data: blob: 'unsafe-inline' *.fbcdn.net *.facebook.com *.instagram.com *.teststagram.com static.cdninstagram.com;connect-src *.facebook.com facebook.com *.fbcdn.net *.facebook.net wss:\/\/*.facebook.com:* ws:\/\/localhost:* blob: *.instagram.com *.cdninstagram.com wss:\/\/*.instagram.com:* 'self' *.teststagram.com wss:\/\/edge-chat.instagram.com connect.facebook.net https:\/\/meta.privacy-gateway.cloudflare.com\/relay;font-src *.facebook.com data: fonts.gstatic.com *.fbcdn.net *.instagram.com *.teststagram.com static.cdninstagram.com *.intern.facebook.com;img-src *.instagram.com *.facebook.com *.fbcdn.net data: blob: *.cdninstagram.com www.gstatic.com *.fbsbx.com android-webview-video-poster: *.oculuscdn.com www.googleadservices.com *.doubleclick.net *.google.com *.google.co.uk *.giphy.com *.teststagram.com *.igsonar.com *.google-analytics.com *.whatsapp.net;media-src *.facebook.com *.fbcdn.net *.instagram.com *.cdninstagram.com cdn.fbsbx.com data: blob: https:\/\/*.giphy.com;frame-src *.instagram.com *.facebook.com *.fbsbx.com fbsbx.com data: www.googleadservices.com *.doubleclick.net *.google.com *.google.co.uk;block-all-mixed-content;upgrade-insecure-requests;"
+            },
+            {
+                "name": "content-security-policy-report-only",
+                "value": "default-src *.facebook.com *.fbcdn.net *.instagram.com data: blob:;script-src *.facebook.com *.fbcdn.net *.facebook.net 'unsafe-inline' 'unsafe-eval' blob: data: 'self' *.teststagram.com *.instagram.com static.cdninstagram.com *.google-analytics.com https:\/\/translate.google.com https:\/\/apis.google.com https:\/\/accounts.google.com;style-src data: blob: 'unsafe-inline' *.fbcdn.net *.facebook.com *.instagram.com *.teststagram.com static.cdninstagram.com;connect-src *.facebook.com facebook.com *.fbcdn.net *.facebook.net wss:\/\/*.facebook.com:* ws:\/\/localhost:* blob: *.instagram.com *.cdninstagram.com wss:\/\/*.instagram.com:* 'self' *.teststagram.com wss:\/\/edge-chat.instagram.com connect.facebook.net https:\/\/meta.privacy-gateway.cloudflare.com\/relay;font-src *.facebook.com data: fonts.gstatic.com *.fbcdn.net *.instagram.com *.teststagram.com static.cdninstagram.com *.intern.facebook.com;img-src *.instagram.com *.facebook.com *.fbcdn.net data: blob: *.cdninstagram.com *.fbsbx.com android-webview-video-poster: *.giphy.com *.teststagram.com *.igsonar.com *.google-analytics.com;media-src *.facebook.com *.fbcdn.net *.instagram.com *.cdninstagram.com cdn.fbsbx.com data: blob: https:\/\/*.giphy.com;frame-src *.instagram.com *.facebook.com *.fbsbx.com fbsbx.com data:;worker-src *.instagram.com\/static_resources\/webworker_v1\/init_script\/ *.instagram.com\/static_resources\/webworker\/init_script\/ *.instagram.com\/static_resources\/sharedworker\/init_script\/ *.instagram.com\/www-service-worker.js;block-all-mixed-content;report-uri https:\/\/www.facebook.com\/csp\/reporting\/?minimize=0;"
+            },
+            {
+                "name": "content-type",
+                "value": "text\/html; charset=\"utf-8\""
+            },
+            {
+                "name": "cross-origin-embedder-policy-report-only",
+                "value": "require-corp;report-to=\"coep_report\""
+            },
+            {
+                "name": "cross-origin-opener-policy",
+                "value": "same-origin-allow-popups;report-to=\"coop_report\""
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "same-origin"
+            },
+            {
+                "name": "date",
+                "value": "Fri, 12 Apr 2024 15:24:14 GMT"
+            },
+            {
+                "name": "document-policy",
+                "value": "force-load-at-top"
+            },
+            {
+                "name": "expires",
+                "value": "Sat, 01 Jan 2000 00:00:00 GMT"
+            },
+            {
+                "name": "origin-agent-cluster",
+                "value": "?0"
+            },
+            {
+                "name": "permissions-policy",
+                "value": "accelerometer=(self), attribution-reporting=(), autoplay=(), bluetooth=(), camera=(self), ch-device-memory=(), ch-downlink=(), ch-ect=(), ch-rtt=(), ch-save-data=(), ch-ua-arch=(), ch-ua-bitness=(), clipboard-read=(), clipboard-write=(self), display-capture=(), encrypted-media=(), fullscreen=(self), gamepad=(), geolocation=(self), gyroscope=(self), hid=(), idle-detection=(), keyboard-map=(), local-fonts=(), magnetometer=(), microphone=(self), midi=(), otp-credentials=(), payment=(), picture-in-picture=(self), publickey-credentials-get=(), screen-wake-lock=(), serial=(), usb=(), window-management=(), xr-spatial-tracking=();report-to=\"permissions_policy\""
+            },
+            {
+                "name": "pragma",
+                "value": "no-cache"
+            },
+            {
+                "name": "report-to",
+                "value": "{\"max_age\":2592000,\"endpoints\":[{\"url\":\"https:\\\/\\\/www.facebook.com\\\/browser_reporting\\\/coop\\\/?minimize=0\"}],\"group\":\"coop_report\",\"include_subdomains\":true}, {\"max_age\":86400,\"endpoints\":[{\"url\":\"https:\\\/\\\/www.facebook.com\\\/browser_reporting\\\/coep\\\/?minimize=0\"}],\"group\":\"coep_report\"}, {\"max_age\":259200,\"endpoints\":[{\"url\":\"https:\\\/\\\/www.instagram.com\\\/error\\\/ig_web_error_reports\\\/?device_level=unknown\"}]}, {\"max_age\":21600,\"endpoints\":[{\"url\":\"https:\\\/\\\/www.instagram.com\\\/error\\\/ig_web_error_reports\\\/\"}],\"group\":\"permissions_policy\"}"
+            },
+            {
+                "name": "reporting-endpoints",
+                "value": "coop_report=\"https:\/\/www.facebook.com\/browser_reporting\/coop\/?minimize=0\", coep_report=\"https:\/\/www.facebook.com\/browser_reporting\/coep\/?minimize=0\", default=\"https:\/\/www.instagram.com\/error\/ig_web_error_reports\/?device_level=unknown\", permissions_policy=\"https:\/\/www.instagram.com\/error\/ig_web_error_reports\/\""
+            },
+            {
+                "name": "set-cookie",
+                "value": "csrftoken=NBLM2P3stCsL7v518z0H6d; expires=Fri, 11-Apr-2025 15:24:14 GMT; Max-Age=31449600; path=\/; domain=.instagram.com; secure; SameSite=None"
+            },
+            {
+                "name": "strict-transport-security",
+                "value": "max-age=31536000; preload; includeSubDomains"
+            },
+            {
+                "name": "vary",
+                "value": "Accept-Encoding"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "x-fb-debug",
+                "value": "TNw1FwFXS\/HpZG4k4evoBixNGfxLgDclmUob+aH32MBK+a7+TBXOZlMMtBZY6NIE21vRRr20faPg\/lYmQnG0Lw=="
+            },
+            {
+                "name": "x-frame-options",
+                "value": "DENY"
+            },
+            {
+                "name": "x-stack",
+                "value": "www"
+            },
+            {
+                "name": "x-xss-protection",
+                "value": "0"
+            }
+        ],
+        "cookies": [
+            {
+                "name": "csrftoken",
+                "value": "NBLM2P3stCsL7v518z0H6d",
+                "path": "\/",
+                "domain": ".instagram.com",
+                "expires": "2025-04-11T15:24:12.405Z",
+                "httpOnly": false,
+                "secure": true,
+                "sameSite": "None"
+            }
+        ],
+        "content": {
+            "size": 271397,
+            "mimeType": "text\/html"
+        },
+        "redirectURL": "",
+        "headersSize": -1,
+        "bodySize": -1,
+        "_transferSize": 76203,
+        "_error": null
+    },
+    "serverIPAddress": "[2a03:2880:f242:1e0:face:b00c:0:4420]",
+    "startedDateTime": "2024-04-12T15:24:12.403Z",
+    "time": 849.5980000006966,
+    "timings": {
+        "blocked": 156.91999999652197,
+        "dns": -1,
+        "ssl": -1,
+        "connect": -1,
+        "send": 0.3680000000000234,
+        "wait": 356.17699999983654,
+        "receive": 336.1330000043381,
+        "_blocked_queueing": 2.052999996521976
+    }
+}

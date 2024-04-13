@@ -1,0 +1,81 @@
+{
+    "request": [
+        {
+            "name": "csrftoken",
+            "value": "NBLM2P3stCsL7v518z0H6d",
+            "path": "\/",
+            "domain": ".instagram.com",
+            "expires": "2025-04-11T15:24:12.916Z",
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "_js_ig_did",
+            "value": "32D4350A-5584-42AC-B558-67443413C3A4",
+            "path": "\/",
+            "domain": ".instagram.com",
+            "expires": "2025-04-12T15:24:16.000Z",
+            "httpOnly": false,
+            "secure": true
+        },
+        {
+            "name": "_js_datr",
+            "value": "HlIZZr1hsxu8d3Emw3GZbhy5",
+            "path": "\/",
+            "domain": ".instagram.com",
+            "expires": "2025-05-17T15:24:16.000Z",
+            "httpOnly": false,
+            "secure": true
+        },
+        {
+            "name": "mid",
+            "value": "ZhlSHgALAAHXOkMjd_FCXayGWoRG",
+            "path": "\/",
+            "domain": ".instagram.com",
+            "expires": "2025-05-17T15:24:16.000Z",
+            "httpOnly": false,
+            "secure": true
+        }
+    ],
+    "response": [
+        {
+            "name": "ig_did",
+            "value": "32D4350A-5584-42AC-B558-67443413C3A4",
+            "path": "\/",
+            "domain": ".instagram.com",
+            "expires": "2025-04-12T15:24:17.009Z",
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "_js_ig_did",
+            "value": "deleted",
+            "path": "\/",
+            "domain": ".instagram.com",
+            "expires": "1970-01-01T00:00:00.009Z",
+            "httpOnly": true,
+            "secure": false
+        },
+        {
+            "name": "datr",
+            "value": "HlIZZr1hsxu8d3Emw3GZbhy5",
+            "path": "\/",
+            "domain": ".instagram.com",
+            "expires": "2025-05-17T15:24:17.009Z",
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "_js_datr",
+            "value": "deleted",
+            "path": "\/",
+            "domain": ".instagram.com",
+            "expires": "1970-01-01T00:00:00.009Z",
+            "httpOnly": true,
+            "secure": false
+        }
+    ]
+}

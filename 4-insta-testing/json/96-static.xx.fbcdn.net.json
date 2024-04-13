@@ -1,0 +1,378 @@
+{
+    "_initiator": {
+        "type": "script",
+        "stack": {
+            "callFrames": [
+                {
+                    "functionName": "a",
+                    "scriptId": "6",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yB\/r\/Fo1eK6WkdNV.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 86,
+                    "columnNumber": 337
+                },
+                {
+                    "functionName": "loadResources",
+                    "scriptId": "6",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yB\/r\/Fo1eK6WkdNV.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 173,
+                    "columnNumber": 17088
+                },
+                {
+                    "functionName": "d",
+                    "scriptId": "6",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yB\/r\/Fo1eK6WkdNV.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 274,
+                    "columnNumber": 222
+                },
+                {
+                    "functionName": "",
+                    "scriptId": "6",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yB\/r\/Fo1eK6WkdNV.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 274,
+                    "columnNumber": 322
+                },
+                {
+                    "functionName": "applyWithGuard",
+                    "scriptId": "6",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yB\/r\/Fo1eK6WkdNV.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 68,
+                    "columnNumber": 10431
+                },
+                {
+                    "functionName": "b.$5",
+                    "scriptId": "6",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yB\/r\/Fo1eK6WkdNV.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 81,
+                    "columnNumber": 999
+                },
+                {
+                    "functionName": "a.$5",
+                    "scriptId": "6",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yB\/r\/Fo1eK6WkdNV.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 81,
+                    "columnNumber": 3067
+                },
+                {
+                    "functionName": "c",
+                    "scriptId": "6",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yB\/r\/Fo1eK6WkdNV.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 81,
+                    "columnNumber": 714
+                },
+                {
+                    "functionName": "applyWithGuard",
+                    "scriptId": "6",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yB\/r\/Fo1eK6WkdNV.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 68,
+                    "columnNumber": 10431
+                },
+                {
+                    "functionName": "c.__emitToSubscription",
+                    "scriptId": "6",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yB\/r\/Fo1eK6WkdNV.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 77,
+                    "columnNumber": 1476
+                },
+                {
+                    "functionName": "c.emit",
+                    "scriptId": "6",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yB\/r\/Fo1eK6WkdNV.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 77,
+                    "columnNumber": 1302
+                },
+                {
+                    "functionName": "b.emitAndHold",
+                    "scriptId": "6",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yB\/r\/Fo1eK6WkdNV.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 79,
+                    "columnNumber": 1042
+                },
+                {
+                    "functionName": "b.inform",
+                    "scriptId": "6",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yB\/r\/Fo1eK6WkdNV.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 81,
+                    "columnNumber": 1662
+                },
+                {
+                    "functionName": "a.inform",
+                    "scriptId": "6",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yB\/r\/Fo1eK6WkdNV.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 81,
+                    "columnNumber": 2680
+                },
+                {
+                    "functionName": "",
+                    "scriptId": "6",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yB\/r\/Fo1eK6WkdNV.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 322,
+                    "columnNumber": 3266
+                },
+                {
+                    "functionName": "applyWithGuard",
+                    "scriptId": "6",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yB\/r\/Fo1eK6WkdNV.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 68,
+                    "columnNumber": 10431
+                },
+                {
+                    "functionName": "c.$6",
+                    "scriptId": "6",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yB\/r\/Fo1eK6WkdNV.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 70,
+                    "columnNumber": 1005
+                },
+                {
+                    "functionName": "c.satisfyPersistentDependency",
+                    "scriptId": "6",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yB\/r\/Fo1eK6WkdNV.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 70,
+                    "columnNumber": 1291
+                },
+                {
+                    "functionName": "b.$6",
+                    "scriptId": "6",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yB\/r\/Fo1eK6WkdNV.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 81,
+                    "columnNumber": 2080
+                },
+                {
+                    "functionName": "a.$6",
+                    "scriptId": "6",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yB\/r\/Fo1eK6WkdNV.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 81,
+                    "columnNumber": 2998
+                },
+                {
+                    "functionName": "b.inform",
+                    "scriptId": "6",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yB\/r\/Fo1eK6WkdNV.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 81,
+                    "columnNumber": 1684
+                },
+                {
+                    "functionName": "a.inform",
+                    "scriptId": "6",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yB\/r\/Fo1eK6WkdNV.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 81,
+                    "columnNumber": 2680
+                },
+                {
+                    "functionName": "",
+                    "scriptId": "6",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yB\/r\/Fo1eK6WkdNV.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 322,
+                    "columnNumber": 1614
+                },
+                {
+                    "functionName": "applyWithGuard",
+                    "scriptId": "6",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yB\/r\/Fo1eK6WkdNV.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 68,
+                    "columnNumber": 10431
+                },
+                {
+                    "functionName": "d",
+                    "scriptId": "6",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yB\/r\/Fo1eK6WkdNV.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 328,
+                    "columnNumber": 2085
+                }
+            ]
+        }
+    },
+    "_priority": "High",
+    "_resourceType": "script",
+    "cache": [],
+    "connection": "189878",
+    "request": {
+        "method": "GET",
+        "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yg\/r\/hwTPgdqWo6P.js?_nc_x=Ij3Wp8lg5Kz",
+        "httpVersion": "http\/2.0",
+        "headers": [
+            {
+                "name": ":authority",
+                "value": "static.xx.fbcdn.net"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "\/rsrc.php\/v3\/yg\/r\/hwTPgdqWo6P.js?_nc_x=Ij3Wp8lg5Kz"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "*\/*"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br, zstd"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "referer",
+                "value": "https:\/\/www.fbsbx.com\/"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Google Chrome\";v=\"123\", \"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"123\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "script"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "no-cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "cross-site"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/123.0.0.0 Safari\/537.36"
+            }
+        ],
+        "queryString": [
+            {
+                "name": "_nc_x",
+                "value": "Ij3Wp8lg5Kz"
+            }
+        ],
+        "cookies": [],
+        "headersSize": -1,
+        "bodySize": 0
+    },
+    "response": {
+        "status": 200,
+        "statusText": "",
+        "httpVersion": "http\/2.0",
+        "headers": [
+            {
+                "name": "access-control-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=86400"
+            },
+            {
+                "name": "cache-control",
+                "value": "public,max-age=31536000,immutable"
+            },
+            {
+                "name": "content-encoding",
+                "value": "zstd"
+            },
+            {
+                "name": "content-length",
+                "value": "11826"
+            },
+            {
+                "name": "content-md5",
+                "value": "UE+htTio+xsWeV3q5ZdkqA=="
+            },
+            {
+                "name": "content-type",
+                "value": "application\/x-javascript; charset=utf-8"
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "date",
+                "value": "Fri, 12 Apr 2024 15:25:24 GMT"
+            },
+            {
+                "name": "document-policy",
+                "value": "force-load-at-top"
+            },
+            {
+                "name": "expires",
+                "value": "Thu, 10 Apr 2025 18:40:48 GMT"
+            },
+            {
+                "name": "last-modified",
+                "value": "Mon, 01 Jan 2001 08:00:00 GMT"
+            },
+            {
+                "name": "origin-agent-cluster",
+                "value": "?0"
+            },
+            {
+                "name": "permissions-policy",
+                "value": "accelerometer=(), attribution-reporting=(), autoplay=(), bluetooth=(), camera=(), ch-device-memory=(), ch-downlink=(), ch-ect=(), ch-rtt=(), ch-save-data=(), ch-ua-arch=(), ch-ua-bitness=(), clipboard-read=(), clipboard-write=(), display-capture=(), encrypted-media=(), fullscreen=(self), gamepad=(), geolocation=(), gyroscope=(), hid=(), idle-detection=(), keyboard-map=(), local-fonts=(), magnetometer=(), microphone=(), midi=(), otp-credentials=(), payment=(), picture-in-picture=(), publickey-credentials-get=(), screen-wake-lock=(), serial=(), usb=(), window-management=(), xr-spatial-tracking=();report-to=\"permissions_policy\""
+            },
+            {
+                "name": "report-to",
+                "value": "{\"max_age\":21600,\"endpoints\":[{\"url\":\"https:\\\/\\\/www.xx.facebook.com\\\/ajax\\\/browser_error_reports\\\/\"}],\"group\":\"permissions_policy\"}"
+            },
+            {
+                "name": "reporting-endpoints",
+                "value": "permissions_policy=\"https:\/\/www.xx.facebook.com\/ajax\/browser_error_reports\/\""
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "vary",
+                "value": "Accept-Encoding"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "x-fb-connection-quality",
+                "value": "UNKNOWN; q=-1, rtt=-1, rtx=1, c=99, mss=1348, tbw=103808, tp=-1, tpl=-1, uplat=2, ullat=-1"
+            },
+            {
+                "name": "x-fb-debug",
+                "value": "gzT1YyC7k8\/t8\/jYA2JmyfG\/AV4QS1mdbulCy3aZjUU\/+q+IhgvR8KY3O7LmMUAaDlaV3u\/YYuwkmM87aOVCCQ=="
+            }
+        ],
+        "cookies": [],
+        "content": {
+            "size": 39895,
+            "mimeType": "application\/x-javascript"
+        },
+        "redirectURL": "",
+        "headersSize": -1,
+        "bodySize": -1,
+        "_transferSize": 12024,
+        "_error": null
+    },
+    "serverIPAddress": "[2a03:2880:f042:110:face:b00c:0:3]",
+    "startedDateTime": "2024-04-12T15:25:23.077Z",
+    "time": 181.56199999793898,
+    "timings": {
+        "blocked": 13.846999999357386,
+        "dns": -1,
+        "ssl": -1,
+        "connect": -1,
+        "send": 2.2270000000000003,
+        "wait": 149.04799999916133,
+        "receive": 16.43999999942025,
+        "_blocked_queueing": 8.809999999357387
+    }
+}

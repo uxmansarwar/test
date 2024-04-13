@@ -1,0 +1,144 @@
+{
+    "_fromCache": "memory",
+    "_initiator": {
+        "type": "parser",
+        "url": "https:\/\/www.google.com\/recaptcha\/api2\/bframe?hl=en&v=rz4DvU-cY2JYCwHSTck0_qm-&k=6Lc9qjcUAAAAADTnJq5kJMjN9aD1lxpRLMnCS2TR",
+        "lineNumber": 174
+    },
+    "_priority": "VeryHigh",
+    "_resourceType": "stylesheet",
+    "cache": [],
+    "request": {
+        "method": "GET",
+        "url": "https:\/\/www.gstatic.com\/recaptcha\/releases\/rz4DvU-cY2JYCwHSTck0_qm-\/styles__ltr.css",
+        "httpVersion": "h3",
+        "headers": [
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Google Chrome\";v=\"123\", \"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"123\""
+            },
+            {
+                "name": "Referer",
+                "value": "https:\/\/www.google.com\/"
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "User-Agent",
+                "value": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/123.0.0.0 Safari\/537.36"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+            }
+        ],
+        "queryString": [],
+        "cookies": [],
+        "headersSize": -1,
+        "bodySize": 0
+    },
+    "response": {
+        "status": 200,
+        "statusText": "",
+        "httpVersion": "h3",
+        "headers": [
+            {
+                "name": "date",
+                "value": "Fri, 12 Apr 2024 01:38:07 GMT"
+            },
+            {
+                "name": "content-encoding",
+                "value": "gzip"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "age",
+                "value": "49640"
+            },
+            {
+                "name": "content-security-policy-report-only",
+                "value": "require-trusted-types-for 'script'; report-uri https:\/\/csp.withgoogle.com\/csp\/recaptcha"
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+            },
+            {
+                "name": "content-length",
+                "value": "24606"
+            },
+            {
+                "name": "x-xss-protection",
+                "value": "0"
+            },
+            {
+                "name": "last-modified",
+                "value": "Fri, 29 Mar 2024 04:30:36 GMT"
+            },
+            {
+                "name": "server",
+                "value": "sffe"
+            },
+            {
+                "name": "cross-origin-opener-policy",
+                "value": "same-origin-allow-popups; report-to=\"recaptcha\""
+            },
+            {
+                "name": "vary",
+                "value": "Accept-Encoding"
+            },
+            {
+                "name": "report-to",
+                "value": "{\"group\":\"recaptcha\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https:\/\/csp.withgoogle.com\/csp\/report-to\/recaptcha\"}]}"
+            },
+            {
+                "name": "content-type",
+                "value": "text\/css"
+            },
+            {
+                "name": "cache-control",
+                "value": "public, max-age=31536000"
+            },
+            {
+                "name": "accept-ranges",
+                "value": "bytes"
+            },
+            {
+                "name": "expires",
+                "value": "Sat, 12 Apr 2025 01:38:07 GMT"
+            }
+        ],
+        "cookies": [],
+        "content": {
+            "size": 56398,
+            "mimeType": "text\/css"
+        },
+        "redirectURL": "",
+        "headersSize": -1,
+        "bodySize": 0,
+        "_transferSize": 0,
+        "_error": null
+    },
+    "serverIPAddress": "[2a00:1450:4006:80c::2003]",
+    "startedDateTime": "2024-04-12T15:25:27.665Z",
+    "time": 0.6139999968581833,
+    "timings": {
+        "blocked": -1,
+        "dns": -1,
+        "ssl": -1,
+        "connect": -1,
+        "send": 0,
+        "wait": 0.508999997691717,
+        "receive": 0.1049999991664663,
+        "_blocked_queueing": -1
+    }
+}

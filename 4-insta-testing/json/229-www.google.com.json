@@ -1,0 +1,235 @@
+{
+    "_initiator": {
+        "type": "parser",
+        "url": "https:\/\/www.instagram.com\/paid_ads\/generete_pixels\/?",
+        "lineNumber": 0
+    },
+    "_priority": "Medium",
+    "_resourceType": "image",
+    "cache": [],
+    "connection": "191212",
+    "pageref": "page_6",
+    "request": {
+        "method": "GET",
+        "url": "https:\/\/www.google.com\/pagead\/1p-user-list\/858885276\/?value=1.00&currency_code=USD&label=qGVACPj3of0DEJyZxpkD&guid=ON&script=0&is_vtc=1&cid=CAQSGwB7FLtqD2wGxbLdT_2QkyTwljiVGZY5TpTBHQ&random=3257326013",
+        "httpVersion": "http\/2.0",
+        "headers": [
+            {
+                "name": ":authority",
+                "value": "www.google.com"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "\/pagead\/1p-user-list\/858885276\/?value=1.00&currency_code=USD&label=qGVACPj3of0DEJyZxpkD&guid=ON&script=0&is_vtc=1&cid=CAQSGwB7FLtqD2wGxbLdT_2QkyTwljiVGZY5TpTBHQ&random=3257326013"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "image\/avif,image\/webp,image\/apng,image\/svg+xml,image\/*,*\/*;q=0.8"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br, zstd"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "cookie",
+                "value": "1P_JAR=2024-04-12-12; NID=513=CvK328nt99o71E4YTe4RZd7b0_zqju8JM8YmSVd3uqX44iB5Nx1i-FYzgry7gBFickjzf2AxSBoTDmvDN7Lan6RjFM22pUHuIxpsefGopS_A4cK8qgqlfyxEuWH1_UY8B3ruUXL-hV_wDHvVl4ONyxlY6jHISOiXfv-ihcpgWqyWPtYHkU6rdz5mj5v1bGzAKTAH5K4XhZs"
+            },
+            {
+                "name": "referer",
+                "value": "https:\/\/www.instagram.com\/"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Google Chrome\";v=\"123\", \"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"123\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "image"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "no-cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "cross-site"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/123.0.0.0 Safari\/537.36"
+            },
+            {
+                "name": "x-client-data",
+                "value": "CJO2yQEIorbJAQipncoBCIqMywEIlaHLAQjxmM0BCIWgzQEY2IbOAQ=="
+            }
+        ],
+        "queryString": [
+            {
+                "name": "value",
+                "value": "1.00"
+            },
+            {
+                "name": "currency_code",
+                "value": "USD"
+            },
+            {
+                "name": "label",
+                "value": "qGVACPj3of0DEJyZxpkD"
+            },
+            {
+                "name": "guid",
+                "value": "ON"
+            },
+            {
+                "name": "script",
+                "value": "0"
+            },
+            {
+                "name": "is_vtc",
+                "value": "1"
+            },
+            {
+                "name": "cid",
+                "value": "CAQSGwB7FLtqD2wGxbLdT_2QkyTwljiVGZY5TpTBHQ"
+            },
+            {
+                "name": "random",
+                "value": "3257326013"
+            }
+        ],
+        "cookies": [
+            {
+                "name": "1P_JAR",
+                "value": "2024-04-12-12",
+                "path": "\/",
+                "domain": ".google.com",
+                "expires": "2024-05-12T12:49:06.016Z",
+                "httpOnly": false,
+                "secure": true,
+                "sameSite": "None"
+            },
+            {
+                "name": "NID",
+                "value": "513=CvK328nt99o71E4YTe4RZd7b0_zqju8JM8YmSVd3uqX44iB5Nx1i-FYzgry7gBFickjzf2AxSBoTDmvDN7Lan6RjFM22pUHuIxpsefGopS_A4cK8qgqlfyxEuWH1_UY8B3ruUXL-hV_wDHvVl4ONyxlY6jHISOiXfv-ihcpgWqyWPtYHkU6rdz5mj5v1bGzAKTAH5K4XhZs",
+                "path": "\/",
+                "domain": ".google.com",
+                "expires": "2024-10-12T12:46:59.462Z",
+                "httpOnly": true,
+                "secure": true,
+                "sameSite": "None"
+            }
+        ],
+        "headersSize": -1,
+        "bodySize": 0
+    },
+    "response": {
+        "status": 302,
+        "statusText": "",
+        "httpVersion": "http\/2.0",
+        "headers": [
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+            },
+            {
+                "name": "cache-control",
+                "value": "no-cache, no-store, must-revalidate"
+            },
+            {
+                "name": "content-length",
+                "value": "42"
+            },
+            {
+                "name": "content-security-policy",
+                "value": "script-src 'none'; object-src 'none'"
+            },
+            {
+                "name": "content-type",
+                "value": "image\/gif"
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "date",
+                "value": "Fri, 12 Apr 2024 15:26:16 GMT"
+            },
+            {
+                "name": "expires",
+                "value": "Fri, 01 Jan 1990 00:00:00 GMT"
+            },
+            {
+                "name": "location",
+                "value": "https:\/\/www.google.com.pk\/pagead\/1p-user-list\/858885276\/?value=1.00&currency_code=USD&label=qGVACPj3of0DEJyZxpkD&guid=ON&script=0&is_vtc=1&cid=CAQSGwB7FLtqD2wGxbLdT_2QkyTwljiVGZY5TpTBHQ&random=3257326013&ipr=y"
+            },
+            {
+                "name": "p3p",
+                "value": "policyref=\"https:\/\/www.googleadservices.com\/pagead\/p3p.xml\", CP=\"NOI DEV PSA PSD IVA IVD OTP OUR OTR IND OTC\""
+            },
+            {
+                "name": "pragma",
+                "value": "no-cache"
+            },
+            {
+                "name": "server",
+                "value": "cafe"
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "x-xss-protection",
+                "value": "0"
+            }
+        ],
+        "cookies": [],
+        "content": {
+            "size": 0,
+            "mimeType": "image\/gif"
+        },
+        "redirectURL": "https:\/\/www.google.com.pk\/pagead\/1p-user-list\/858885276\/?value=1.00&currency_code=USD&label=qGVACPj3of0DEJyZxpkD&guid=ON&script=0&is_vtc=1&cid=CAQSGwB7FLtqD2wGxbLdT_2QkyTwljiVGZY5TpTBHQ&random=3257326013&ipr=y",
+        "headersSize": -1,
+        "bodySize": -1,
+        "_transferSize": 561,
+        "_error": null
+    },
+    "serverIPAddress": "[2a00:1450:4006:80e::2004]",
+    "startedDateTime": "2024-04-12T15:26:15.062Z",
+    "time": 613.5099999950751,
+    "timings": {
+        "blocked": 2.329999999753665,
+        "dns": 0.02300000000000013,
+        "ssl": 160.16599999999997,
+        "connect": 301.128,
+        "send": 3.7749999999999773,
+        "wait": 304.8370000031055,
+        "receive": 1.416999992216006,
+        "_blocked_queueing": 0.7729999997536652
+    }
+}

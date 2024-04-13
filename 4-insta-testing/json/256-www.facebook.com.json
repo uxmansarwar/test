@@ -1,0 +1,423 @@
+{
+    "_initiator": {
+        "type": "script",
+        "stack": {
+            "callFrames": [
+                {
+                    "functionName": "f.send",
+                    "scriptId": "15",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3ij9m4\/ys\/l\/en_GB\/JshihjEU9zN.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 160,
+                    "columnNumber": 25349
+                },
+                {
+                    "functionName": "b.send",
+                    "scriptId": "18",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/y8\/r\/I3UunANzMRQ.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 2,
+                    "columnNumber": 885
+                },
+                {
+                    "functionName": "k",
+                    "scriptId": "12",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yr\/r\/rDfxXVey7Pn.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 2,
+                    "columnNumber": 1180
+                },
+                {
+                    "functionName": "",
+                    "scriptId": "12",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yr\/r\/rDfxXVey7Pn.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 2,
+                    "columnNumber": 1594
+                },
+                {
+                    "functionName": "applyWithGuard",
+                    "scriptId": "16",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 69,
+                    "columnNumber": 10431
+                },
+                {
+                    "functionName": "c",
+                    "scriptId": "16",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 69,
+                    "columnNumber": 11165
+                },
+                {
+                    "functionName": "applyWithGuard",
+                    "scriptId": "16",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 69,
+                    "columnNumber": 10431
+                },
+                {
+                    "functionName": "c.fire",
+                    "scriptId": "15",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3ij9m4\/ys\/l\/en_GB\/JshihjEU9zN.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 110,
+                    "columnNumber": 7400
+                },
+                {
+                    "functionName": "",
+                    "scriptId": "15",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3ij9m4\/ys\/l\/en_GB\/JshihjEU9zN.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 110,
+                    "columnNumber": 6558
+                },
+                {
+                    "functionName": "applyWithGuard",
+                    "scriptId": "16",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 69,
+                    "columnNumber": 10431
+                },
+                {
+                    "functionName": "c",
+                    "scriptId": "16",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 69,
+                    "columnNumber": 11165
+                },
+                {
+                    "functionName": "",
+                    "scriptId": "15",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3ij9m4\/ys\/l\/en_GB\/JshihjEU9zN.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 102,
+                    "columnNumber": 196
+                }
+            ]
+        }
+    },
+    "_priority": "High",
+    "_resourceType": "xhr",
+    "cache": [],
+    "request": {
+        "method": "POST",
+        "url": "https:\/\/www.facebook.com\/instagram\/login_sync\/update\/",
+        "httpVersion": "h3",
+        "headers": [
+            {
+                "name": ":authority",
+                "value": "www.facebook.com"
+            },
+            {
+                "name": ":method",
+                "value": "POST"
+            },
+            {
+                "name": ":path",
+                "value": "\/instagram\/login_sync\/update\/"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "*\/*"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br, zstd"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "content-length",
+                "value": "653"
+            },
+            {
+                "name": "content-type",
+                "value": "application\/x-www-form-urlencoded"
+            },
+            {
+                "name": "origin",
+                "value": "https:\/\/www.facebook.com"
+            },
+            {
+                "name": "referer",
+                "value": "https:\/\/www.facebook.com\/instagram\/login_sync\/"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Google Chrome\";v=\"123\", \"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"123\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "empty"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "same-origin"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/123.0.0.0 Safari\/537.36"
+            },
+            {
+                "name": "x-asbd-id",
+                "value": "129477"
+            },
+            {
+                "name": "x-fb-lsd",
+                "value": "AVo87umi4go"
+            }
+        ],
+        "queryString": [],
+        "cookies": [],
+        "headersSize": -1,
+        "bodySize": 653,
+        "postData": {
+            "mimeType": "application\/x-www-form-urlencoded",
+            "text": "encrypted_data=ASAM7ijshHyUFxE_YrYAlUHKafJ9k0_QizKLiTSz1qt6bRt1YLRipDrLBG9gf8VKOPlu_7kHRbHghlXzAnkOvXMw65rvjDEXBDvCg_G4In0pIpnvxcUnCgDQYYltBPNrrRhUBtE&session_key=f4db190b-9b1b-4d9c-999b-df6f166a4055&__user=0&__a=1&__req=2&__hs=19825.HYP%3Acomet_loggedout_pkg.2.1..0.0&dpr=1&__ccg=UNKNOWN&__rev=1012737330&__s=86s8ho%3Arbnqmb%3Ao5y48w&__hsi=7357002301556740414&__dyn=7wKwlE7ibwKBAg35xu13w8CewSwMwfG0lW4o0B-q1ew65wce0yE1VohwnU1oU1O81u83mwaS0zE5W0PU1AE17U2ZwrU1Xo1UU&__csr=pAO2qJ2Q48jzkdwAx909i9xudwxyU-fxy6E20wl8gUmwDUKdwg8b82awh8-q4Fkew9qdw07l9g0u4w0d34w&__comet_req=15&lsd=AVo87umi4go&jazoest=2970&__spin_r=1012737330&__spin_b=trunk&__spin_t=1712935581",
+            "params": [
+                {
+                    "name": "encrypted_data",
+                    "value": "ASAM7ijshHyUFxE_YrYAlUHKafJ9k0_QizKLiTSz1qt6bRt1YLRipDrLBG9gf8VKOPlu_7kHRbHghlXzAnkOvXMw65rvjDEXBDvCg_G4In0pIpnvxcUnCgDQYYltBPNrrRhUBtE"
+                },
+                {
+                    "name": "session_key",
+                    "value": "f4db190b-9b1b-4d9c-999b-df6f166a4055"
+                },
+                {
+                    "name": "__user",
+                    "value": "0"
+                },
+                {
+                    "name": "__a",
+                    "value": "1"
+                },
+                {
+                    "name": "__req",
+                    "value": "2"
+                },
+                {
+                    "name": "__hs",
+                    "value": "19825.HYP%3Acomet_loggedout_pkg.2.1..0.0"
+                },
+                {
+                    "name": "dpr",
+                    "value": "1"
+                },
+                {
+                    "name": "__ccg",
+                    "value": "UNKNOWN"
+                },
+                {
+                    "name": "__rev",
+                    "value": "1012737330"
+                },
+                {
+                    "name": "__s",
+                    "value": "86s8ho%3Arbnqmb%3Ao5y48w"
+                },
+                {
+                    "name": "__hsi",
+                    "value": "7357002301556740414"
+                },
+                {
+                    "name": "__dyn",
+                    "value": "7wKwlE7ibwKBAg35xu13w8CewSwMwfG0lW4o0B-q1ew65wce0yE1VohwnU1oU1O81u83mwaS0zE5W0PU1AE17U2ZwrU1Xo1UU"
+                },
+                {
+                    "name": "__csr",
+                    "value": "pAO2qJ2Q48jzkdwAx909i9xudwxyU-fxy6E20wl8gUmwDUKdwg8b82awh8-q4Fkew9qdw07l9g0u4w0d34w"
+                },
+                {
+                    "name": "__comet_req",
+                    "value": "15"
+                },
+                {
+                    "name": "lsd",
+                    "value": "AVo87umi4go"
+                },
+                {
+                    "name": "jazoest",
+                    "value": "2970"
+                },
+                {
+                    "name": "__spin_r",
+                    "value": "1012737330"
+                },
+                {
+                    "name": "__spin_b",
+                    "value": "trunk"
+                },
+                {
+                    "name": "__spin_t",
+                    "value": "1712935581"
+                }
+            ]
+        }
+    },
+    "response": {
+        "status": 200,
+        "statusText": "",
+        "httpVersion": "h3",
+        "headers": [
+            {
+                "name": "access-control-allow-credentials",
+                "value": "true"
+            },
+            {
+                "name": "access-control-allow-methods",
+                "value": "OPTIONS"
+            },
+            {
+                "name": "access-control-allow-origin",
+                "value": "https:\/\/www.facebook.com"
+            },
+            {
+                "name": "access-control-expose-headers",
+                "value": "X-FB-Debug, X-Loader-Length, X-Stack"
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=86400"
+            },
+            {
+                "name": "cache-control",
+                "value": "private, no-cache, no-store, must-revalidate"
+            },
+            {
+                "name": "content-encoding",
+                "value": "zstd"
+            },
+            {
+                "name": "content-type",
+                "value": "application\/x-javascript; charset=utf-8"
+            },
+            {
+                "name": "cross-origin-embedder-policy-report-only",
+                "value": "require-corp;report-to=\"coep_report\""
+            },
+            {
+                "name": "cross-origin-opener-policy",
+                "value": "same-origin-allow-popups;report-to=\"coop_report\""
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "date",
+                "value": "Fri, 12 Apr 2024 15:26:23 GMT"
+            },
+            {
+                "name": "document-policy",
+                "value": "force-load-at-top"
+            },
+            {
+                "name": "expires",
+                "value": "Sat, 01 Jan 2000 00:00:00 GMT"
+            },
+            {
+                "name": "origin-agent-cluster",
+                "value": "?0"
+            },
+            {
+                "name": "permissions-policy",
+                "value": "accelerometer=(), attribution-reporting=(self), autoplay=(), bluetooth=(), camera=(self), ch-device-memory=(), ch-downlink=(), ch-ect=(), ch-rtt=(), ch-save-data=(), ch-ua-arch=(), ch-ua-bitness=(), clipboard-read=(self), clipboard-write=(self), display-capture=(self), encrypted-media=(self), fullscreen=(self), gamepad=*, geolocation=(self), gyroscope=(), hid=(), idle-detection=(), keyboard-map=(), local-fonts=(), magnetometer=(), microphone=(self), midi=(), otp-credentials=(), payment=(), picture-in-picture=(self), publickey-credentials-get=(self), screen-wake-lock=(), serial=(), usb=(), window-management=(), xr-spatial-tracking=(self);report-to=\"permissions_policy\""
+            },
+            {
+                "name": "pragma",
+                "value": "no-cache"
+            },
+            {
+                "name": "priority",
+                "value": "u=1,i"
+            },
+            {
+                "name": "report-to",
+                "value": "{\"max_age\":2592000,\"endpoints\":[{\"url\":\"https:\\\/\\\/www.facebook.com\\\/browser_reporting\\\/coop\\\/?minimize=0\"}],\"group\":\"coop_report\",\"include_subdomains\":true}, {\"max_age\":86400,\"endpoints\":[{\"url\":\"https:\\\/\\\/www.facebook.com\\\/browser_reporting\\\/coep\\\/?minimize=0\"}],\"group\":\"coep_report\"}, {\"max_age\":259200,\"endpoints\":[{\"url\":\"https:\\\/\\\/www.facebook.com\\\/ajax\\\/comet_error_reports\\\/?device_level=unknown\"}]}, {\"max_age\":21600,\"endpoints\":[{\"url\":\"https:\\\/\\\/www.facebook.com\\\/ajax\\\/browser_error_reports\\\/\"}],\"group\":\"permissions_policy\"}"
+            },
+            {
+                "name": "reporting-endpoints",
+                "value": "coop_report=\"https:\/\/www.facebook.com\/browser_reporting\/coop\/?minimize=0\", coep_report=\"https:\/\/www.facebook.com\/browser_reporting\/coep\/?minimize=0\", default=\"https:\/\/www.facebook.com\/ajax\/comet_error_reports\/?device_level=unknown\", permissions_policy=\"https:\/\/www.facebook.com\/ajax\/browser_error_reports\/\""
+            },
+            {
+                "name": "set-cookie",
+                "value": "fr=05O7v0A8MH2fcHzTM.AWXfSlSnKe1BdnSYfQ0xwJhHYyQ.BmGVKf..AAA.0.0.BmGVKf.AWV9Sjgr4vA; expires=Thu, 11-Jul-2024 15:26:23 GMT; Max-Age=7776000; path=\/; domain=.facebook.com; secure; httponly; SameSite=None"
+            },
+            {
+                "name": "strict-transport-security",
+                "value": "max-age=15552000; preload"
+            },
+            {
+                "name": "vary",
+                "value": "Origin"
+            },
+            {
+                "name": "vary",
+                "value": "Accept-Encoding"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "x-fb-connection-quality",
+                "value": "MODERATE; q=0.3, rtt=150, rtx=0, c=29, mss=1232, tbw=11732, tp=24, tpl=0, uplat=42, ullat=0"
+            },
+            {
+                "name": "x-fb-debug",
+                "value": "xzCrKvHs68kZzzsu0kb7TJuuKHagOdIDf6nZiOd34pHFvlQQgFuusQ7Z2\/jBkJO\/JartXR5O4ureGxVVIQ6oIg=="
+            },
+            {
+                "name": "x-frame-options",
+                "value": "DENY"
+            }
+        ],
+        "cookies": [
+            {
+                "name": "fr",
+                "value": "05O7v0A8MH2fcHzTM.AWXfSlSnKe1BdnSYfQ0xwJhHYyQ.BmGVKf..AAA.0.0.BmGVKf.AWV9Sjgr4vA",
+                "path": "\/",
+                "domain": ".facebook.com",
+                "expires": "2024-07-11T15:26:21.615Z",
+                "httpOnly": true,
+                "secure": true,
+                "sameSite": "None"
+            }
+        ],
+        "content": {
+            "size": 74,
+            "mimeType": "application\/x-javascript",
+            "text": "for (;;);{\"__ar\":1,\"payload\":{\"success\":\"ok\"},\"lid\":\"7357002311260192543\"}"
+        },
+        "redirectURL": "",
+        "headersSize": -1,
+        "bodySize": -1,
+        "_transferSize": 204,
+        "_error": null
+    },
+    "serverIPAddress": "[2a03:2880:f142:182:face:b00c:0:25de]",
+    "startedDateTime": "2024-04-12T15:26:21.613Z",
+    "time": 191.11500000144588,
+    "timings": {
+        "blocked": 2.169000004434027,
+        "dns": -1,
+        "ssl": -1,
+        "connect": -1,
+        "send": 0.409,
+        "wait": 186.71599999899465,
+        "receive": 1.8209999980172142,
+        "_blocked_queueing": 1.7110000044340268
+    }
+}

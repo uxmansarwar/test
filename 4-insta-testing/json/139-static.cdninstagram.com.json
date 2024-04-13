@@ -1,0 +1,210 @@
+{
+    "_initiator": {
+        "type": "parser",
+        "url": "https:\/\/www.instagram.com\/",
+        "lineNumber": 8
+    },
+    "_priority": "High",
+    "_resourceType": "other",
+    "cache": [],
+    "pageref": "page_6",
+    "request": {
+        "method": "GET",
+        "url": "https:\/\/static.cdninstagram.com\/rsrc-translations.php\/v6ioV04\/yQ\/l\/en_US\/TJaTD6LNarB5aCUIGMSc54wMX1SRmuPgUMsmrZiskaOhcBNnczn8-8FEiBNMg4_e1v8yXQFgh-MlhJKwZpZbgHXL.js?_nc_x=Ij3Wp8lg5Kz",
+        "httpVersion": "h3",
+        "headers": [
+            {
+                "name": ":authority",
+                "value": "static.cdninstagram.com"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "\/rsrc-translations.php\/v6ioV04\/yQ\/l\/en_US\/TJaTD6LNarB5aCUIGMSc54wMX1SRmuPgUMsmrZiskaOhcBNnczn8-8FEiBNMg4_e1v8yXQFgh-MlhJKwZpZbgHXL.js?_nc_x=Ij3Wp8lg5Kz"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "*\/*"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br, zstd"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "origin",
+                "value": "https:\/\/www.instagram.com"
+            },
+            {
+                "name": "referer",
+                "value": "https:\/\/www.instagram.com\/"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Google Chrome\";v=\"123\", \"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"123\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "empty"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "cross-site"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/123.0.0.0 Safari\/537.36"
+            }
+        ],
+        "queryString": [
+            {
+                "name": "_nc_x",
+                "value": "Ij3Wp8lg5Kz"
+            }
+        ],
+        "cookies": [],
+        "headersSize": -1,
+        "bodySize": 0
+    },
+    "response": {
+        "status": 200,
+        "statusText": "",
+        "httpVersion": "h3",
+        "headers": [
+            {
+                "name": "access-control-allow-origin",
+                "value": "https:\/\/www.instagram.com"
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=86400"
+            },
+            {
+                "name": "cache-control",
+                "value": "public,max-age=31536000,immutable"
+            },
+            {
+                "name": "content-encoding",
+                "value": "zstd"
+            },
+            {
+                "name": "content-length",
+                "value": "3421"
+            },
+            {
+                "name": "content-md5",
+                "value": "TjuMTzqQyEvEBq9jjCtp9g=="
+            },
+            {
+                "name": "content-type",
+                "value": "application\/json"
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "date",
+                "value": "Fri, 12 Apr 2024 15:26:01 GMT"
+            },
+            {
+                "name": "document-policy",
+                "value": "force-load-at-top"
+            },
+            {
+                "name": "expires",
+                "value": "Sat, 12 Apr 2025 02:53:54 GMT"
+            },
+            {
+                "name": "last-modified",
+                "value": "Mon, 01 Jan 2001 08:00:00 GMT"
+            },
+            {
+                "name": "origin-agent-cluster",
+                "value": "?0"
+            },
+            {
+                "name": "permissions-policy",
+                "value": "accelerometer=(), attribution-reporting=(), autoplay=(), bluetooth=(), camera=(), ch-device-memory=(), ch-downlink=(), ch-ect=(), ch-rtt=(), ch-save-data=(), ch-ua-arch=(), ch-ua-bitness=(), clipboard-read=(), clipboard-write=(), display-capture=(), encrypted-media=(), fullscreen=(self), gamepad=(), geolocation=(), gyroscope=(), hid=(), idle-detection=(), keyboard-map=(), local-fonts=(), magnetometer=(), microphone=(), midi=(), otp-credentials=(), payment=(), picture-in-picture=(), publickey-credentials-get=(), screen-wake-lock=(), serial=(), usb=(), window-management=(), xr-spatial-tracking=();report-to=\"permissions_policy\""
+            },
+            {
+                "name": "priority",
+                "value": "u=1,i"
+            },
+            {
+                "name": "report-to",
+                "value": "{\"max_age\":21600,\"endpoints\":[{\"url\":\"https:\\\/\\\/www.facebook.com\\\/ajax\\\/browser_error_reports\\\/\"}],\"group\":\"permissions_policy\"}"
+            },
+            {
+                "name": "reporting-endpoints",
+                "value": "permissions_policy=\"https:\/\/www.facebook.com\/ajax\/browser_error_reports\/\""
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "vary",
+                "value": "Origin"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "x-fb-connection-quality",
+                "value": "GOOD; q=0.7, rtt=146, rtx=0, c=32, mss=1232, tbw=17635, tp=26, tpl=0, uplat=142, ullat=-1"
+            },
+            {
+                "name": "x-fb-debug",
+                "value": "hsAUC+IC+TWzmVIPkTtSgZmhH7bnG4yK82mcCnjTD3h7zgyDA\/NzcL01YDbEUHpI6UtlUW1Q3JaPF4BTLLUzmA=="
+            }
+        ],
+        "cookies": [],
+        "content": {
+            "size": 7306,
+            "mimeType": "application\/json",
+            "text": "{\"translations\":{\"mmIrN12C7sN\":\"Back\",\"hW4DSFAbth0\":\"Dialog header image\",\"lHm0hxg4L12\":\"Menu\",\"y2HYsl1GNm7\":\"User circle icon on Accounts Center Interstitial\",\"5GiTGGdhiYp\":\"Users icon on Accounts Center Interstitial\",\"Qw9kmMLG_Gv\":\"Shield icon on Accounts Center Interstitial\",\"d33W1S_cGn-\":\"Licensing icon on Accounts Center Interstitial\",\"Pj6SzNnXKmq\":\"Ad icon on Accounts Center Interstitial\",\"JQIo63LcK61\":\"Payments icon on Accounts Center Interstitial\",\"ptT8MaSFAMY\":\"Loading...\",\"IUeQCFqV_l-\":\"See original\",\"58YSi6ExsIG\":\"See translation\",\"-YV1xKbwPAG\":{\"*\":\"{number} likes\",\"_1\":\"1 like\"},\"S6WOgu9Fr2q\":\"See original\",\"Q7Q4mAm1c2E\":\"See translation\",\"knipFRoxAOv\":\"Collaborators\",\"gVvWvw7eP27\":\"{num_coauthors} others\",\"OMxqSO8Gxcr\":\"and\",\"vsPR1PMxOLr\":\"More\",\"Dq6RyIKc3_p\":\"Plus icon\",\"buI4XBgPKRM\":\"Accounts Center\",\"IhG6IEDvRHF\":\"Facebook wordmark and family of apps logo\",\"j6RcJiR64m2\":\"Control settings for connected experiences across Instagram, the Facebook app and Messenger, including story and post sharing and logging in.\",\"XymQ6kfGzPB\":\"Disclosure page\",\"N0LG57sTHmM\":\"Personal information\",\"JxIeqdqANEr\":\"Privacy and security\",\"EL0axImkaaX\":\"Ads Preferences\",\"_zWiNawsGSc\":\"Payments\",\"wwdRalwJS8u\":\"Manage your connected experiences and account settings across Meta technologies.\",\"W5CnltWagSo\":\"See more in Accounts Center\",\"4MURzWo1mfx\":\"Personal details\",\"1PENo_IyZJr\":\"Password and security\",\"uHixieV-FQL\":\"Ad preferences\",\"2Qm7AiPyePC\":\"Ad preferences, including subscription for no ads\",\"oXgFN78Xuce\":\"Payments\",\"6-YSmlLuwwN\":\"Add phone number\",\"GP4S-HX05og\":\"You may receive SMS updates from Instagram and can opt out at anytime.\",\"GYRJeJpH3ej\":\"Phone number\",\"lMV_Omd-OPX\":\"Adding your number will help you log in more easily, recover your account, and find people to follow.\",\"mJMS2N3p6z-\":\"Change it\",\"R2gfJ5aAnsR\":\"Didn't enter the right phone number?\",\"qIJBy3vRx3F\":\"Done\",\"ULulstmZR2V\":\"Enter confirmation code\",\"JKtwEXn0ABA\":\"Confirmation Code\",\"aU8Pm8DALY5\":\"Enter the confirmation code we sent to {phoneNumber}.\",\"jVe_a3GgCGP\":\"If you didn't get it, we can {resendCode}.\",\"3xTfypPx-91\":\"Select Country\",\"bCSqGy_vbBo\":\"Country name or code\",\"nNZJp8LGg9-\":\"Reload Page\",\"NK6FnSISf2B\":\"Reactivate Page\",\"KRYnHqLgyWP\":\"Go to News Feed\",\"NfCVWpfhCDL\":\"Go back\",\"cMm5duNHgCG\":\"Visit Help Center\",\"pXUti67uBgG\":\"This may be because of a technical error that we're working to get fixed. Try reloading this page.\",\"o1L-SKvTHIY\":\"This page isn't available right now\",\"I3bi0lBeAsn\":\"Like\",\"hOfykgfmH4a\":\"Unlike\",\"XYQmTuh6tZy\":\"Copy\",\"oBpjcyU8cRA\":\"Blocked\",\"OSmpF794tSy\":\"Unblocked\",\"JamETNXLecz\":\"AI\",\"MsgX-pcOE1N\":\"Your contacts\",\"DaN6ZhVAhFM\":\"No participants\",\"CYtAjqXrfJL\":\"{participant1} and {participant2}\",\"0GwsaOqt1zM\":\"{participant1}, {participant2} and {participant3}\",\"-HjU-GfOUIJ\":\"{participant1}, {participant2} and {others_count} others\",\"MOcENwPdyTO\":{\"*\":\"{number} matched messages\",\"_1\":\"1 matched message\"},\"6QBjd4SVwsL\":\"Your channels\",\"jyy97B7ulae\":\"Search messages for {param}\",\"fYNX9xcAtis\":\"[DM]\",\"Q2yjxKs0vJu\":\"[TLC]\",\"ZJ0tO-Psfn0\":\"Toggle selection\",\"owAUcLnQ7mx\":\"No account found.\",\"ROCbNDNLttP\":\"Suggested\",\"Kpex6Kd0QJc\":\"Start a conversation with a creator in your partnership inbox to help manage your conversations more effectively.\",\"qc01BI1fkNA\":\"Group limit reached\",\"FyIQNPP3XVc\":\"Forward limit reached\",\"bb1Qjh03xdr\":\"Send limit reached\",\"WiVpcEF7dRD\":\"The total number of people who can be in a group is {group limit}. Please limit the number of people to {group limit (same)}, including yourself, to finish creating this group.\",\"veuAHuPILbq\":\"Forwarding messages is limited to {forward limit} people at a time.\",\"C7vcxYE3Us9\":\"Please reduce the number of people you're sending this message to and try again.\",\"FI1tkByyuGt\":\"OK\",\"S8QPYRnhU1P\":\"Facebook\",\"D29VCIpVgPW\":\"Messenger\",\"yHJ89Aeqvg5\":\"Threads\",\"4DSAiVwCpi9\":\"Twitter\",\"KE7LPSmbri5\":\"WhatsApp\",\"BhjIRV4gVAZ\":\"iMessage\",\"xNK0nP2yzc3\":\"SMS\",\"BAgXaoYy5-7\":\"Email\",\"CMSfw8gc0BF\":\"See all\",\"76TzID1n-uO\":\"You can\\u2019t send or receive disappearing messages on Instagram.com yet\",\"0OLQATAYPA8\":\"Some of your chats have disappearing messages turned on. To send and receive new messages in those chats, use your Instagram app.\",\"UoH4izdyuEe\":\"End-to-end encrypted messages aren\\u2019t available on Instagram.com yet\",\"QvLqHvZhpWm\":\"This chat is now secured with end-to-end encryption, so you'll only be able to send and receive new messages using the Instagram app.\",\"U_XJdxtIqhF\":\"End-to-end encrypted chats aren't available on Instagram.com yet\",\"3YXXOEWxHij\":\"Some chats are now secured with end-to-end encryption. To send and receive new messages in those chats, use the Instagram app.\",\"0ZExEB6NOJf\":\"Progress, step {current step} of {total number of steps}\",\"wIO6qz721PP\":\"Check\",\"G4GBBdwjoMX\":\"Close\",\"cbCSCon7qjh\":\"Info\",\"C99R_fcHUk5\":\"Settings icon\",\"RY8ihB-AncI\":\"Done\",\"HRx8ahTYoZ-\":\"Open shopping menu\",\"QgUrri-MMGz\":\"Geoblocked content\",\"8eX-1wxgqc2\":\"See Why\",\"kfHZdOPDjJd\":\"How we made this decision\",\"Rd2I_pILh3E\":\"We received a legal request to restrict this content. We reviewed it against our policies and conducted a legal and human rights assessment.\",\"6_UB_QyMXA-\":\"After the review, we restricted access to the content in the location where it goes against local law.\",\"nM9yUB3EVKZ\":\"You can learn more about content restrictions in our {transparency_link}\",\"J0a7VyPHsgI\":\"Open Stories\",\"0IkHef9bF4M\":\"Clip\",\"CMWtNMyEzh9\":\"Close Friends\"},\"virtual_modules\":[\"PolarisBloksNavbar.react$fbt_virtual\",\"PolarisBloksIGDialogHeader.react$fbt_virtual\",\"PolarisBloksIGNavbar.react$fbt_virtual\",\"PolarisBloksIGNavbarButton.react$fbt_virtual\",\"PolarisQPFullscreenBulletListInterstitial.react$fbt_virtual\",\"PolarisCommentTranslationPrompt.next.react$fbt_virtual\",\"usePolarisCommentLikeCountString$fbt_virtual\",\"PolarisPostCommentTranslationPrompt.next.react$fbt_virtual\",\"PolarisCoauthorCountWithSheet.react$fbt_virtual\",\"PolarisPostHeaderLink.next.react$fbt_virtual\",\"PolarisPostOptionsV2Button.react$fbt_virtual\",\"PolarisOwnStoryTrayItem.react$fbt_virtual\",\"PolarisFXAccountCenterStrings$fbt_virtual\",\"PolarisPhoneCommonStrings$fbt_virtual\",\"PolarisIGCorePhoneNumberInput.react$fbt_virtual\",\"CometErrorRoot.react$fbt_virtual\",\"PolarisInteractionsStrings$fbt_virtual\",\"MWChatTemporarySearchResultUtils$fbt_virtual\",\"MWLSThreadTitle$fbt_virtual\",\"MWInboxSecureContentSearch$fbt_virtual\",\"MWChatSearchFetchCCRecommendations$fbt_virtual\",\"MWStaticSearchEntries$fbt_virtual\",\"IGDContactSearchResultTitleDebugLabel.react$fbt_virtual\",\"IGDContactSearchResult.react$fbt_virtual\",\"IGDAWContactSearchResultList.react$fbt_virtual\",\"useShowRecipientLimitReachedDialog$fbt_virtual\",\"IGDExternalShareBar.react$fbt_virtual\",\"IGDShareSheetDMBlockedMessageBar.react$fbt_virtual\",\"IGDShareSheetTLCBlockedMessageBar.react$fbt_virtual\",\"IGDSStepper.react$fbt_virtual\",\"WebBloksCoreNavbarForIG$fbt_virtual\",\"WebBloksIGDialogHeader$fbt_virtual\",\"WebBloksIGNavbar$fbt_virtual\",\"WebBloksIGNavbarButton$fbt_virtual\",\"WebBloksIGOpenDatePickerActivityCenter$fbt_virtual\",\"WebBloksIGShoppingNavBar$fbt_virtual\",\"PolarisHttpGatedContentPage.react$fbt_virtual\",\"PolarisAvatarWithStories.react$fbt_virtual\",\"PolarisClipIndicator.react$fbt_virtual\",\"PolarisCloseFriendsProfileIndicator.react$fbt_virtual\"]}"
+        },
+        "redirectURL": "",
+        "headersSize": -1,
+        "bodySize": -1,
+        "_transferSize": 3562,
+        "_error": null
+    },
+    "serverIPAddress": "[2a03:2880:f242:1cb:face:b00c:0:43fe]",
+    "startedDateTime": "2024-04-12T15:25:59.492Z",
+    "time": 1223.043999998481,
+    "timings": {
+        "blocked": 18.70700000124099,
+        "dns": -1,
+        "ssl": -1,
+        "connect": -1,
+        "send": 4.0589999999999975,
+        "wait": 1196.5990000032316,
+        "receive": 3.678999994008336,
+        "_blocked_queueing": 1.8950000012409873
+    }
+}

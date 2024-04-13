@@ -1,0 +1,178 @@
+{
+    "_initiator": {
+        "type": "parser",
+        "url": "https:\/\/www.gstatic.com\/recaptcha\/releases\/rz4DvU-cY2JYCwHSTck0_qm-\/styles__ltr.css"
+    },
+    "_priority": "High",
+    "_resourceType": "image",
+    "cache": [],
+    "request": {
+        "method": "GET",
+        "url": "https:\/\/www.gstatic.com\/recaptcha\/api2\/logo_48.png",
+        "httpVersion": "h3",
+        "headers": [
+            {
+                "name": ":authority",
+                "value": "www.gstatic.com"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "\/recaptcha\/api2\/logo_48.png"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "image\/avif,image\/webp,image\/apng,image\/svg+xml,image\/*,*\/*;q=0.8"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br, zstd"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "referer",
+                "value": "https:\/\/www.gstatic.com\/recaptcha\/releases\/rz4DvU-cY2JYCwHSTck0_qm-\/styles__ltr.css"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Google Chrome\";v=\"123\", \"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"123\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "image"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "no-cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "cross-site"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/123.0.0.0 Safari\/537.36"
+            },
+            {
+                "name": "x-client-data",
+                "value": "CJO2yQEIorbJAQipncoBCIqMywEIlaHLAQjxmM0BCIWgzQEY2IbOAQ=="
+            }
+        ],
+        "queryString": [],
+        "cookies": [],
+        "headersSize": -1,
+        "bodySize": 0
+    },
+    "response": {
+        "status": 200,
+        "statusText": "",
+        "httpVersion": "h3",
+        "headers": [
+            {
+                "name": "accept-ranges",
+                "value": "bytes"
+            },
+            {
+                "name": "age",
+                "value": "161759"
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+            },
+            {
+                "name": "cache-control",
+                "value": "public, max-age=604800"
+            },
+            {
+                "name": "content-length",
+                "value": "2228"
+            },
+            {
+                "name": "content-security-policy-report-only",
+                "value": "require-trusted-types-for 'script'; report-uri https:\/\/csp.withgoogle.com\/csp\/recaptcha"
+            },
+            {
+                "name": "content-type",
+                "value": "image\/png"
+            },
+            {
+                "name": "cross-origin-opener-policy",
+                "value": "same-origin-allow-popups; report-to=\"recaptcha\""
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "date",
+                "value": "Wed, 10 Apr 2024 18:29:29 GMT"
+            },
+            {
+                "name": "expires",
+                "value": "Wed, 17 Apr 2024 18:29:29 GMT"
+            },
+            {
+                "name": "last-modified",
+                "value": "Tue, 03 Mar 2020 20:15:00 GMT"
+            },
+            {
+                "name": "report-to",
+                "value": "{\"group\":\"recaptcha\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https:\/\/csp.withgoogle.com\/csp\/report-to\/recaptcha\"}]}"
+            },
+            {
+                "name": "server",
+                "value": "sffe"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "x-xss-protection",
+                "value": "0"
+            }
+        ],
+        "cookies": [],
+        "content": {
+            "size": 2228,
+            "mimeType": "image\/png"
+        },
+        "redirectURL": "",
+        "headersSize": -1,
+        "bodySize": -1,
+        "_transferSize": 2252,
+        "_error": null
+    },
+    "serverIPAddress": "[2a00:1450:4006:80c::2003]",
+    "startedDateTime": "2024-04-12T15:25:26.584Z",
+    "time": 196.04399999661837,
+    "timings": {
+        "blocked": 3.1900000009434297,
+        "dns": -1,
+        "ssl": -1,
+        "connect": -1,
+        "send": 0.921,
+        "wait": 180.87900000061887,
+        "receive": 11.053999995056074,
+        "_blocked_queueing": 2.2380000009434298
+    }
+}

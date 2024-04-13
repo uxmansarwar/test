@@ -1,0 +1,191 @@
+{
+    "_initiator": {
+        "type": "parser",
+        "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/y6\/l\/0,cross\/2-KiT0vHcLc.css?_nc_x=Ij3Wp8lg5Kz"
+    },
+    "_priority": "High",
+    "_resourceType": "image",
+    "cache": [],
+    "pageref": "page_4",
+    "request": {
+        "method": "GET",
+        "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/y5\/r\/TJztmXpWTmS.png",
+        "httpVersion": "h3",
+        "headers": [
+            {
+                "name": ":authority",
+                "value": "static.cdninstagram.com"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "\/rsrc.php\/v3\/y5\/r\/TJztmXpWTmS.png"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "image\/avif,image\/webp,image\/apng,image\/svg+xml,image\/*,*\/*;q=0.8"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br, zstd"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "referer",
+                "value": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/y6\/l\/0,cross\/2-KiT0vHcLc.css?_nc_x=Ij3Wp8lg5Kz"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Google Chrome\";v=\"123\", \"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"123\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "image"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "no-cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "cross-site"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/123.0.0.0 Safari\/537.36"
+            }
+        ],
+        "queryString": [],
+        "cookies": [],
+        "headersSize": -1,
+        "bodySize": 0
+    },
+    "response": {
+        "status": 200,
+        "statusText": "",
+        "httpVersion": "h3",
+        "headers": [
+            {
+                "name": "access-control-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=86400"
+            },
+            {
+                "name": "cache-control",
+                "value": "public,max-age=31536000,immutable"
+            },
+            {
+                "name": "content-length",
+                "value": "29945"
+            },
+            {
+                "name": "content-md5",
+                "value": "klZctDZBBpD+eVdi4FyhDg=="
+            },
+            {
+                "name": "content-type",
+                "value": "image\/png"
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "date",
+                "value": "Fri, 12 Apr 2024 15:24:19 GMT"
+            },
+            {
+                "name": "document-policy",
+                "value": "force-load-at-top"
+            },
+            {
+                "name": "expires",
+                "value": "Sat, 05 Apr 2025 03:51:10 GMT"
+            },
+            {
+                "name": "last-modified",
+                "value": "Mon, 01 Jan 2001 08:00:00 GMT"
+            },
+            {
+                "name": "origin-agent-cluster",
+                "value": "?0"
+            },
+            {
+                "name": "permissions-policy",
+                "value": "accelerometer=(), attribution-reporting=(), autoplay=(), bluetooth=(), camera=(), ch-device-memory=(), ch-downlink=(), ch-ect=(), ch-rtt=(), ch-save-data=(), ch-ua-arch=(), ch-ua-bitness=(), clipboard-read=(), clipboard-write=(), display-capture=(), encrypted-media=(), fullscreen=(self), gamepad=(), geolocation=(), gyroscope=(), hid=(), idle-detection=(), keyboard-map=(), local-fonts=(), magnetometer=(), microphone=(), midi=(), otp-credentials=(), payment=(), picture-in-picture=(), publickey-credentials-get=(), screen-wake-lock=(), serial=(), usb=(), window-management=(), xr-spatial-tracking=();report-to=\"permissions_policy\""
+            },
+            {
+                "name": "priority",
+                "value": "u=3,i"
+            },
+            {
+                "name": "report-to",
+                "value": "{\"max_age\":21600,\"endpoints\":[{\"url\":\"https:\\\/\\\/www.facebook.com\\\/ajax\\\/browser_error_reports\\\/\"}],\"group\":\"permissions_policy\"}"
+            },
+            {
+                "name": "reporting-endpoints",
+                "value": "permissions_policy=\"https:\/\/www.facebook.com\/ajax\/browser_error_reports\/\""
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "x-fb-connection-quality",
+                "value": "MODERATE; q=0.3, rtt=190, rtx=0, c=137, mss=1232, tbw=147404, tp=142, tpl=0, uplat=0, ullat=-1"
+            },
+            {
+                "name": "x-fb-debug",
+                "value": "g0urxhGG6NfKZpHyOLt7QTcKAK4BaH1vQIXaY7pLJY+tTSfLOVIrnd4bhf2pFNLDL0HXvQzED7SXR29EOfcooA=="
+            }
+        ],
+        "cookies": [],
+        "content": {
+            "size": 29945,
+            "mimeType": "image\/png"
+        },
+        "redirectURL": "",
+        "headersSize": -1,
+        "bodySize": -1,
+        "_transferSize": 30087,
+        "_error": null
+    },
+    "serverIPAddress": "[2a03:2880:f242:1cb:face:b00c:0:43fe]",
+    "startedDateTime": "2024-04-12T15:24:18.026Z",
+    "time": 169.15699999663047,
+    "timings": {
+        "blocked": 4.152999997019302,
+        "dns": -1,
+        "ssl": -1,
+        "connect": -1,
+        "send": 0.371,
+        "wait": 156.6549999981532,
+        "receive": 7.9780000014579855,
+        "_blocked_queueing": 3.386999997019302
+    }
+}
