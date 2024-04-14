@@ -1,6 +1,7 @@
 {
     "require": {
         "phpfastcache/phpfastcache": "^9.2",
-        "raiym/instagram-php-scraper": "^0.12.9"
+        "raiym/instagram-php-scraper": "^0.12.9",
+        "guzzlehttp/guzzle": "^7.8"
     }
 }
