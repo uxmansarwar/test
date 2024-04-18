@@ -1,0 +1,15 @@
+{
+    "request": [
+        {
+            "name": "fr",
+            "value": "07ynoY5l2jo2mFaZd.AWUWviK_utgHbJi1Xke2gpsRWW0.BmGNEW..AAA.0.0.BmGNEW.AWX66igkQvQ",
+            "path": "\/",
+            "domain": ".facebook.com",
+            "expires": "2024-07-11T06:13:41.729Z",
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        }
+    ],
+    "response": []
+}

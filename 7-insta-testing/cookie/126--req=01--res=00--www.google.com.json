@@ -1,0 +1,15 @@
+{
+    "request": [
+        {
+            "name": "NID",
+            "value": "513=BMURrzFzVmc-Eq9CBWH2CmeO0XGtNd7iVGK8aptF2nEPweTsUAle3zkKEyCxnXe1Faz4prgZ8UAyV04Fsw-BF4jTzE_t5W8CNXVMYSwbzUx7nVd2DFV0nlhV8N-e0uS8gqUaOeTYf4aDkttshiTrIGD6vq55mYJ5YeevwpVRQPk",
+            "path": "\/",
+            "domain": ".google.com",
+            "expires": "2024-10-18T19:58:30.430Z",
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        }
+    ],
+    "response": []
+}

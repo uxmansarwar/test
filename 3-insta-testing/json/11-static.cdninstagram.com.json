@@ -1,0 +1,210 @@
+{
+    "_initiator": {
+        "type": "parser",
+        "url": "https:\/\/www.instagram.com\/",
+        "lineNumber": 7
+    },
+    "_priority": "High",
+    "_resourceType": "other",
+    "cache": [],
+    "pageref": "page_1",
+    "request": {
+        "method": "GET",
+        "url": "https:\/\/static.cdninstagram.com\/rsrc-translations.php\/v6izan4\/yS\/l\/en_US\/ZC0uTymPFi8HzzQyzZ3zNRu9xcXTmwcxe6BFJQUsUw5JKOfiw_6dRL-3JiiABs2EAGGrj0qPeNo3qITMTcK13AweYdJ2H1oYpRXOL-_9LKU49WZ-2Xes2ypAU4rhG6u_TiI95Ppx2hs_Ch8euioHV7otkxOnmSaduO8mPAMBI80zJOUISlZbjJEW5RLA-fUTUKZ8rmqD-jbnwmz6FcRYoJlGbYMGL7ybOSq2QJYS_38TchtxxXq9PrmLfknwqrTz6SfrQeceiLXwx544FyyTa-ZDR8RuD2QrPpHchEnFZE0dilX6A_JqvsWqehdEtWwygKaBVpywd2.js?_nc_x=Ij3Wp8lg5Kz",
+        "httpVersion": "h3",
+        "headers": [
+            {
+                "name": ":authority",
+                "value": "static.cdninstagram.com"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "\/rsrc-translations.php\/v6izan4\/yS\/l\/en_US\/ZC0uTymPFi8HzzQyzZ3zNRu9xcXTmwcxe6BFJQUsUw5JKOfiw_6dRL-3JiiABs2EAGGrj0qPeNo3qITMTcK13AweYdJ2H1oYpRXOL-_9LKU49WZ-2Xes2ypAU4rhG6u_TiI95Ppx2hs_Ch8euioHV7otkxOnmSaduO8mPAMBI80zJOUISlZbjJEW5RLA-fUTUKZ8rmqD-jbnwmz6FcRYoJlGbYMGL7ybOSq2QJYS_38TchtxxXq9PrmLfknwqrTz6SfrQeceiLXwx544FyyTa-ZDR8RuD2QrPpHchEnFZE0dilX6A_JqvsWqehdEtWwygKaBVpywd2.js?_nc_x=Ij3Wp8lg5Kz"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "*\/*"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br, zstd"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "origin",
+                "value": "https:\/\/www.instagram.com"
+            },
+            {
+                "name": "referer",
+                "value": "https:\/\/www.instagram.com\/"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Google Chrome\";v=\"123\", \"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"123\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "empty"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "cross-site"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/123.0.0.0 Safari\/537.36"
+            }
+        ],
+        "queryString": [
+            {
+                "name": "_nc_x",
+                "value": "Ij3Wp8lg5Kz"
+            }
+        ],
+        "cookies": [],
+        "headersSize": -1,
+        "bodySize": 0
+    },
+    "response": {
+        "status": 200,
+        "statusText": "",
+        "httpVersion": "h3",
+        "headers": [
+            {
+                "name": "access-control-allow-origin",
+                "value": "https:\/\/www.instagram.com"
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=86400"
+            },
+            {
+                "name": "cache-control",
+                "value": "public,max-age=31536000,immutable"
+            },
+            {
+                "name": "content-encoding",
+                "value": "zstd"
+            },
+            {
+                "name": "content-length",
+                "value": "4076"
+            },
+            {
+                "name": "content-md5",
+                "value": "HBjCHNSSsqpilXY3WPCEpg=="
+            },
+            {
+                "name": "content-type",
+                "value": "application\/json"
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "date",
+                "value": "Fri, 12 Apr 2024 09:45:54 GMT"
+            },
+            {
+                "name": "document-policy",
+                "value": "force-load-at-top"
+            },
+            {
+                "name": "expires",
+                "value": "Sat, 12 Apr 2025 09:42:21 GMT"
+            },
+            {
+                "name": "last-modified",
+                "value": "Mon, 01 Jan 2001 08:00:00 GMT"
+            },
+            {
+                "name": "origin-agent-cluster",
+                "value": "?0"
+            },
+            {
+                "name": "permissions-policy",
+                "value": "accelerometer=(), attribution-reporting=(), autoplay=(), bluetooth=(), camera=(), ch-device-memory=(), ch-downlink=(), ch-ect=(), ch-rtt=(), ch-save-data=(), ch-ua-arch=(), ch-ua-bitness=(), clipboard-read=(), clipboard-write=(), display-capture=(), encrypted-media=(), fullscreen=(self), gamepad=(), geolocation=(), gyroscope=(), hid=(), idle-detection=(), keyboard-map=(), local-fonts=(), magnetometer=(), microphone=(), midi=(), otp-credentials=(), payment=(), picture-in-picture=(), publickey-credentials-get=(), screen-wake-lock=(), serial=(), usb=(), window-management=(), xr-spatial-tracking=();report-to=\"permissions_policy\""
+            },
+            {
+                "name": "priority",
+                "value": "u=1,i"
+            },
+            {
+                "name": "report-to",
+                "value": "{\"max_age\":21600,\"endpoints\":[{\"url\":\"https:\\\/\\\/www.facebook.com\\\/ajax\\\/browser_error_reports\\\/\"}],\"group\":\"permissions_policy\"}"
+            },
+            {
+                "name": "reporting-endpoints",
+                "value": "permissions_policy=\"https:\/\/www.facebook.com\/ajax\/browser_error_reports\/\""
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "vary",
+                "value": "Origin"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "x-fb-connection-quality",
+                "value": "UNKNOWN; q=-1, rtt=-1, rtx=0, c=30, mss=1232, tbw=37424, tp=34, tpl=0, uplat=4, ullat=-1"
+            },
+            {
+                "name": "x-fb-debug",
+                "value": "cbSsxiwAp1HbvepU2RQ9XeSuiylKdamqO3Hr9bpxlMoj21CM2dlBAv\/8HC3nl8iAPi2Lz2wAyH3MvYu23pX28A=="
+            }
+        ],
+        "cookies": [],
+        "content": {
+            "size": 8520,
+            "mimeType": "application\/json",
+            "text": "{\"translations\":{\"BgrwWgO4vhT\":\"Back\",\"XbFHOm0CXVO\":\"Close\",\"Qa1B0hi6tHx\":\"Sensitive content overlay icon\",\"NfL6Gzk59Iv\":\"False information overlay icon\",\"QoLghYsrpZ1\":\"Warning icon glyph\",\"C3louBwQs9Y\":\"False news icon\",\"fmISubiHMDZ\":\"{value} hundred-million\",\"s8c8XPzSLoy\":\"{value} ten-thousand\",\"OTTYNCdI6uM\":\"N\\\/A\",\"4eYkqzuui-H\":\"Now\",\"JPQPNpOOgEq\":\"{seconds}s\",\"pmb5qFrm4ZG\":\"{seconds} seconds ago\",\"Dmzi1zraR7r\":\"1m\",\"j_T3KNbRapJ\":\"{minutes}m\",\"rpiC4aez6Aw\":\"1 minute ago\",\"umLHiCNUAg8\":\"{minutes} minutes ago\",\"V8YsjsS9WSl\":\"1h\",\"HuU2_4862X7\":\"{hours}h\",\"ehBXrjq7799\":\"1 hour ago\",\"d9opDaRPADb\":\"{hours} hours ago\",\"MOpDm-XqzIh\":\"1d\",\"iKwabTDgQKw\":\"{days}d\",\"J-feraOUjzi\":\"1 day ago\",\"teiff_9zOwz\":\"{days} days ago\",\"v2R-Wm968ob\":\"1w\",\"A8UH03q0k6f\":\"{weeks}w\",\"XcCF79Ujhug\":\"1 week ago\",\"o-__GLkZKKT\":\"{weeks} weeks ago\",\"tnRfHlva-bL\":\"Close\",\"sqTeJmgA5ut\":\"Back\",\"EubW9vzR0uu\":\"Instagram\",\"dCvr8kNdRrw\":\"Hashtag\",\"iMWvQc3_UEr\":\"Keyword\",\"RXVewlPFW_g\":\"Location\",\"ZSUsRuRXnB_\":\"No recent searches.\",\"FMGq1f-0XX4\":\"Clear all\",\"1xxA_I7cGPF\":\"Recent\",\"tgrR6V-77NI\":\"Suggested\",\"SCV91CYXepQ\":\"See more...\",\"HIUf8wVYt2h\":\"Navigate to next item\",\"5v8n2pcAWk6\":\"Navigate to previous item\",\"NHiceOrmVtO\":\"You've reached your daily time limit\",\"vwUP484w9OH\":\"It's time to close Instagram\",\"zPTDotQeAB8\":\"Learn more\",\"qXCzkeIexNo\":\"10 more minutes on Instagram today\",\"FSbED0z1dyk\":\"You have 10 more minutes on Instagram today\",\"qvpsfLxjQys\":\"After that, the app will be locked until tomorrow.\",\"frIbRy_Dq4b\":\"You'll be able to use it again tomorrow.\",\"ldrp23dkva5\":\"You've reached the end of your allowed time today.\",\"dwqMHcmSGQ1\":\"OK\",\"jTXGZla1_J7\":\"You're on a scheduled break\",\"B1UJ0pDwGoI\":\"It's time to close Instagram\",\"4vpDqKJMOvV\":\"10 more minutes until your scheduled break\",\"CsjKuUb7TTT\":\"You have 10 more minutes on Instagram today\",\"1tsiYQ_xnMA\":\"OK\",\"Y4q1nyzGwmK\":\"Settings\",\"8y_FulQv45I\":\"Ask for more time\",\"BeGrP_QH5r7\":\"More options\",\"Yh0X2szPLtE\":\"After that, the app will be locked until {end time of schedule break}.\",\"uqZ-VXAH-zT\":\"You can use Instagram again after {end time of schedule break}.\",\"3wo65R52M1l\":\"You can use it again after {scheduled_break_end_time}.\",\"ey1GMzWAFye\":\"You already spent {daily_quota} on Instagram today. You can come back tomorrow.\",\"y0pKyTBUKF9\":\"{hour_amount} and {minute_amount}\",\"AhYt9zTu6tr\":\"{guardian_username} gave you {minute_amount} more minutes\",\"AOe-GTbVzQL\":{\"*\":\"{guardian_username} gave you {num_additional_hours} more hours\",\"_1\":\"{guardian_username} gave you 1 more hour\"},\"Q-7dXxBMDp-\":\"{guardian_username} removed your time limit for today\",\"hUZAQ6K669F\":\"You can use this time throughout the day. After that, you cannot use Instagram again until tomorrow\",\"ilv0LI3J2mw\":\"Your usual time limits will resume tomorrow.\",\"76Nqs1cn4am\":\"{num_hours} hour\",\"pDS1dxloyWa\":\"{num_hours} hours\",\"WSVwBhrXrHx\":\"{num_minutes} minute\",\"ixxCh5dTfX0\":\"{num_minutes} minutes\",\"zfz-cvsBfm-\":\"Know right away when people follow you or like and comment on your photos.\",\"vD5ZkI_Rv8j\":\"Turn on Notifications\",\"d3mx4RFtZtu\":\"Turn On\",\"QqBWQO_S5_F\":\"Not Now\",\"8rzbASnIvay\":\"Unfollow \\u0040{username}?\",\"22SH6OArfZV\":\"If you change your mind, you'll have to request to follow \\u0040{username} again.\",\"mWVaLMtwRD5\":\"Account Info\",\"aJrvanifnLZ\":\"Date joined\",\"rueaEkuDtIy\":\"Account privacy changes\",\"OO4XxwZ7SYQ\":\"Password changes\",\"A_OGWqtvfR1\":\"Former email addresses\",\"mYADiT3w9Wi\":\"Former phone numbers\",\"vZ1DU33yoIZ\":\"Date of birth\",\"FZadnbo2mwd\":\"Date upgraded to cross app messaging\",\"yi6nCiT3sjA\":\"Profile Info\",\"xicPF2eAOjm\":\"Former usernames\",\"HVTi_AAz88S\":\"Former full names\",\"hM2JZe1yWti\":\"Former bio texts\",\"32y9i-ilnAI\":\"Former links in bio\",\"DMhTA9JvL36\":\"Business Profile Info\",\"P0FD0GnhRLa\":\"Switched to business account\",\"q_ELishX8wZ\":\"Connections\",\"3BP83i28QxD\":\"Current follow requests\",\"JcjWtQYg4ZU\":\"Accounts following you\",\"JctpnO-Ervb\":\"Accounts you follow\",\"o4_Id7apIhg\":\"Hashtags you follow\",\"lbR6vhlVBe1\":\"Accounts you blocked\",\"CkdZodhanPZ\":\"Accounts you hide stories from\",\"t9Qdfva6HlS\":\"Account Activity\",\"9paqPwYdse5\":\"Logins\",\"tnJSevc3rHJ\":\"Logouts\",\"SkB5Ennzxsb\":\"Search history\",\"WNVR2h3kmiv\":\"Stories Activity\",\"Ljyb0aPnM1W\":\"Polls\",\"sHlj8_lNI-x\":\"Emoji Sliders\",\"hi8xHamas6K\":\"Questions\",\"U5XBtgPgDWH\":\"Music Questions\",\"lUv4Ju40rZ3\":\"Countdowns\",\"FmTZyoS9poZ\":\"Quizzes\",\"gcJnyIKz2Hy\":\"Chats\",\"WFFbmZPk_NZ\":\"Music\",\"wEk5yceXiJt\":\"Ads\",\"gHsBT1Mgt3f\":\"Ads Interests\",\"Nx3-uhkjjK6\":\"View All\",\"kry2qt9qt8K\":\"View More\",\"e4mKGeOpmyv\":\"Clear Search History\",\"N8DeT7w2FM1\":\"Clear searches you made for accounts, locations or hashtags on Explore.\",\"ojt-coWuXgu\":\"Clear search history?\",\"mutHqa8XvO7\":\"You won't be able to undo this. If you clear your search history, you may still see accounts you've searched for as suggested results.\",\"cVtZ6d4AiJ5\":\"Not now\",\"Y6tZRLVdRA6\":\"Clear all\",\"sn-Avc1PtV3\":\"Your account doesn't have any information to show here.\",\"NflvjUCQqJa\":\"Are you sure you want to log out of your account?\",\"7aLaHM7Mm_S\":\"Log out\",\"mfBg1mR33k2\":\"Log out?\",\"at_3XB6dV7Y\":\"Search input\",\"pQimo3J2qK2\":\"No results found.\",\"KFiOBsseAHM\":\"Search\",\"e5vN8fDSHKI\":\"Clear the search box\",\"Q8zrqMZFGSW\":\"See all results\",\"BIdw3kKZzDO\":\"Internal\",\"Tki9E5b6sSW\":\"Favorites\",\"VssALDrsfr5\":\"Following\",\"k6XWbd5KCSm\":\"Past Posts\",\"KpcmkDGDpAg\":\"Add accounts to your favorites to see their posts here, starting with the most recent posts.\",\"GZavMfX_YRF\":\"Choose the accounts you can't miss out on\",\"TODE1GNlbGo\":\"Star outline icon in circle.\",\"DIEOxpVVnxo\":\"No posts yet\",\"RmWt0K_3NMk\":\"Camera outline icon in circle.\",\"JSpgjWyqieT\":\"Add from saved\",\"zeM1q44M6uY\":\"Edit collection\",\"Yi7-KhMq5bo\":\"Delete collection\",\"apOmCY61uLx\":\"New collection\",\"bodQHorjhab\":\"Collection name\",\"-_5yl2lvOFo\":\"Saved\",\"Qqjz35H9izB\":\"Saved collections\",\"QstIZ1Zhw8o\":\"alt\",\"Km7wSc2ETGw\":\"enter\",\"Op-vAMG8rI1\":\"delete\",\"id1nOkXKcjl\":\"forward delete\",\"bKqaY04PSVQ\":\"caps lock\",\"aYrdVhRm1tI\":\"shift\",\"LIB23SzcP62\":\"opt\",\"mB0Ic7ZwRl9\":\"ctrl\",\"V-4mfkMtvSJ\":\"cmd\",\"qoKM-XBkLE_\":\"esc\",\"Hrp-AL8_x-a\":\"tab\",\"H9_c_r97ZY_\":\"up\",\"ggwFyvSk6LU\":\"down\",\"Epi1xPIm62F\":\"right\",\"SlqoaJtPEUL\":\"left\",\"X_5sOoQH8Gh\":\"page up\",\"EiKL7Vp3s9G\":\"page down\",\"hRLord5PHtu\":\"home\",\"jP0i_jQyEKg\":\"end\",\"ojx_8slmkSl\":\"Space\",\"hHNIwGmtduS\":\"Question mark\",\"GIXmY8P-GeY\":\"Forward slash\",\"2HY11o2ViTU\":\"Disabled\",\"1BT0m5idyS-\":\"To Do This\",\"M6bYqjYXV2x\":\"Use Command\",\"WuYXL8sCY4_\":\"Log In\",\"tzTq97tRpk3\":\"Create new account\",\"xfyNdK0NalW\":\"Sign Up\",\"CB0r6Qgg0c-\":\"Related keyboard shortcuts\",\"w7Pm44Mudq_\":\"Related keyboard shortcuts\",\"MeiUzJeWLoG\":\"Close\",\"8GxedqeHlPv\":\"These shortcuts relate to what you're doing. They will change as you use Instagram.\",\"2rQvtLbRF3t\":\"You need to log back in.\",\"F8IHcMlOn1y\":\"Logging Out\"},\"virtual_modules\":[\"IGDSDialogHeader.react$fbt_virtual\",\"PolarisMisinformationConstants$fbt_virtual\",\"PolarisBigNumberCJKFormatter$fbt_virtual\",\"PolarisBigNumberFormatter$fbt_virtual\",\"PolarisDates$fbt_virtual\",\"CometCardedDialogLegacy.react$fbt_virtual\",\"PolarisDesktopLogoWithTitle.react$fbt_virtual\",\"PolarisSearchResultHashtagItem.react$fbt_virtual\",\"PolarisSearchResultKeywordItem.react$fbt_virtual\",\"PolarisSearchResultPlaceItem.react$fbt_virtual\",\"PolarisSearchNullStateSection.react$fbt_virtual\",\"PolarisSearchNullState.react$fbt_virtual\",\"PolarisSearchResultKeywordSection.react$fbt_virtual\",\"PolarisListWithKeyCommands.react$fbt_virtual\",\"PolarisSearchNullStateSection.next.react$fbt_virtual\",\"PolarisSearchNullState.next.react$fbt_virtual\",\"PolarisScreenTimeStrings$fbt_virtual\",\"PolarisNotificationsScreenStrings$fbt_virtual\",\"PolarisUnfollowDialogContent.react$fbt_virtual\",\"PolarisSearchResultKeywordItem.next.react$fbt_virtual\",\"PolarisSearchResultKeywordSection.next.react$fbt_virtual\",\"PolarisSearchResultHashtagItem.next.react$fbt_virtual\",\"PolarisSearchResultPlaceItem.next.react$fbt_virtual\",\"PolarisAccessDataStrings$fbt_virtual\",\"PolarisLogoutModal.react$fbt_virtual\",\"PolarisDesktopLogo.react$fbt_virtual\",\"PolarisSearchBoxTextInput.react$fbt_virtual\",\"PolarisSearchStrings$fbt_virtual\",\"PolarisInternalBadge.react$fbt_virtual\",\"PolarisFeedVariantsStrings$fbt_virtual\",\"PolarisSavedCollectionStrings$fbt_virtual\",\"translateKey$fbt_virtual\",\"getKeyboardKeyAsString$fbt_virtual\",\"KeyBlocks.react$fbt_virtual\",\"KeyInfoList.react$fbt_virtual\",\"PolarisDesktopNavLoggedOutContainer.react$fbt_virtual\",\"PolarisCompactKeyCommandDisplay.react$fbt_virtual\",\"PolarisLoggingOutDialog.react$fbt_virtual\",\"PolarisInstagramMobileLogoTitle.react$fbt_virtual\"]}"
+        },
+        "redirectURL": "",
+        "headersSize": -1,
+        "bodySize": -1,
+        "_transferSize": 4214,
+        "_error": null
+    },
+    "serverIPAddress": "157.240.227.63",
+    "startedDateTime": "2024-04-12T09:45:53.258Z",
+    "time": 1944.3989999999758,
+    "timings": {
+        "blocked": 31.765000001555077,
+        "dns": -1,
+        "ssl": -1,
+        "connect": -1,
+        "send": 0.384999999999998,
+        "wait": 1907.9829999985047,
+        "receive": 4.265999999915948,
+        "_blocked_queueing": 2.401000001555076
+    }
+}
