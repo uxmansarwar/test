@@ -1,0 +1,135 @@
+{
+    "url": "https:\/\/googleads.g.doubleclick.net\/pagead\/viewthroughconversion\/858885276\/?value=1.00&currency_code=USD&label=qGVACPj3of0DEJyZxpkD&guid=ON&script=0",
+    "request": [
+        {
+            "name": ":authority",
+            "value": "googleads.g.doubleclick.net"
+        },
+        {
+            "name": ":method",
+            "value": "GET"
+        },
+        {
+            "name": ":path",
+            "value": "\/pagead\/viewthroughconversion\/858885276\/?value=1.00&currency_code=USD&label=qGVACPj3of0DEJyZxpkD&guid=ON&script=0"
+        },
+        {
+            "name": ":scheme",
+            "value": "https"
+        },
+        {
+            "name": "accept",
+            "value": "image\/avif,image\/webp,image\/apng,image\/svg+xml,image\/*,*\/*;q=0.8"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br, zstd"
+        },
+        {
+            "name": "accept-language",
+            "value": "en-US,en;q=0.9"
+        },
+        {
+            "name": "priority",
+            "value": "u=2, i"
+        },
+        {
+            "name": "referer",
+            "value": "https:\/\/www.instagram.com\/"
+        },
+        {
+            "name": "sec-ch-ua",
+            "value": "\"Chromium\";v=\"124\", \"Google Chrome\";v=\"124\", \"Not-A.Brand\";v=\"99\""
+        },
+        {
+            "name": "sec-ch-ua-mobile",
+            "value": "?0"
+        },
+        {
+            "name": "sec-ch-ua-platform",
+            "value": "\"Windows\""
+        },
+        {
+            "name": "sec-fetch-dest",
+            "value": "image"
+        },
+        {
+            "name": "sec-fetch-mode",
+            "value": "no-cors"
+        },
+        {
+            "name": "sec-fetch-site",
+            "value": "cross-site"
+        },
+        {
+            "name": "user-agent",
+            "value": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/124.0.0.0 Safari\/537.36"
+        },
+        {
+            "name": "x-client-data",
+            "value": "CJO2yQEIorbJAQipncoBCIqMywEIk6HLAQjxmM0BCIWgzQEY2IbOAQ=="
+        }
+    ],
+    "response": [
+        {
+            "name": "alt-svc",
+            "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+        },
+        {
+            "name": "cache-control",
+            "value": "no-cache, must-revalidate"
+        },
+        {
+            "name": "content-length",
+            "value": "42"
+        },
+        {
+            "name": "content-type",
+            "value": "image\/gif"
+        },
+        {
+            "name": "cross-origin-resource-policy",
+            "value": "cross-origin"
+        },
+        {
+            "name": "date",
+            "value": "Thu, 18 Apr 2024 20:01:27 GMT"
+        },
+        {
+            "name": "expires",
+            "value": "Fri, 01 Jan 1990 00:00:00 GMT"
+        },
+        {
+            "name": "location",
+            "value": "https:\/\/www.google.com\/pagead\/1p-user-list\/858885276\/?value=1.00&currency_code=USD&label=qGVACPj3of0DEJyZxpkD&guid=ON&script=0&is_vtc=1&cid=CAQSGwB7FLtq8xreg76BrEXWj2RUXgy0rqaMo6qxyA&random=255105465"
+        },
+        {
+            "name": "p3p",
+            "value": "policyref=\"https:\/\/googleads.g.doubleclick.net\/pagead\/gcn_p3p_.xml\", CP=\"CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR\""
+        },
+        {
+            "name": "pragma",
+            "value": "no-cache"
+        },
+        {
+            "name": "server",
+            "value": "cafe"
+        },
+        {
+            "name": "set-cookie",
+            "value": "test_cookie=CheckForPermission; expires=Thu, 18-Apr-2024 20:16:27 GMT; path=\/; domain=.doubleclick.net; Secure; SameSite=none"
+        },
+        {
+            "name": "timing-allow-origin",
+            "value": "*"
+        },
+        {
+            "name": "x-content-type-options",
+            "value": "nosniff"
+        },
+        {
+            "name": "x-xss-protection",
+            "value": "0"
+        }
+    ]
+}

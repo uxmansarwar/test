@@ -1,0 +1,44 @@
+{
+    "request": [
+        {
+            "name": "csrftoken",
+            "value": "nJcMAa1GSxtC0eiv2CTAPh",
+            "path": "\/",
+            "domain": ".instagram.com",
+            "expires": "2025-04-17T19:59:56.978Z",
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "mid",
+            "value": "ZiF7vQALAAHn3aXdg_Wr5bbXSKkx",
+            "path": "\/",
+            "domain": ".instagram.com",
+            "expires": "2025-05-23T19:59:59.000Z",
+            "httpOnly": false,
+            "secure": true
+        },
+        {
+            "name": "ig_did",
+            "value": "99E1885D-DC37-437E-9CCF-AE9C2983E922",
+            "path": "\/",
+            "domain": ".instagram.com",
+            "expires": "2025-04-18T20:00:00.380Z",
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "datr",
+            "value": "vXshZrleEzoOJ-4VG-UeFbPp",
+            "path": "\/",
+            "domain": ".instagram.com",
+            "expires": "2025-05-23T20:00:00.380Z",
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        }
+    ],
+    "response": []
+}

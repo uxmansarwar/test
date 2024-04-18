@@ -1,0 +1,221 @@
+{
+    "_fromCache": "disk",
+    "_initiator": {
+        "type": "script",
+        "stack": {
+            "callFrames": [
+                {
+                    "functionName": "a",
+                    "scriptId": "6",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 59,
+                    "columnNumber": 337
+                },
+                {
+                    "functionName": "loadResources",
+                    "scriptId": "6",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 170,
+                    "columnNumber": 17088
+                },
+                {
+                    "functionName": "",
+                    "scriptId": "6",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 255,
+                    "columnNumber": 283
+                },
+                {
+                    "functionName": "applyWithGuard",
+                    "scriptId": "6",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 69,
+                    "columnNumber": 10431
+                },
+                {
+                    "functionName": "c",
+                    "scriptId": "6",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 69,
+                    "columnNumber": 11165
+                },
+                {
+                    "functionName": "O",
+                    "scriptId": "6",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 228,
+                    "columnNumber": 2291
+                },
+                {
+                    "functionName": "U",
+                    "scriptId": "6",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yh\/r\/nzRrvRgzNjX.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 228,
+                    "columnNumber": 2892
+                }
+            ],
+            "parentId": {
+                "id": "4",
+                "debuggerId": "-7540893460059987441.-8216482551931913366"
+            }
+        }
+    },
+    "_priority": "High",
+    "_resourceType": "script",
+    "cache": [],
+    "request": {
+        "method": "GET",
+        "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yw\/r\/umnsSmapohV.js?_nc_x=Ij3Wp8lg5Kz",
+        "httpVersion": "http\/2.0",
+        "headers": [
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Google Chrome\";v=\"123\", \"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"123\""
+            },
+            {
+                "name": "Referer",
+                "value": "https:\/\/www.facebook.com\/"
+            },
+            {
+                "name": "Origin",
+                "value": "https:\/\/www.facebook.com"
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "User-Agent",
+                "value": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/123.0.0.0 Safari\/537.36"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+            }
+        ],
+        "queryString": [
+            {
+                "name": "_nc_x",
+                "value": "Ij3Wp8lg5Kz"
+            }
+        ],
+        "cookies": [],
+        "headersSize": -1,
+        "bodySize": 0
+    },
+    "response": {
+        "status": 200,
+        "statusText": "",
+        "httpVersion": "http\/2.0",
+        "headers": [
+            {
+                "name": "date",
+                "value": "Fri, 12 Apr 2024 06:13:41 GMT"
+            },
+            {
+                "name": "content-encoding",
+                "value": "zstd"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "content-md5",
+                "value": "Dfcha1i\/hkSDTQHqvjH+Gw=="
+            },
+            {
+                "name": "document-policy",
+                "value": "force-load-at-top"
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=86400"
+            },
+            {
+                "name": "content-length",
+                "value": "1949"
+            },
+            {
+                "name": "reporting-endpoints",
+                "value": "permissions_policy=\"https:\/\/www.xx.facebook.com\/ajax\/browser_error_reports\/\""
+            },
+            {
+                "name": "x-fb-connection-quality",
+                "value": "EXCELLENT; q=0.9, rtt=41, rtx=1, c=218, mss=1392, tbw=284512, tp=-1, tpl=-1, uplat=1, ullat=-1"
+            },
+            {
+                "name": "x-fb-debug",
+                "value": "m5\/6UyOYWYiNI2WHgnPnyWF5Zmis+kxREDmFBuyKTBFdm7oWKdQn3o0\/DrxVTnTHgSevdtfV+G+79Z0Q49VRlw=="
+            },
+            {
+                "name": "last-modified",
+                "value": "Mon, 01 Jan 2001 08:00:00 GMT"
+            },
+            {
+                "name": "vary",
+                "value": "Origin"
+            },
+            {
+                "name": "report-to",
+                "value": "{\"max_age\":21600,\"endpoints\":[{\"url\":\"https:\\\/\\\/www.xx.facebook.com\\\/ajax\\\/browser_error_reports\\\/\"}],\"group\":\"permissions_policy\"}"
+            },
+            {
+                "name": "content-type",
+                "value": "application\/x-javascript; charset=utf-8"
+            },
+            {
+                "name": "access-control-allow-origin",
+                "value": "https:\/\/www.facebook.com"
+            },
+            {
+                "name": "origin-agent-cluster",
+                "value": "?0"
+            },
+            {
+                "name": "cache-control",
+                "value": "public,max-age=31536000,immutable"
+            },
+            {
+                "name": "permissions-policy",
+                "value": "accelerometer=(), attribution-reporting=(), autoplay=(), bluetooth=(), camera=(), ch-device-memory=(), ch-downlink=(), ch-ect=(), ch-rtt=(), ch-save-data=(), ch-ua-arch=(), ch-ua-bitness=(), clipboard-read=(), clipboard-write=(), display-capture=(), encrypted-media=(), fullscreen=(self), gamepad=(), geolocation=(), gyroscope=(), hid=(), idle-detection=(), keyboard-map=(), local-fonts=(), magnetometer=(), microphone=(), midi=(), otp-credentials=(), payment=(), picture-in-picture=(), publickey-credentials-get=(), screen-wake-lock=(), serial=(), usb=(), window-management=(), xr-spatial-tracking=();report-to=\"permissions_policy\""
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "expires",
+                "value": "Wed, 09 Apr 2025 18:56:05 GMT"
+            }
+        ],
+        "cookies": [],
+        "content": {
+            "size": 7479,
+            "mimeType": "application\/x-javascript",
+            "text": ";\/*FB_PKG_DELIM*\/\n\n__d(\"CometSuspenseList.react\",[\"react\"],(function(a,b,c,d,e,f,g){\"use strict\";var h;a=h||d(\"react\");b=a.unstable_SuspenseList;g[\"default\"]=b}),98);\n__d(\"TetraProfilePhoto.react\",[\"CometProfilePhoto.react\",\"react\"],(function(a,b,c,d,e,f,g){\"use strict\";var h,i=h||d(\"react\");function a(a,b){return i.jsx(c(\"CometProfilePhoto.react\"),babelHelpers[\"extends\"]({},a,{ref:b}))}a.displayName=a.name+\" [from \"+f.id+\"]\";b=i.forwardRef(a);g[\"default\"]=b}),98);\n__d(\"useCometIgnoreLateMutation\",[\"InteractionTracing\",\"InteractionTracingMetrics\",\"react\"],(function(a,b,c,d,e,f,g){\"use strict\";var h,i=(h||d(\"react\")).useCallback;function a(a){return i(function(b){b&&a&&c(\"InteractionTracing\").getPendingInteractions().forEach(function(a){a=c(\"InteractionTracingMetrics\").get(a.getTraceId());a!=null&&a.lateMutationIgnoreElements.add(b)})},[a])}g[\"default\"]=a}),98);\n__d(\"Qe2JsExposureFalcoEvent\",[\"FalcoLoggerInternal\",\"getFalcoLogPolicy_DO_NOT_USE\"],(function(a,b,c,d,e,f,g){\"use strict\";a=c(\"getFalcoLogPolicy_DO_NOT_USE\")(\"1837559\");b=d(\"FalcoLoggerInternal\").create(\"qe2_js_exposure\",a);e=b;g[\"default\"]=e}),98);\n__d(\"QE2Logger\",[\"Qe2JsExposureFalcoEvent\"],(function(a,b,c,d,e,f,g){\"use strict\";var h={};function a(a,b){D(a,(a=b)!=null?a:\"\",9)}function b(a,b){D(a,(a=b)!=null?a:\"\",9,!0)}function d(a){D(a,\"\",4)}function e(a){D(a,\"\",32)}function f(a){D(a,\"\",32,!0)}function i(a){D(a,\"\",54)}function j(a,b){D(a,b,3)}function k(a){D(a,\"\",5)}function l(a){D(a,\"\",5,!0)}function m(a){D(a,\"\",31)}function n(a){D(a,\"\",98)}function o(a,b){D(a,b,7)}function p(a,b){D(a,b,55)}function q(a,b){D(a,b,17)}function r(a,b){D(a,b,25)}function s(a,b){D(a,b,8)}function t(a,b){D(a,b,22)}function u(a,b){D(a,b,27)}function v(a,b){D(a,b,0)}function w(a,b){D(a,(a=b)!=null?a:\"\",89)}function x(a,b){D(a,(a=b)!=null?a:\"\",89,!0)}function y(a,b){D(a,b,60)}function z(a,b){D(a,b,90)}function A(a,b){D(a,b,144)}function B(a,b,c){D(a,b,c)}function C(a,b,c){D(a,b,c,!0)}function D(a,b,d,e){var f=a+\"|\"+b;if(h[f])return;e===!0?c(\"Qe2JsExposureFalcoEvent\").logImmediately(function(){return{universe:a,unit_id:b,unit_type:d}}):c(\"Qe2JsExposureFalcoEvent\").log(function(){return{universe:a,unit_id:b,unit_type:d}});h[f]=!0}g.logExposureForUser=a;g.logExposureForUserImmediately=b;g.logExposureForIGDjangoUser=d;g.logExposureForIGUser=e;g.logExposureForIGUserImmediately=f;g.logExposureForIGWebCookie=i;g.logExposureForEmail=j;g.logExposureForDatr=k;g.logExposureForDatrImmediately=l;g.logExposureForOculusLoggedOut=m;g.logExposureForOculusLoggedOutCookieID=n;g.logExposureForPage=o;g.logExposureForPaymentAccountID=p;g.logExposureForBusiness=q;g.logExposureForGroup=r;g.logExposureForPhoneNumber=s;g.logExposureForScimCompanyID=t;g.logExposureForAnalyticsEntityID=u;g.logExposureForAdAccountID=v;g.logExposureForActingAccount=w;g.logExposureForActingAccountImmediately=x;g.logExposureForMixedUserAndPage=y;g.logExposureForCommerceMerchantSettings=z;g.logExposureForShopifyApplicationInstallationID=A;g.logExposure=B;g.logExposureImmediately=C}),98);\n__d(\"useSinglePartialViewImpression\",[\"react\",\"usePartialViewImpression\"],(function(a,b,c,d,e,f,g){\"use strict\";var h;b=h||d(\"react\");var i=b.useCallback,j=b.useRef;function a(a){var b=a.onImpressionEnd,d=a.onImpressionStart,e=j(!1),f=j(!1);a=i(function(a){if(f.current===!0)return;b&&b(a);f.current=!0},[b]);var g=i(function(a){if(e.current===!0)return;d&&d(a);e.current=!0},[d]);return c(\"usePartialViewImpression\")({onImpressionEnd:a,onImpressionStart:g})}g[\"default\"]=a}),98);\n__d(\"CometPageletImpl.react\",[\"hero-tracing\"],(function(a,b,c,d,e,f,g){\"use strict\";g[\"default\"]=d(\"hero-tracing\").HeroPagelet}),98);\n__d(\"CometPageletWithDiv.react\",[\"CometBackupPlaceholder.react\",\"CometPlaceholder.react\",\"CometSuspenseList.react\",\"LegacyHidden\",\"cr:1191379\",\"gkx\",\"react\",\"useCometIgnoreLateMutation\",\"useMergeRefs\"],(function(a,b,c,d,e,f,g){\"use strict\";var h,i=h||d(\"react\");d=i.forwardRef(function(a,b){a=a.children;return i.jsxs(i.Fragment,{children:[\" \",a(b,function(){return null}),\" \"]})});var j=(b=b(\"cr:1191379\"))!=null?b:d;function a(a,b){var d=a.children,e=a.className,f=a.fallback,g=a.hidden,h=a.ignoreLateMutation,k=a.name,l=a.pageletAriaProps,m=a.pageletLogNamePoisitionLimit,n=a.position;a=babelHelpers.objectWithoutPropertiesLoose(a,[\"children\",\"className\",\"fallback\",\"hidden\",\"ignoreLateMutation\",\"name\",\"pageletAriaProps\",\"pageletLogNamePoisitionLimit\",\"position\"]);var o=k;m=(m=m)!=null?m:2;n!=null&&n<m?o+=\"_\"+n:n!=null&&(o+=\"_{n}\");m=c(\"gkx\")(\"26331\");var p=babelHelpers[\"extends\"]({},m?null:{\"data-pagelet\":o});m=c(\"useCometIgnoreLateMutation\")(h===!0);h=c(\"useMergeRefs\")(b,m);return i.jsx(j,babelHelpers[\"extends\"]({},a,{name:o,pageletName:k,position:n,ref:h,children:function(a,b){return i.jsxs(c(\"CometPlaceholder.react\"),{fallback:f,name:o,children:[i.jsx(b,{}),i.jsx(c(\"LegacyHidden\"),{htmlAttributes:babelHelpers[\"extends\"]({className:e},l,p),mode:g===!0?\"hidden\":\"visible\",ref:a,children:d})]})}}))}a.displayName=a.name+\" [from \"+f.id+\"]\";function e(a,b){var d=a.children,e=a.className,f=a.fallback,g=a.hidden,h=a.ignoreLateMutation,k=a.name,l=a.pageletAriaProps,m=a.pageletLogNamePoisitionLimit,n=a.position;a=babelHelpers.objectWithoutPropertiesLoose(a,[\"children\",\"className\",\"fallback\",\"hidden\",\"ignoreLateMutation\",\"name\",\"pageletAriaProps\",\"pageletLogNamePoisitionLimit\",\"position\"]);k=k;m=(m=m)!=null?m:2;n!=null&&n<m?k+=\"_\"+n:n!=null&&(k+=\"_{n}\");m=c(\"gkx\")(\"26331\");var o=babelHelpers[\"extends\"]({},m?null:{\"data-pagelet\":k});m=c(\"useCometIgnoreLateMutation\")(h===!0);h=c(\"useMergeRefs\")(b,m);return i.jsx(j,babelHelpers[\"extends\"]({},a,{name:k,position:n,ref:h,children:function(a,b){return i.jsxs(c(\"CometBackupPlaceholder.react\"),{fallback:f,children:[i.jsx(b,{}),i.jsx(c(\"LegacyHidden\"),{htmlAttributes:babelHelpers[\"extends\"]({},o,l,{className:e}),mode:g===!0?\"hidden\":\"visible\",ref:a,children:d})]})}}))}e.displayName=e.name+\" [from \"+f.id+\"]\";function k(a,b){var d=a.children,e=a.className,f=a.hidden,g=a.name,h=a.pageletAriaProps,k=a.position,l=a.revealOrder,m=a.tail;a=babelHelpers.objectWithoutPropertiesLoose(a,[\"children\",\"className\",\"hidden\",\"name\",\"pageletAriaProps\",\"position\",\"revealOrder\",\"tail\"]);g=g;k!=null&&k<2?g+=\"_\"+k:k!=null&&(g+=\"_{n}\");var n=c(\"gkx\")(\"26331\"),o=babelHelpers[\"extends\"]({},n?null:{\"data-pagelet\":g});return i.jsx(j,babelHelpers[\"extends\"]({},a,{name:g,position:k,ref:b,children:function(a,b){return i.jsxs(c(\"LegacyHidden\"),{htmlAttributes:babelHelpers[\"extends\"]({className:e},h,o),mode:f===!0?\"hidden\":\"visible\",ref:a,children:[i.jsx(b,{}),i.jsx(c(\"CometSuspenseList.react\"),{revealOrder:l,tail:m,children:d})]})}}))}k.displayName=k.name+\" [from \"+f.id+\"]\";function l(a,b){var d=a.children,e=a.className,f=a.hidden,g=a.name,h=a.pageletAriaProps,k=a.position;a=babelHelpers.objectWithoutPropertiesLoose(a,[\"children\",\"className\",\"hidden\",\"name\",\"pageletAriaProps\",\"position\"]);g=g;k!=null&&k<2?g+=\"_\"+k:k!=null&&(g+=\"_{n}\");var l=c(\"gkx\")(\"26331\"),m=babelHelpers[\"extends\"]({},l?null:{\"data-pagelet\":g});return i.jsx(j,babelHelpers[\"extends\"]({},a,{name:g,position:k,ref:b,children:function(a,b){return i.jsxs(i.Fragment,{children:[i.jsx(b,{}),i.jsx(c(\"LegacyHidden\"),{htmlAttributes:babelHelpers[\"extends\"]({},m,h,{className:e}),mode:f===!0?\"hidden\":\"visible\",ref:a,children:d})]})}}))}l.displayName=l.name+\" [from \"+f.id+\"]\";b=i.forwardRef(e);d=i.forwardRef(a);f=i.forwardRef(k);e=i.forwardRef(l);g.BackupPlaceholder=b;g.Placeholder=d;g.SuspenseList=f;g.Div=e}),98);"
+        },
+        "redirectURL": "",
+        "headersSize": -1,
+        "bodySize": 0,
+        "_transferSize": 0,
+        "_error": null
+    },
+    "serverIPAddress": "157.240.227.13",
+    "startedDateTime": "2024-04-12T09:46:02.155Z",
+    "time": 25.06799999900977,
+    "timings": {
+        "blocked": 23.474999997789272,
+        "dns": -1,
+        "ssl": -1,
+        "connect": -1,
+        "send": 0,
+        "wait": 0.9219999996176921,
+        "receive": 0.6710000016028062,
+        "_blocked_queueing": 23.344999997789273
+    }
+}
