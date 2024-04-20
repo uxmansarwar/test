@@ -1,1 +1,36 @@
 ":"Zh2KFwALAAFidQKCJT6BHKZFl52L","send_device_id_header":true,"e2e_config"
+
+
+
+
+
+  -cookies: array:2 [▼
+    0 => GuzzleHttp\Cookie\SetCookie {#577 ▼
+      -data: array:10 [▼
+        "Name" => "ig_did"
+        "Value" => "81C7C463-E960-4C93-BA10-1622ADFAFA34"
+        "Domain" => ".instagram.com"
+        "Path" => "/"
+        "Max-Age" => 31536000000
+        "Expires" => 1744747927
+        "Secure" => true
+        "Discard" => false
+        "HttpOnly" => false
+        "SameSite" => "None"
+      ]
+    }
+    1 => GuzzleHttp\Cookie\SetCookie {#573 ▼
+      -data: array:10 [▼
+        "Name" => "datr"
+        "Value" => "F4odZtjr-cya_bYVMew-eIiH"
+        "Domain" => ".instagram.com"
+        "Path" => "/"
+        "Max-Age" => 34560000000
+        "Expires" => 1747771927
+        "Secure" => true
+        "Discard" => false
+        "HttpOnly" => false
+        "SameSite" => "None"
+      ]
+    }
+  ]

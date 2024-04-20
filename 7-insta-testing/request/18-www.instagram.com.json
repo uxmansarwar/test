@@ -1,0 +1,185 @@
+{
+    "_initiator": {
+        "type": "other"
+    },
+    "_priority": "Medium",
+    "_resourceType": "manifest",
+    "cache": [],
+    "pageref": "page_7",
+    "request": {
+        "method": "GET",
+        "url": "https:\/\/www.instagram.com\/data\/manifest.json",
+        "httpVersion": "h3",
+        "headers": [
+            {
+                "name": ":authority",
+                "value": "www.instagram.com"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "\/data\/manifest.json"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "*\/*"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br, zstd"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "cookie",
+                "value": "csrftoken=nJcMAa1GSxtC0eiv2CTAPh"
+            },
+            {
+                "name": "dpr",
+                "value": "1"
+            },
+            {
+                "name": "priority",
+                "value": "u=2"
+            },
+            {
+                "name": "referer",
+                "value": "https:\/\/www.instagram.com\/"
+            },
+            {
+                "name": "sec-ch-prefers-color-scheme",
+                "value": "dark"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"124\", \"Google Chrome\";v=\"124\", \"Not-A.Brand\";v=\"99\""
+            },
+            {
+                "name": "sec-ch-ua-full-version-list",
+                "value": "\"Chromium\";v=\"124.0.6367.60\", \"Google Chrome\";v=\"124.0.6367.60\", \"Not-A.Brand\";v=\"99.0.0.0\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-model",
+                "value": "\"\""
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+            },
+            {
+                "name": "sec-ch-ua-platform-version",
+                "value": "\"10.0.0\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "manifest"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "same-origin"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/124.0.0.0 Safari\/537.36"
+            }
+        ],
+        "queryString": [],
+        "cookies": [
+            {
+                "name": "csrftoken",
+                "value": "nJcMAa1GSxtC0eiv2CTAPh",
+                "path": "\/",
+                "domain": ".instagram.com",
+                "expires": "2025-04-17T19:59:56.978Z",
+                "httpOnly": false,
+                "secure": true,
+                "sameSite": "None"
+            }
+        ],
+        "headersSize": -1,
+        "bodySize": 0
+    },
+    "response": {
+        "status": 301,
+        "statusText": "",
+        "httpVersion": "h3",
+        "headers": [
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=86400"
+            },
+            {
+                "name": "content-length",
+                "value": "0"
+            },
+            {
+                "name": "content-type",
+                "value": "text\/html; charset=\"utf-8\""
+            },
+            {
+                "name": "date",
+                "value": "Thu, 18 Apr 2024 20:00:00 GMT"
+            },
+            {
+                "name": "location",
+                "value": "https:\/\/www.instagram.com\/data\/manifest.json\/"
+            },
+            {
+                "name": "priority",
+                "value": "u=2"
+            },
+            {
+                "name": "strict-transport-security",
+                "value": "max-age=31536000; preload; includeSubDomains"
+            },
+            {
+                "name": "x-fb-debug",
+                "value": "mHIVDnQ2Ued\/EsZbcbGXCpOeRWnzOxQ3avLtzTt\/wwscqKtjTnnaZyIhO0sORJCain9pQ+aqeS\/YvQy0UIZNfw=="
+            },
+            {
+                "name": "x-stack",
+                "value": "www"
+            }
+        ],
+        "cookies": [],
+        "content": {
+            "size": 0,
+            "mimeType": "text\/html"
+        },
+        "redirectURL": "https:\/\/www.instagram.com\/data\/manifest.json\/",
+        "headersSize": -1,
+        "bodySize": -1,
+        "_transferSize": 96,
+        "_error": null
+    },
+    "serverIPAddress": "157.240.227.174",
+    "startedDateTime": "2024-04-18T19:59:59.354Z",
+    "time": 490.9259999999449,
+    "timings": {
+        "blocked": 49.08899999997628,
+        "dns": -1,
+        "ssl": -1,
+        "connect": -1,
+        "send": 0.4170000000000016,
+        "wait": 281.83699999985714,
+        "receive": 159.5830000001115,
+        "_blocked_queueing": 0.9549999999762804
+    }
+}

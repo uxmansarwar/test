@@ -1,0 +1,378 @@
+{
+    "_initiator": {
+        "type": "script",
+        "stack": {
+            "callFrames": [
+                {
+                    "functionName": "f.send",
+                    "scriptId": "14",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3ij9m4\/yc\/l\/en_GB\/VvUu0xJrzJq.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 161,
+                    "columnNumber": 25349
+                },
+                {
+                    "functionName": "b.send",
+                    "scriptId": "13",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/y8\/r\/I3UunANzMRQ.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 2,
+                    "columnNumber": 885
+                },
+                {
+                    "functionName": "j",
+                    "scriptId": "17",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yr\/r\/rDfxXVey7Pn.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 2,
+                    "columnNumber": 856
+                },
+                {
+                    "functionName": "",
+                    "scriptId": "17",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yr\/r\/rDfxXVey7Pn.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 2,
+                    "columnNumber": 1677
+                },
+                {
+                    "functionName": "applyWithGuard",
+                    "scriptId": "5",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yb\/r\/G3Nm7rYDpD0.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 69,
+                    "columnNumber": 10431
+                },
+                {
+                    "functionName": "c",
+                    "scriptId": "5",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yb\/r\/G3Nm7rYDpD0.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 69,
+                    "columnNumber": 11165
+                },
+                {
+                    "functionName": "applyWithGuard",
+                    "scriptId": "5",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yb\/r\/G3Nm7rYDpD0.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 69,
+                    "columnNumber": 10431
+                },
+                {
+                    "functionName": "c.fire",
+                    "scriptId": "14",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3ij9m4\/yc\/l\/en_GB\/VvUu0xJrzJq.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 111,
+                    "columnNumber": 7400
+                },
+                {
+                    "functionName": "",
+                    "scriptId": "14",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3ij9m4\/yc\/l\/en_GB\/VvUu0xJrzJq.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 111,
+                    "columnNumber": 6558
+                },
+                {
+                    "functionName": "applyWithGuard",
+                    "scriptId": "5",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yb\/r\/G3Nm7rYDpD0.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 69,
+                    "columnNumber": 10431
+                },
+                {
+                    "functionName": "c",
+                    "scriptId": "5",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yb\/r\/G3Nm7rYDpD0.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 69,
+                    "columnNumber": 11165
+                },
+                {
+                    "functionName": "",
+                    "scriptId": "14",
+                    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3ij9m4\/yc\/l\/en_GB\/VvUu0xJrzJq.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 103,
+                    "columnNumber": 196
+                }
+            ]
+        }
+    },
+    "_priority": "High",
+    "_resourceType": "xhr",
+    "cache": [],
+    "request": {
+        "method": "GET",
+        "url": "https:\/\/www.facebook.com\/instagram\/sync\/?fb_dtsg_ag&__user=0&__a=1&__req=1&__hs=19831.HYP%3Acomet_loggedout_pkg.2.1..0.0&dpr=1&__ccg=EXCELLENT&__rev=1012883529&__s=xzkw0q%3Aotu3lm%3Aq12hnq&__hsi=7359299830379460113&__dyn=7wKwlE7ibwKBAg35xu13w8CewSwMwfG0lW4o0B-q1ew65wce0yE1VohwnU1oU1O81u83mwaS0zE5W0PU1AE17U2ZwrU1Xo1UU&__csr=kBXGh5KGy8ng-A2K78W0CEWl1aawHzUtwjU5-1wCDgC4Ugwdi5V85K7e0wbyUvyo01Qcoy07q803ko8&__comet_req=15&__spin_r=1012883529&__spin_b=trunk&__spin_t=1713470516",
+        "httpVersion": "h3",
+        "headers": [
+            {
+                "name": ":authority",
+                "value": "www.facebook.com"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "\/instagram\/sync\/?fb_dtsg_ag&__user=0&__a=1&__req=1&__hs=19831.HYP%3Acomet_loggedout_pkg.2.1..0.0&dpr=1&__ccg=EXCELLENT&__rev=1012883529&__s=xzkw0q%3Aotu3lm%3Aq12hnq&__hsi=7359299830379460113&__dyn=7wKwlE7ibwKBAg35xu13w8CewSwMwfG0lW4o0B-q1ew65wce0yE1VohwnU1oU1O81u83mwaS0zE5W0PU1AE17U2ZwrU1Xo1UU&__csr=kBXGh5KGy8ng-A2K78W0CEWl1aawHzUtwjU5-1wCDgC4Ugwdi5V85K7e0wbyUvyo01Qcoy07q803ko8&__comet_req=15&__spin_r=1012883529&__spin_b=trunk&__spin_t=1713470516"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "*\/*"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br, zstd"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "cookie",
+                "value": "fr=0utHKZTqWP9DbBzjs.AWWzkLKHd-QXEm7gAeOiBjQpt6E.BmIXwc..AAA.0.0.BmIXwc.AWVj3CoPjts"
+            },
+            {
+                "name": "priority",
+                "value": "u=1, i"
+            },
+            {
+                "name": "referer",
+                "value": "https:\/\/www.facebook.com\/instagram\/login_sync\/"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"124\", \"Google Chrome\";v=\"124\", \"Not-A.Brand\";v=\"99\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "empty"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "same-origin"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/124.0.0.0 Safari\/537.36"
+            },
+            {
+                "name": "x-asbd-id",
+                "value": "129477"
+            },
+            {
+                "name": "x-fb-lsd",
+                "value": "AVpObwLW0NM"
+            }
+        ],
+        "queryString": [
+            {
+                "name": "fb_dtsg_ag",
+                "value": ""
+            },
+            {
+                "name": "__user",
+                "value": "0"
+            },
+            {
+                "name": "__a",
+                "value": "1"
+            },
+            {
+                "name": "__req",
+                "value": "1"
+            },
+            {
+                "name": "__hs",
+                "value": "19831.HYP%3Acomet_loggedout_pkg.2.1..0.0"
+            },
+            {
+                "name": "dpr",
+                "value": "1"
+            },
+            {
+                "name": "__ccg",
+                "value": "EXCELLENT"
+            },
+            {
+                "name": "__rev",
+                "value": "1012883529"
+            },
+            {
+                "name": "__s",
+                "value": "xzkw0q%3Aotu3lm%3Aq12hnq"
+            },
+            {
+                "name": "__hsi",
+                "value": "7359299830379460113"
+            },
+            {
+                "name": "__dyn",
+                "value": "7wKwlE7ibwKBAg35xu13w8CewSwMwfG0lW4o0B-q1ew65wce0yE1VohwnU1oU1O81u83mwaS0zE5W0PU1AE17U2ZwrU1Xo1UU"
+            },
+            {
+                "name": "__csr",
+                "value": "kBXGh5KGy8ng-A2K78W0CEWl1aawHzUtwjU5-1wCDgC4Ugwdi5V85K7e0wbyUvyo01Qcoy07q803ko8"
+            },
+            {
+                "name": "__comet_req",
+                "value": "15"
+            },
+            {
+                "name": "__spin_r",
+                "value": "1012883529"
+            },
+            {
+                "name": "__spin_b",
+                "value": "trunk"
+            },
+            {
+                "name": "__spin_t",
+                "value": "1713470516"
+            }
+        ],
+        "cookies": [
+            {
+                "name": "fr",
+                "value": "0utHKZTqWP9DbBzjs.AWWzkLKHd-QXEm7gAeOiBjQpt6E.BmIXwc..AAA.0.0.BmIXwc.AWVj3CoPjts",
+                "path": "\/",
+                "domain": ".facebook.com",
+                "expires": "2024-07-17T20:01:31.721Z",
+                "httpOnly": true,
+                "secure": true,
+                "sameSite": "None"
+            }
+        ],
+        "headersSize": -1,
+        "bodySize": 0
+    },
+    "response": {
+        "status": 200,
+        "statusText": "",
+        "httpVersion": "h3",
+        "headers": [
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=86400"
+            },
+            {
+                "name": "cache-control",
+                "value": "private, no-cache, no-store, must-revalidate"
+            },
+            {
+                "name": "content-encoding",
+                "value": "zstd"
+            },
+            {
+                "name": "content-type",
+                "value": "application\/x-javascript; charset=utf-8"
+            },
+            {
+                "name": "cross-origin-embedder-policy-report-only",
+                "value": "require-corp;report-to=\"coep_report\""
+            },
+            {
+                "name": "cross-origin-opener-policy",
+                "value": "same-origin-allow-popups;report-to=\"coop_report\""
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "date",
+                "value": "Thu, 18 Apr 2024 20:02:01 GMT"
+            },
+            {
+                "name": "document-policy",
+                "value": "force-load-at-top"
+            },
+            {
+                "name": "expires",
+                "value": "Sat, 01 Jan 2000 00:00:00 GMT"
+            },
+            {
+                "name": "origin-agent-cluster",
+                "value": "?0"
+            },
+            {
+                "name": "permissions-policy",
+                "value": "accelerometer=(), attribution-reporting=(self), autoplay=(), bluetooth=(), camera=(self), ch-device-memory=(), ch-downlink=(), ch-ect=(), ch-rtt=(), ch-save-data=(), ch-ua-arch=(), ch-ua-bitness=(), ch-viewport-height=(), ch-viewport-width=(), ch-width=(), clipboard-read=(self), clipboard-write=(self), display-capture=(self), encrypted-media=(self), fullscreen=(self), gamepad=*, geolocation=(self), gyroscope=(), hid=(), idle-detection=(), keyboard-map=(), local-fonts=(), magnetometer=(), microphone=(self), midi=(), otp-credentials=(), payment=(), picture-in-picture=(self), publickey-credentials-get=(self), screen-wake-lock=(), serial=(), usb=(), window-management=(), xr-spatial-tracking=(self);report-to=\"permissions_policy\""
+            },
+            {
+                "name": "pragma",
+                "value": "no-cache"
+            },
+            {
+                "name": "priority",
+                "value": "u=1,i"
+            },
+            {
+                "name": "report-to",
+                "value": "{\"max_age\":2592000,\"endpoints\":[{\"url\":\"https:\\\/\\\/www.facebook.com\\\/browser_reporting\\\/coop\\\/?minimize=0\"}],\"group\":\"coop_report\",\"include_subdomains\":true}, {\"max_age\":86400,\"endpoints\":[{\"url\":\"https:\\\/\\\/www.facebook.com\\\/browser_reporting\\\/coep\\\/?minimize=0\"}],\"group\":\"coep_report\"}, {\"max_age\":259200,\"endpoints\":[{\"url\":\"https:\\\/\\\/www.facebook.com\\\/ajax\\\/comet_error_reports\\\/?device_level=unknown\"}]}, {\"max_age\":21600,\"endpoints\":[{\"url\":\"https:\\\/\\\/www.facebook.com\\\/ajax\\\/browser_error_reports\\\/\"}],\"group\":\"permissions_policy\"}"
+            },
+            {
+                "name": "reporting-endpoints",
+                "value": "coop_report=\"https:\/\/www.facebook.com\/browser_reporting\/coop\/?minimize=0\", coep_report=\"https:\/\/www.facebook.com\/browser_reporting\/coep\/?minimize=0\", default=\"https:\/\/www.facebook.com\/ajax\/comet_error_reports\/?device_level=unknown\", permissions_policy=\"https:\/\/www.facebook.com\/ajax\/browser_error_reports\/\""
+            },
+            {
+                "name": "strict-transport-security",
+                "value": "max-age=15552000; preload"
+            },
+            {
+                "name": "vary",
+                "value": "Accept-Encoding"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "x-fb-connection-quality",
+                "value": "GOOD; q=0.7, rtt=65, rtx=0, c=39, mss=1232, tbw=31929, tp=51, tpl=0, uplat=199, ullat=0"
+            },
+            {
+                "name": "x-fb-debug",
+                "value": "vCfBjOSu4NnFCZvNm7TH2I0NpW56hJfU\/vnQCDj20Q7tBXmUkJ4ngflxuRXJC5js25zWIhxEX\/+B2+JXKKM1iQ=="
+            },
+            {
+                "name": "x-frame-options",
+                "value": "DENY"
+            }
+        ],
+        "cookies": [],
+        "content": {
+            "size": 137,
+            "mimeType": "application\/x-javascript",
+            "text": "for (;;);{\"__ar\":1,\"payload\":{\"data\":\"ASA5H42k4tKahI3weQH9Ck0SxbLe_eXlA36olcDwTfKD1kCpsC9aS-4fiwKqMPxiNADC\"},\"lid\":\"7359299852326737483\"}"
+        },
+        "redirectURL": "",
+        "headersSize": -1,
+        "bodySize": -1,
+        "_transferSize": 263,
+        "_error": null
+    },
+    "serverIPAddress": "157.240.227.35",
+    "startedDateTime": "2024-04-18T20:02:00.419Z",
+    "time": 253.24999999975262,
+    "timings": {
+        "blocked": 2.4619999999210993,
+        "dns": -1,
+        "ssl": -1,
+        "connect": -1,
+        "send": 0.385,
+        "wait": 249.24600000013785,
+        "receive": 1.156999999693653,
+        "_blocked_queueing": 1.2019999999210995
+    }
+}
