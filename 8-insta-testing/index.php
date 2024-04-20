@@ -1,6 +1,6 @@
 <?php
 
-$content = file_get_contents('.cache/www.instagram.com.har');
+$content = file_get_contents('.cache/www.instagram.com-same-session.har');
 $content = json_decode($content, true);
 
 $dir = ['.cache', 'header', 'request', 'cookie', 'response-cookie'];
@@ -10,8 +10,10 @@ foreach ($dir as $d)
 
 $n_res_cookie = 0;
 $n = 0;
+$request_url = [];
 foreach ($content as $k => $v)
     foreach ($v['entries'] as $key => $entry) {
+    $request_url[] = $entry['request']['url'];
         $url = parse_url($entry['request']['url']);
         $url = trim($url['host'], '/');
         $num = ++$n;
@@ -53,3 +55,6 @@ foreach ($content as $k => $v)
         // if ($n > 50)
         //     exit;
     }
+
+
+file_put_contents('url.txt', implode(PHP_EOL, $request_url));
