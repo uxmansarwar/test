@@ -20,11 +20,10 @@ foreach ($content as $k => $v)
         $file_path = 'request/' . $num . '-' .  str_ireplace(['https://', 'http://', '/'], ['', '', '--'], $url) . '.php';
         file_put_contents($file_path, '<?php ' . PHP_EOL . 'return ' . var_export($entry, true));
 
-        // if (empty(json_encode($entry, JSON_PRETTY_PRINT, 5)) || empty($entry)) {
-        //     var_dump($entry);
 
-        //     exit;
-        // }
+    $file_path = 'request/' . $num . '-' .  str_ireplace(['https://', 'http://', '/'], ['', '', '--'], $url) . '.json';
+    file_put_contents($file_path, json_encode($entry, JSON_PRETTY_PRINT, 5));
+
 
         $req = count($entry['request']['cookies']);
         $res = count($entry['response']['cookies']);
