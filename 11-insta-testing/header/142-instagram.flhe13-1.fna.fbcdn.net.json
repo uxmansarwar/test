@@ -1,0 +1,147 @@
+{
+    "url": "https:\/\/instagram.flhe13-1.fna.fbcdn.net\/v\/t72.14836-16\/342319514_357429933993122_6867795880091661844_n.mp4?_nc_cat=101&ccb=1-7&_nc_sid=9a5d50&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfcjJldmV2cDktcjFnZW4ydnA5X3E3MCIsInZpZGVvX2lkIjpudWxsfQ%3D%3D&_nc_ohc=aSaTfp3ENOsAb5yYTWv&_nc_ht=instagram.flhe13-1.fna&oh=00_AfDFasSmX9XMByrUlfa-pzE7BWmci_e2AgRNshsJ52cxrg&oe=6632E50E&bytestart=792&byteend=859",
+    "request": [
+        {
+            "name": ":authority",
+            "value": "instagram.flhe13-1.fna.fbcdn.net"
+        },
+        {
+            "name": ":method",
+            "value": "GET"
+        },
+        {
+            "name": ":path",
+            "value": "\/v\/t72.14836-16\/342319514_357429933993122_6867795880091661844_n.mp4?_nc_cat=101&ccb=1-7&_nc_sid=9a5d50&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLnN0b3J5LmMyLUMzLmRhc2hfcjJldmV2cDktcjFnZW4ydnA5X3E3MCIsInZpZGVvX2lkIjpudWxsfQ%3D%3D&_nc_ohc=aSaTfp3ENOsAb5yYTWv&_nc_ht=instagram.flhe13-1.fna&oh=00_AfDFasSmX9XMByrUlfa-pzE7BWmci_e2AgRNshsJ52cxrg&oe=6632E50E&bytestart=792&byteend=859"
+        },
+        {
+            "name": ":scheme",
+            "value": "https"
+        },
+        {
+            "name": "accept",
+            "value": "*\/*"
+        },
+        {
+            "name": "accept-encoding",
+            "value": "gzip, deflate, br, zstd"
+        },
+        {
+            "name": "accept-language",
+            "value": "en-US,en;q=0.9"
+        },
+        {
+            "name": "origin",
+            "value": "https:\/\/www.instagram.com"
+        },
+        {
+            "name": "priority",
+            "value": "u=1, i"
+        },
+        {
+            "name": "referer",
+            "value": "https:\/\/www.instagram.com\/"
+        },
+        {
+            "name": "sec-ch-ua",
+            "value": "\"Chromium\";v=\"124\", \"Google Chrome\";v=\"124\", \"Not-A.Brand\";v=\"99\""
+        },
+        {
+            "name": "sec-ch-ua-mobile",
+            "value": "?0"
+        },
+        {
+            "name": "sec-ch-ua-platform",
+            "value": "\"Windows\""
+        },
+        {
+            "name": "sec-fetch-dest",
+            "value": "empty"
+        },
+        {
+            "name": "sec-fetch-mode",
+            "value": "cors"
+        },
+        {
+            "name": "sec-fetch-site",
+            "value": "cross-site"
+        },
+        {
+            "name": "user-agent",
+            "value": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/124.0.0.0 Safari\/537.36"
+        }
+    ],
+    "response": [
+        {
+            "name": "accept-ranges",
+            "value": "bytes"
+        },
+        {
+            "name": "access-control-allow-origin",
+            "value": "https:\/\/www.instagram.com"
+        },
+        {
+            "name": "alt-svc",
+            "value": "h3=\":443\"; ma=86400"
+        },
+        {
+            "name": "cache-control",
+            "value": "max-age=1209600, no-transform"
+        },
+        {
+            "name": "content-digest",
+            "value": "adler32=1199641454"
+        },
+        {
+            "name": "content-length",
+            "value": "68"
+        },
+        {
+            "name": "content-type",
+            "value": "video\/mp4"
+        },
+        {
+            "name": "cross-origin-resource-policy",
+            "value": "cross-origin"
+        },
+        {
+            "name": "date",
+            "value": "Sat, 27 Apr 2024 16:01:41 GMT"
+        },
+        {
+            "name": "last-modified",
+            "value": "Sat, 27 Apr 2024 09:02:00 GMT"
+        },
+        {
+            "name": "priority",
+            "value": "u=1,i"
+        },
+        {
+            "name": "thrift_fmhk",
+            "value": "GBDHr2IA5DfHKNAqRdXnrv5xFeq3uckLvFUAAAA="
+        },
+        {
+            "name": "timing-allow-origin",
+            "value": "*"
+        },
+        {
+            "name": "vary",
+            "value": "Origin"
+        },
+        {
+            "name": "x-fb-congestion-signal",
+            "value": "congestion-signal-v2:0;congestion-delay:631;congestion-delay-med:364;congestion-delay-mean:452;congestion-delay-stddev:553;total-samples:532;dispersion-samples:89;num-congested-samples:0;num-single-packet-samples:0;"
+        },
+        {
+            "name": "x-fb-connection-quality",
+            "value": "EXCELLENT; q=0.9, rtt=12, rtx=0, c=40, mss=1232, tbw=14243, tp=29, tpl=0, uplat=3, ullat=-1"
+        },
+        {
+            "name": "x-needle-checksum",
+            "value": "1199641454"
+        },
+        {
+            "name": "x-storage-error-category",
+            "value": "dfs:none;sc_p:206:WSE_NOT_SET"
+        }
+    ]
+}
