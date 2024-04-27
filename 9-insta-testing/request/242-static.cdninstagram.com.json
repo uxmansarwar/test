@@ -1,0 +1,264 @@
+{
+    "_fromCache": "disk",
+    "_initiator": {
+        "type": "script",
+        "stack": {
+            "callFrames": [
+                {
+                    "functionName": "",
+                    "scriptId": "101",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yz\/r\/vSgPJr1eTij.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 148,
+                    "columnNumber": 1563
+                },
+                {
+                    "functionName": "m",
+                    "scriptId": "101",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yz\/r\/vSgPJr1eTij.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 148,
+                    "columnNumber": 907
+                },
+                {
+                    "functionName": "p",
+                    "scriptId": "101",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yz\/r\/vSgPJr1eTij.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 148,
+                    "columnNumber": 2010
+                },
+                {
+                    "functionName": "R",
+                    "scriptId": "101",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yz\/r\/vSgPJr1eTij.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 170,
+                    "columnNumber": 7350
+                },
+                {
+                    "functionName": "S",
+                    "scriptId": "101",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yz\/r\/vSgPJr1eTij.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 170,
+                    "columnNumber": 9100
+                },
+                {
+                    "functionName": "",
+                    "scriptId": "101",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yz\/r\/vSgPJr1eTij.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 170,
+                    "columnNumber": 16955
+                },
+                {
+                    "functionName": "a",
+                    "scriptId": "101",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yz\/r\/vSgPJr1eTij.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 59,
+                    "columnNumber": 328
+                },
+                {
+                    "functionName": "loadResources",
+                    "scriptId": "101",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yz\/r\/vSgPJr1eTij.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 170,
+                    "columnNumber": 16915
+                },
+                {
+                    "functionName": "",
+                    "scriptId": "101",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yz\/r\/vSgPJr1eTij.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 255,
+                    "columnNumber": 283
+                },
+                {
+                    "functionName": "applyWithGuard",
+                    "scriptId": "101",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yz\/r\/vSgPJr1eTij.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 69,
+                    "columnNumber": 10431
+                },
+                {
+                    "functionName": "c",
+                    "scriptId": "101",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yz\/r\/vSgPJr1eTij.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 69,
+                    "columnNumber": 11165
+                },
+                {
+                    "functionName": "O",
+                    "scriptId": "101",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yz\/r\/vSgPJr1eTij.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 228,
+                    "columnNumber": 2291
+                },
+                {
+                    "functionName": "U",
+                    "scriptId": "101",
+                    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yz\/r\/vSgPJr1eTij.js?_nc_x=Ij3Wp8lg5Kz",
+                    "lineNumber": 228,
+                    "columnNumber": 2892
+                }
+            ],
+            "parentId": {
+                "id": "1852",
+                "debuggerId": "9135611302971623040.2063994342623737223"
+            }
+        }
+    },
+    "_priority": "High",
+    "_resourceType": "xhr",
+    "cache": [],
+    "pageref": "page_12",
+    "request": {
+        "method": "GET",
+        "url": "https:\/\/static.cdninstagram.com\/rsrc-translations.php\/v6ifvW4\/yo\/l\/en_US\/T1YNkaBbw0i.js?_nc_x=Ij3Wp8lg5Kz",
+        "httpVersion": "h3",
+        "headers": [
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"124\", \"Google Chrome\";v=\"124\", \"Not-A.Brand\";v=\"99\""
+            },
+            {
+                "name": "Referer",
+                "value": "https:\/\/www.instagram.com\/"
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "User-Agent",
+                "value": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/124.0.0.0 Safari\/537.36"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+            }
+        ],
+        "queryString": [
+            {
+                "name": "_nc_x",
+                "value": "Ij3Wp8lg5Kz"
+            }
+        ],
+        "cookies": [],
+        "headersSize": -1,
+        "bodySize": 0
+    },
+    "response": {
+        "status": 200,
+        "statusText": "",
+        "httpVersion": "h3",
+        "headers": [
+            {
+                "name": "date",
+                "value": "Sat, 27 Apr 2024 15:00:22 GMT"
+            },
+            {
+                "name": "content-encoding",
+                "value": "zstd"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "content-md5",
+                "value": "Xl9Y7Z\/mBwH+2Z2bSsq2Rw=="
+            },
+            {
+                "name": "document-policy",
+                "value": "force-load-at-top"
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=86400"
+            },
+            {
+                "name": "content-length",
+                "value": "427"
+            },
+            {
+                "name": "reporting-endpoints",
+                "value": "permissions_policy=\"https:\/\/www.facebook.com\/ajax\/browser_error_reports\/\""
+            },
+            {
+                "name": "x-fb-connection-quality",
+                "value": "GOOD; q=0.7, rtt=57, rtx=934, c=95, mss=1232, tbw=2654042, tp=2188, tpl=934, uplat=0, ullat=-1"
+            },
+            {
+                "name": "x-fb-debug",
+                "value": "EO5ezfdhGgmTEPdrX4WfqEqMjezmoTHpLpd7cHaX37+\/5WVJzL\/m5vxhMAOk1wnCGDEzBpfDqJ9+bhm+TLkUeA=="
+            },
+            {
+                "name": "last-modified",
+                "value": "Mon, 01 Jan 2001 08:00:00 GMT"
+            },
+            {
+                "name": "vary",
+                "value": "Origin"
+            },
+            {
+                "name": "report-to",
+                "value": "{\"max_age\":21600,\"endpoints\":[{\"url\":\"https:\\\/\\\/www.facebook.com\\\/ajax\\\/browser_error_reports\\\/\"}],\"group\":\"permissions_policy\"}"
+            },
+            {
+                "name": "content-type",
+                "value": "application\/json"
+            },
+            {
+                "name": "access-control-allow-origin",
+                "value": "https:\/\/www.instagram.com"
+            },
+            {
+                "name": "origin-agent-cluster",
+                "value": "?0"
+            },
+            {
+                "name": "cache-control",
+                "value": "public,max-age=31536000,immutable"
+            },
+            {
+                "name": "permissions-policy",
+                "value": "accelerometer=(), attribution-reporting=(), autoplay=(), bluetooth=(), camera=(), ch-device-memory=(), ch-downlink=(), ch-dpr=(), ch-ect=(), ch-rtt=(), ch-save-data=(), ch-ua-arch=(), ch-ua-bitness=(), ch-viewport-height=(), ch-viewport-width=(), ch-width=(), clipboard-read=(), clipboard-write=(), display-capture=(), encrypted-media=(), fullscreen=(self), gamepad=(), geolocation=(), gyroscope=(), hid=(), idle-detection=(), keyboard-map=(), local-fonts=(), magnetometer=(), microphone=(), midi=(), otp-credentials=(), payment=(), picture-in-picture=(), publickey-credentials-get=(), screen-wake-lock=(), serial=(), usb=(), window-management=(), xr-spatial-tracking=();report-to=\"permissions_policy\""
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "priority",
+                "value": "u=1,i"
+            },
+            {
+                "name": "expires",
+                "value": "Tue, 22 Apr 2025 17:45:16 GMT"
+            }
+        ],
+        "cookies": [],
+        "content": {
+            "size": 672,
+            "mimeType": "application\/json",
+            "text": "{\"translations\":{\"cCrSTii9yXy\":\"Close\",\"B_Vsfo7fMeT\":\"Instagram\",\"q9Rq8wRNsNk\":\"Use Instagram on a mobile device\",\"Bz2_EhB-9MY\":\"Family Center features like supervision are available on iOS and Android devices. {Learn more}\",\"PxMRPJsd6V9\":\"Learn More\",\"uTskMV1sxoc\":\"{caller_name} is calling\",\"GQ_YG69KS9I\":\"Incoming video call...\",\"oOTeWHPkR__\":\"Incoming audio call...\",\"gplkkZtPi7i\":\"End-to-end encrypted\",\"O5S2wYWhuyi\":\"Messages and calls are secured with end-to-end encryption.\"},\"virtual_modules\":[\"CometToast.react$fbt_virtual\",\"PolarisSupervisionModal.react$fbt_virtual\",\"PolarisIncomingCallBlinkingTitle.react$fbt_virtual\",\"PolarisIncomingCall.react$fbt_virtual\"]}"
+        },
+        "redirectURL": "",
+        "headersSize": -1,
+        "bodySize": 0,
+        "_transferSize": 0,
+        "_error": null
+    },
+    "serverIPAddress": "157.240.227.63",
+    "startedDateTime": "2024-04-27T15:01:03.701Z",
+    "time": 2.650000000357977,
+    "timings": {
+        "blocked": 1.3329999999311986,
+        "dns": -1,
+        "ssl": -1,
+        "connect": -1,
+        "send": 0,
+        "wait": 0.6109999997081468,
+        "receive": 0.7060000007186318,
+        "_blocked_queueing": 1.1979999999311985
+    }
+}

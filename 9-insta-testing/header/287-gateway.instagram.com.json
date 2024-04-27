@@ -1,0 +1,71 @@
+{
+    "url": "wss:\/\/gateway.instagram.com\/ws\/realtime?x-dgw-appid=936619743392459&x-dgw-appversion=0&x-dgw-authtype=6%3A0&x-dgw-version=5&x-dgw-uuid=0&x-dgw-tier=prod&x-dgw-app-stream-group=group1",
+    "request": [
+        {
+            "name": "Pragma",
+            "value": "no-cache"
+        },
+        {
+            "name": "Origin",
+            "value": "https:\/\/www.instagram.com"
+        },
+        {
+            "name": "Accept-Encoding",
+            "value": "gzip, deflate, br, zstd"
+        },
+        {
+            "name": "Host",
+            "value": "gateway.instagram.com"
+        },
+        {
+            "name": "Accept-Language",
+            "value": "en-US,en;q=0.9"
+        },
+        {
+            "name": "Sec-WebSocket-Key",
+            "value": "9bVCF4WRpW9rGvg9edeSzg=="
+        },
+        {
+            "name": "User-Agent",
+            "value": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/124.0.0.0 Safari\/537.36"
+        },
+        {
+            "name": "Upgrade",
+            "value": "websocket"
+        },
+        {
+            "name": "Cache-Control",
+            "value": "no-cache"
+        },
+        {
+            "name": "Connection",
+            "value": "Upgrade"
+        },
+        {
+            "name": "Sec-WebSocket-Version",
+            "value": "13"
+        },
+        {
+            "name": "Sec-WebSocket-Extensions",
+            "value": "permessage-deflate; client_max_window_bits"
+        }
+    ],
+    "response": [
+        {
+            "name": "Date",
+            "value": "Sat, 27 Apr 2024 15:01:06 GMT"
+        },
+        {
+            "name": "Sec-WebSocket-Accept",
+            "value": "Yry7uAoXfL\/qVHPENEb1EflBV0k="
+        },
+        {
+            "name": "Connection",
+            "value": "Upgrade"
+        },
+        {
+            "name": "Upgrade",
+            "value": "websocket"
+        }
+    ]
+}

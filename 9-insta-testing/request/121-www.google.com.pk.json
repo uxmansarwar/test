@@ -1,0 +1,216 @@
+{
+    "_initiator": {
+        "type": "parser",
+        "url": "https:\/\/www.instagram.com\/paid_ads\/generete_pixels\/?",
+        "lineNumber": 0
+    },
+    "_priority": "Medium",
+    "_resourceType": "image",
+    "cache": [],
+    "connection": "14656",
+    "pageref": "page_10",
+    "request": {
+        "method": "GET",
+        "url": "https:\/\/www.google.com.pk\/pagead\/1p-user-list\/858885276\/?value=1.00&currency_code=USD&label=qGVACPj3of0DEJyZxpkD&guid=ON&script=0&is_vtc=1&cid=CAQSGwB7FLtqM0hDOJnXf5Ik1bUalozBii1SikF1vA&random=403336543&ipr=y",
+        "httpVersion": "http\/2.0",
+        "headers": [
+            {
+                "name": ":authority",
+                "value": "www.google.com.pk"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "\/pagead\/1p-user-list\/858885276\/?value=1.00&currency_code=USD&label=qGVACPj3of0DEJyZxpkD&guid=ON&script=0&is_vtc=1&cid=CAQSGwB7FLtqM0hDOJnXf5Ik1bUalozBii1SikF1vA&random=403336543&ipr=y"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "image\/avif,image\/webp,image\/apng,image\/svg+xml,image\/*,*\/*;q=0.8"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br, zstd"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "priority",
+                "value": "u=2, i"
+            },
+            {
+                "name": "referer",
+                "value": "https:\/\/www.instagram.com\/"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"124\", \"Google Chrome\";v=\"124\", \"Not-A.Brand\";v=\"99\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "image"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "no-cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "cross-site"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/124.0.0.0 Safari\/537.36"
+            },
+            {
+                "name": "x-client-data",
+                "value": "CJO2yQEIorbJAQipncoBCIqMywEIk6HLAQjxmM0BCIWgzQEY2IbOAQ=="
+            }
+        ],
+        "queryString": [
+            {
+                "name": "value",
+                "value": "1.00"
+            },
+            {
+                "name": "currency_code",
+                "value": "USD"
+            },
+            {
+                "name": "label",
+                "value": "qGVACPj3of0DEJyZxpkD"
+            },
+            {
+                "name": "guid",
+                "value": "ON"
+            },
+            {
+                "name": "script",
+                "value": "0"
+            },
+            {
+                "name": "is_vtc",
+                "value": "1"
+            },
+            {
+                "name": "cid",
+                "value": "CAQSGwB7FLtqM0hDOJnXf5Ik1bUalozBii1SikF1vA"
+            },
+            {
+                "name": "random",
+                "value": "403336543"
+            },
+            {
+                "name": "ipr",
+                "value": "y"
+            }
+        ],
+        "cookies": [],
+        "headersSize": -1,
+        "bodySize": 0
+    },
+    "response": {
+        "status": 200,
+        "statusText": "",
+        "httpVersion": "http\/2.0",
+        "headers": [
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+            },
+            {
+                "name": "cache-control",
+                "value": "no-cache, no-store, must-revalidate"
+            },
+            {
+                "name": "content-length",
+                "value": "42"
+            },
+            {
+                "name": "content-security-policy",
+                "value": "script-src 'none'; object-src 'none'"
+            },
+            {
+                "name": "content-type",
+                "value": "image\/gif"
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "date",
+                "value": "Sat, 27 Apr 2024 15:00:26 GMT"
+            },
+            {
+                "name": "expires",
+                "value": "Fri, 01 Jan 1990 00:00:00 GMT"
+            },
+            {
+                "name": "p3p",
+                "value": "policyref=\"https:\/\/www.googleadservices.com\/pagead\/p3p.xml\", CP=\"NOI DEV PSA PSD IVA IVD OTP OUR OTR IND OTC\""
+            },
+            {
+                "name": "pragma",
+                "value": "no-cache"
+            },
+            {
+                "name": "server",
+                "value": "cafe"
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "x-xss-protection",
+                "value": "0"
+            }
+        ],
+        "cookies": [],
+        "content": {
+            "size": 42,
+            "mimeType": "image\/gif",
+            "text": "R0lGODlhAQABAIAAAAAAAP\/\/\/yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+            "encoding": "base64"
+        },
+        "redirectURL": "",
+        "headersSize": -1,
+        "bodySize": -1,
+        "_transferSize": 455,
+        "_error": null
+    },
+    "serverIPAddress": "142.250.181.99",
+    "startedDateTime": "2024-04-27T15:00:26.980Z",
+    "time": 464.0070000002499,
+    "timings": {
+        "blocked": 57.14299999977386,
+        "dns": 0.08400000000000318,
+        "ssl": 173.44,
+        "connect": 222.05200000000002,
+        "send": 0.7729999999999677,
+        "wait": 168.0740000002129,
+        "receive": 15.881000000263157,
+        "_blocked_queueing": 0.7649999997738632
+    }
+}
