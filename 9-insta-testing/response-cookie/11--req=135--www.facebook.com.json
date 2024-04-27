@@ -1,0 +1,16 @@
+{
+    "url": "https:\/\/www.facebook.com\/instagram\/login_sync\/update\/",
+    "request": [],
+    "response": [
+        {
+            "name": "fr",
+            "value": "0Qh0oZYagdImqd98z.AWWBmYT_ZPkEij77GHtc571ESHw.BmLRMN..AAA.0.0.BmLRMN.AWXSQVPIbTY",
+            "path": "\/",
+            "domain": ".facebook.com",
+            "expires": "2024-07-26T15:00:30.226Z",
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        }
+    ]
+}
