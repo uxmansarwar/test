@@ -1,0 +1,75 @@
+{
+    "url": "wss:\/\/edge-chat.instagram.com\/chat?sid=7901422244855807&cid=77d14591-0f12-43ab-8dfe-46e4609d3218",
+    "request": [
+        {
+            "name": "Pragma",
+            "value": "no-cache"
+        },
+        {
+            "name": "Origin",
+            "value": "https:\/\/www.instagram.com"
+        },
+        {
+            "name": "Accept-Encoding",
+            "value": "gzip, deflate, br, zstd"
+        },
+        {
+            "name": "Host",
+            "value": "edge-chat.instagram.com"
+        },
+        {
+            "name": "Accept-Language",
+            "value": "en-US,en;q=0.9"
+        },
+        {
+            "name": "Sec-WebSocket-Key",
+            "value": "mAbkpYtaaF4C8VJxNtGJgw=="
+        },
+        {
+            "name": "User-Agent",
+            "value": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/124.0.0.0 Safari\/537.36"
+        },
+        {
+            "name": "Upgrade",
+            "value": "websocket"
+        },
+        {
+            "name": "Cache-Control",
+            "value": "no-cache"
+        },
+        {
+            "name": "Connection",
+            "value": "Upgrade"
+        },
+        {
+            "name": "Sec-WebSocket-Version",
+            "value": "13"
+        },
+        {
+            "name": "Sec-WebSocket-Extensions",
+            "value": "permessage-deflate; client_max_window_bits"
+        }
+    ],
+    "response": [
+        {
+            "name": "Date",
+            "value": "Sat, 27 Apr 2024 16:01:05 GMT"
+        },
+        {
+            "name": "Sec-WebSocket-Accept",
+            "value": "8eEA4OfLcivtmiRVFsrnHZxN9bQ="
+        },
+        {
+            "name": "Connection",
+            "value": "Upgrade"
+        },
+        {
+            "name": "sec-websocket-extensions",
+            "value": "permessage-deflate"
+        },
+        {
+            "name": "Upgrade",
+            "value": "websocket"
+        }
+    ]
+}

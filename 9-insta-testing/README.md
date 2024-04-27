@@ -6,8 +6,5 @@ reserve network request in chrome dev tools
     3. you are now on https://www.instagram.com with login session
     4. next go to https://www.instagram.com/stories/superbon_banchamek in same tab
     5. next go to https://www.instagram.com/superbon_banchamek in same tab
-    6. remove all network tab
-    7. again goto https://www.instagram.com/superbon_banchamek
-    8. save HAR
  
  
