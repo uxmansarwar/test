@@ -1,0 +1,1 @@
+{"translations":{"ePItbjSnMcH":"Image from sponsored post"},"virtual_modules":["PolarisSponsoredPersistentCTAThumbnail.react$fbt_virtual"]}

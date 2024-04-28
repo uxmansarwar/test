@@ -1,0 +1,1 @@
+{"translations":{"6pmWQbO1xBr":"See more","65y6vsno5QG":"Story loading placeholder","SkrEOF7TPUU":"Stories","wLBVljvWo_D":"Previous","EIdmgfpCblf":"Next"},"virtual_modules":["PolarisDesktopStoriesFooterCTA.react$fbt_virtual","PolarisDesktopStoriesV2ReelPreview.react$fbt_virtual","PolarisDesktopStoriesPage.react$fbt_virtual","PolarisDesktopStoriesV2ReelViewer.react$fbt_virtual"]}

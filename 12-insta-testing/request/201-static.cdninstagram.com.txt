@@ -1,0 +1,1 @@
+{"translations":{"2k--O48PVwS":"Loading suggestions\u2026","Ze8enBotJFp":"Suggested for you"},"virtual_modules":["PolarisFollowChainingList.next.react$fbt_virtual","PolarisProfileSuggestedUsers.next.react$fbt_virtual"]}

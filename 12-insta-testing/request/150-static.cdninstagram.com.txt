@@ -1,0 +1,1 @@
+{"translations":{"JSpgjWyqieT":"Add from saved","zeM1q44M6uY":"Edit collection","Yi7-KhMq5bo":"Delete collection","apOmCY61uLx":"New collection","bodQHorjhab":"Collection name","-_5yl2lvOFo":"Saved","Qqjz35H9izB":"Saved collections"},"virtual_modules":["PolarisSavedCollectionStrings$fbt_virtual"]}

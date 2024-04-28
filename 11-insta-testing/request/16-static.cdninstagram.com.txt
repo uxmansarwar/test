@@ -1,0 +1,1 @@
+{"translations":{"HIUf8wVYt2h":"Navigate to next item","5v8n2pcAWk6":"Navigate to previous item","ZSUsRuRXnB_":"No recent searches.","FMGq1f-0XX4":"Clear all","1xxA_I7cGPF":"Recent"},"virtual_modules":["PolarisListWithKeyCommands.react$fbt_virtual","PolarisSearchNullStateSection.next.react$fbt_virtual","PolarisSearchNullState.next.react$fbt_virtual"]}
