@@ -1,0 +1,1 @@
+{"data":{"xdt_api__v1__web__accounts__get_encrypted_credentials":{"fr":"ASD1lp6kkyT9uU0a7diOB6H592at5QFCi9_hqaXJ_tBKXfRjirZAsWtV2yDwDpOxSyP3v5Uua_xZpUxvHCYv2_Z3HaIv4_DC2ROv-WQYu6GUZLPJvAGXG0MHVUgVmLRAUjYnow"}},"extensions":{"is_final":true},"status":"ok"}

@@ -1,0 +1,75 @@
+{
+    "request": [
+        {
+            "name": "sb",
+            "value": "Ms4MZjMjpB-f8Igovuc91zRs",
+            "path": "\/",
+            "domain": ".facebook.com",
+            "expires": "2025-05-08T03:36:31.231Z",
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "datr",
+            "value": "Ms4MZkIvLlHOh2mFHDUnM09U",
+            "path": "\/",
+            "domain": ".facebook.com",
+            "expires": "2025-05-08T03:34:10.585Z",
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "c_user",
+            "value": "100013303621705",
+            "path": "\/",
+            "domain": ".facebook.com",
+            "expires": "2025-04-21T06:14:25.715Z",
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "usida",
+            "value": "eyJ2ZXIiOjEsImlkIjoiQXNic2xhMHU2eXg4MyIsInRpbWUiOjE3MTI4NjI5MDd9",
+            "path": "\/",
+            "domain": ".facebook.com",
+            "expires": "1969-12-31T23:59:59.000Z",
+            "httpOnly": false,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "ps_n",
+            "value": "1",
+            "path": "\/",
+            "domain": ".facebook.com",
+            "expires": "2025-05-26T06:14:21.287Z",
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "xs",
+            "value": "45%3ALmdPctOt2aBgKA%3A2%3A1712115390%3A-1%3A5826%3A%3AAcVwU3xAaBVGKGz4Y7NWs_WnpG5varwFDSDtq7SC9e8",
+            "path": "\/",
+            "domain": ".facebook.com",
+            "expires": "2025-04-21T06:14:25.715Z",
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        },
+        {
+            "name": "fr",
+            "value": "1MlbxE1oqwnXZcScj.AWVphHZw50JZsi96ml2TgsJ9wQI.BmJK7B..AAA.0.0.BmJK7B.AWVqCFPSz4U",
+            "path": "\/",
+            "domain": ".facebook.com",
+            "expires": "2024-07-20T06:14:25.715Z",
+            "httpOnly": true,
+            "secure": true,
+            "sameSite": "None"
+        }
+    ],
+    "response": []
+}

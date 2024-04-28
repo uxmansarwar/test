@@ -1,0 +1,1 @@
+{"translations":{"vWGiSQVQct8":"See Post","Hmd96IUCrAZ":"Visit link"},"virtual_modules":["PolarisStoriesV3FeedMediaStickerPopover.react$fbt_virtual","PolarisStoriesV3LinkStickerPopover.react$fbt_virtual"]}
