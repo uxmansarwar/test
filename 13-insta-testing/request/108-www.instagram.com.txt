@@ -1,0 +1,1 @@
+for (;;);{"hrp":{"hsrp":{"hblp":{"consistency":{"rev":1013283145},"rsrcMap":{"+fp8kCt":{"type":"js","src":"https://static.cdninstagram.com/rsrc.php/v3/yj/r/UCXp16mKc1m.js?_nc_x=Ij3Wp8lg5Kz","c":1,"p":":182","m":"1013283145_main"}}}},"jsmods":{"require":[["LSStoryContactSyncFromBucket"]]},"allResources":["+fp8kCt"]},"serverGenTime":16}
