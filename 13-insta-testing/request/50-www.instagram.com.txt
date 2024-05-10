@@ -1,0 +1,1 @@
+{"data":{"xdt_notification_badge":{"badge_count":{"total_count":2,"activity_badge_counts":{"comments":null,"likes":null,"relationships":2,"usertags":null}}}},"extensions":{"is_final":true}}

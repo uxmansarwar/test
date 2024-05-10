@@ -1,0 +1,119 @@
+{
+    "url": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yy\/r\/uk6-vmGVJGH.js?_nc_x=Ij3Wp8lg5Kz",
+    "request": [
+        {
+            "name": "sec-ch-ua",
+            "value": "\"Chromium\";v=\"124\", \"Google Chrome\";v=\"124\", \"Not-A.Brand\";v=\"99\""
+        },
+        {
+            "name": "Referer",
+            "value": "https:\/\/www.facebook.com\/"
+        },
+        {
+            "name": "Origin",
+            "value": "https:\/\/www.facebook.com"
+        },
+        {
+            "name": "sec-ch-ua-mobile",
+            "value": "?0"
+        },
+        {
+            "name": "User-Agent",
+            "value": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/124.0.0.0 Safari\/537.36"
+        },
+        {
+            "name": "sec-ch-ua-platform",
+            "value": "\"Windows\""
+        }
+    ],
+    "response": [
+        {
+            "name": "date",
+            "value": "Sun, 05 May 2024 13:15:18 GMT"
+        },
+        {
+            "name": "content-encoding",
+            "value": "zstd"
+        },
+        {
+            "name": "x-content-type-options",
+            "value": "nosniff"
+        },
+        {
+            "name": "content-md5",
+            "value": "d76PSDOuyGLOUKg2XEY9Sw=="
+        },
+        {
+            "name": "document-policy",
+            "value": "force-load-at-top"
+        },
+        {
+            "name": "cross-origin-resource-policy",
+            "value": "cross-origin"
+        },
+        {
+            "name": "alt-svc",
+            "value": "h3=\":443\"; ma=86400"
+        },
+        {
+            "name": "content-length",
+            "value": "3797"
+        },
+        {
+            "name": "reporting-endpoints",
+            "value": "permissions_policy=\"https:\/\/www.xx.facebook.com\/ajax\/browser_error_reports\/\""
+        },
+        {
+            "name": "x-fb-connection-quality",
+            "value": "GOOD; q=0.7, rtt=110, rtx=0, c=33, mss=1232, tbw=36815, tp=41, tpl=0, uplat=4, ullat=-1"
+        },
+        {
+            "name": "x-fb-debug",
+            "value": "8xfcL04Ur5Ro4g9+H2TlbxOrBAJpdktODu4AWchH0oosBi5+8Ac9z8XHGupIkgCXInAusDL6LyIUBPlbu9V6zg=="
+        },
+        {
+            "name": "last-modified",
+            "value": "Mon, 01 Jan 2001 08:00:00 GMT"
+        },
+        {
+            "name": "vary",
+            "value": "Origin"
+        },
+        {
+            "name": "report-to",
+            "value": "{\"max_age\":21600,\"endpoints\":[{\"url\":\"https:\\\/\\\/www.xx.facebook.com\\\/ajax\\\/browser_error_reports\\\/\"}],\"group\":\"permissions_policy\"}"
+        },
+        {
+            "name": "content-type",
+            "value": "application\/x-javascript; charset=utf-8"
+        },
+        {
+            "name": "access-control-allow-origin",
+            "value": "https:\/\/www.facebook.com"
+        },
+        {
+            "name": "origin-agent-cluster",
+            "value": "?0"
+        },
+        {
+            "name": "cache-control",
+            "value": "public,max-age=31536000,immutable"
+        },
+        {
+            "name": "permissions-policy",
+            "value": "accelerometer=(), attribution-reporting=(), autoplay=(), bluetooth=(), camera=(), ch-device-memory=(), ch-downlink=(), ch-dpr=(), ch-ect=(), ch-rtt=(), ch-save-data=(), ch-ua-arch=(), ch-ua-bitness=(), ch-viewport-height=(), ch-viewport-width=(), ch-width=(), clipboard-read=(), clipboard-write=(), display-capture=(), encrypted-media=(), fullscreen=(self), gamepad=(), geolocation=(), gyroscope=(), hid=(), idle-detection=(), keyboard-map=(), local-fonts=(), magnetometer=(), microphone=(), midi=(), otp-credentials=(), payment=(), picture-in-picture=(), publickey-credentials-get=(), screen-wake-lock=(), serial=(), usb=(), window-management=(), xr-spatial-tracking=();report-to=\"permissions_policy\""
+        },
+        {
+            "name": "timing-allow-origin",
+            "value": "*"
+        },
+        {
+            "name": "priority",
+            "value": "u=1"
+        },
+        {
+            "name": "expires",
+            "value": "Sun, 27 Apr 2025 16:01:00 GMT"
+        }
+    ]
+}

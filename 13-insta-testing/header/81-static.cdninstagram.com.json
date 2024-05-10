@@ -1,0 +1,103 @@
+{
+    "url": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/y8\/r\/ZWR9C7_JdnP.png",
+    "request": [
+        {
+            "name": "sec-ch-ua",
+            "value": "\"Chromium\";v=\"124\", \"Google Chrome\";v=\"124\", \"Not-A.Brand\";v=\"99\""
+        },
+        {
+            "name": "Referer",
+            "value": "https:\/\/static.cdninstagram.com\/rsrc.php\/v3\/yP\/l\/0,cross\/RF3DjH0PwUBhR8QTcwjEhj.css?_nc_x=Ij3Wp8lg5Kz"
+        },
+        {
+            "name": "sec-ch-ua-mobile",
+            "value": "?0"
+        },
+        {
+            "name": "User-Agent",
+            "value": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/124.0.0.0 Safari\/537.36"
+        },
+        {
+            "name": "sec-ch-ua-platform",
+            "value": "\"Windows\""
+        }
+    ],
+    "response": [
+        {
+            "name": "date",
+            "value": "Sun, 05 May 2024 13:14:58 GMT"
+        },
+        {
+            "name": "x-content-type-options",
+            "value": "nosniff"
+        },
+        {
+            "name": "content-md5",
+            "value": "FMj7wC9\/n+6ewyU3czcOYw=="
+        },
+        {
+            "name": "document-policy",
+            "value": "force-load-at-top"
+        },
+        {
+            "name": "cross-origin-resource-policy",
+            "value": "cross-origin"
+        },
+        {
+            "name": "alt-svc",
+            "value": "h3=\":443\"; ma=86400"
+        },
+        {
+            "name": "content-length",
+            "value": "56020"
+        },
+        {
+            "name": "reporting-endpoints",
+            "value": "permissions_policy=\"https:\/\/www.facebook.com\/ajax\/browser_error_reports\/\""
+        },
+        {
+            "name": "x-fb-connection-quality",
+            "value": "UNKNOWN; q=-1, rtt=-1, rtx=0, c=13, mss=1348, tbw=2749, tp=-1, tpl=-1, uplat=0, ullat=-1"
+        },
+        {
+            "name": "x-fb-debug",
+            "value": "CdC6xCVKVg58uR6k9MMl6NAr9pEnYhcKPEH3iY4h6S08CRWyMBMU0+F0JjBHeCiyJpLfoJCMV9Mx14U9kYxZNg=="
+        },
+        {
+            "name": "last-modified",
+            "value": "Mon, 01 Jan 2001 08:00:00 GMT"
+        },
+        {
+            "name": "report-to",
+            "value": "{\"max_age\":21600,\"endpoints\":[{\"url\":\"https:\\\/\\\/www.facebook.com\\\/ajax\\\/browser_error_reports\\\/\"}],\"group\":\"permissions_policy\"}"
+        },
+        {
+            "name": "content-type",
+            "value": "image\/png"
+        },
+        {
+            "name": "access-control-allow-origin",
+            "value": "*"
+        },
+        {
+            "name": "origin-agent-cluster",
+            "value": "?0"
+        },
+        {
+            "name": "cache-control",
+            "value": "public,max-age=31536000,immutable"
+        },
+        {
+            "name": "permissions-policy",
+            "value": "accelerometer=(), attribution-reporting=(), autoplay=(), bluetooth=(), camera=(), ch-device-memory=(), ch-downlink=(), ch-dpr=(), ch-ect=(), ch-rtt=(), ch-save-data=(), ch-ua-arch=(), ch-ua-bitness=(), ch-viewport-height=(), ch-viewport-width=(), ch-width=(), clipboard-read=(), clipboard-write=(), display-capture=(), encrypted-media=(), fullscreen=(self), gamepad=(), geolocation=(), gyroscope=(), hid=(), idle-detection=(), keyboard-map=(), local-fonts=(), magnetometer=(), microphone=(), midi=(), otp-credentials=(), payment=(), picture-in-picture=(), publickey-credentials-get=(), screen-wake-lock=(), serial=(), usb=(), window-management=(), xr-spatial-tracking=();report-to=\"permissions_policy\""
+        },
+        {
+            "name": "timing-allow-origin",
+            "value": "*"
+        },
+        {
+            "name": "expires",
+            "value": "Fri, 25 Apr 2025 23:43:28 GMT"
+        }
+    ]
+}
